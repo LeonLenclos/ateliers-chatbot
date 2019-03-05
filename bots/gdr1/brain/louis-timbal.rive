@@ -1,0 +1,243 @@
+// louis timbal
+// v2
+//Guillemot Chloé, Doucet Manon, Raynaud Fanchon, 3°2, collège Louis Timbal
+
+//- code qui permet d'avoir des informations sur la vie de Louis Timbal 
+
+
+
+// Qui est Louis Timbal ?
+
++ [*] louis timbal [*]
+- Je sais qui est louis timbal, tu as des questions sur lui ?
+
++ qui est louis timbal
+- c'est un ancien professeur d'histoire géographie à Bellac, qui à donner son nom au collège louis timbal de Châteauponsac
+
++ qui etait louis timbal
+@ qui est louis timbal
+
++ louis timbal qui est-il
+@ qui est louis timbal
+
++ louis timbal
+@ qui est louis timbal
+
+
+
+// Quelles sont les dates de vie et de morts de Louis Timbal
+
+
++quelles sont les dates de naissance et de mort de louis timbal
+- Il est née le 26 mai 1885 à Châteauponsac et il est mort le 29 octobre 1955 à Châteauponsac
+
++ quelles sont les dates de mort et de naissance de louis timbal
+@ quelles sont les dates de naissance et de mort de louis timbal 
+
++ ou est ne louis timbal et ou est-il mort
+- à Châteauponsac
+ 
++ ou est mort louis timbal et ou est-il ne
+- à Châteauponsac
+
++ quand est ne louis timbal
+- le 26 mai 1885
+
++ quand est mort louis timbal
+-29 octobre 1955
+
+
+//Questions sur le lieu de naissance de louis timbal et son lieu de mort 
+
+
++ ou est ne louis timbal
+-à Châteauponsac
+
++ ou est mort louis timbal
+@ où est-il né
+
++ louis timbal est ne ou
+@ où est né louis timbal
+
++ louis timbal est mort ou
+@ où est mort  louis timbal
+
++ ou est-il ne
+% [*] louis timbal [*]
+- il est né à châteauponsac
+
++ ou est-il mort
+% [*] louis timbal [*]
+- il est mort à châteauponsac
+
+// dates de vie et de mort de Louis Timbal 
+
++ quand est-il ne
+% [*] louis timbal [*]
+- il est né le 26 mai 1885
+
++ quand est-il mort
+% [*] louis timbal [*]
+-il est mort le 29 octobre 1955
+
++ quand est ne et mort louis timbal
+- Il est né le 26 mai 1885 et il est mort le 29 octobre 1955 
+
++ quand est mort et ne louis timbal
+- il est mort le 29 octobre et il est né le 26 mai 1885
+
+
+
+
+
+
+
+// vie de famille de louis timbal 
+
+
++ [*] (a t-il eu des enfants| avait-il des enfants)
+% [*] louis timbal [*]
+- non, louis timbal n'a pas d'enfants
+
+
++ louis timbal est vivant 
+- Non, il est mort le 29 octobre 1955...
+
++ louis timbal est mort 
+- Oui, il est mort le 29 octobre 1955...
+
++ il est vivant
+% [*] louis timbal [*]
+-Non, il est mort le 29 octobre 1955...
+
++ il est mort
+% [*] louis timbal [*]
+-Oui, il est mort le 29 octobre 1955...
+
++ est-il mort
+% [*] louis timbal [*]
+- Oui, il est mort le 29 octobre 1955...
+
++ est-il vivant 
+% [*] louis timbal [*]
+- Non, il est mort le 29 octobre 1955...
+
+
++ [*] (a t-il ete marie|etait-il marie)
+% [*] louis timbal [*]
+- oui, deux fois 
+
++ louis timbal a t-il ete marie
+- oui, deux fois
+
++ louis timbal etait-il marie
+-oui, deux fois 
+
++ [*] (a qui louis timbal a t-il ete marie| a ete marie a qui)
+% [*] louis timbal [*]
+-  louis timbal a était marié a  Marie Anne Rambault et à Marie Marchadier
+
+
+
+
+
+
+
+// le collège louis timbal 
+
++ depuis quand le college existe 
+- le college existe depuis 52 ans 
+
++ le college existe depuis quand 
+- le college existe depuis 52 ans 
+
++ depuis combien de temps le college existe 
+- le college existe depuis 52 ans
+ 
++ le college existe depuis combien de temps
+- le college existe depuis 52 ans 
+
++ ca fait combien de temps que le college existe 
+- le college existe depuis 52 ans 
+
++ le college louis timbal existe depuis quand 
+- le college existe depuis 52 ans 
+
++le college louis timbal existe depuis combien de temps
+- le college existe depuis 52 ans 
+
+
+
+
+
+
+
+// Bellac 
+
++ c'est quoi bellac
+- c'est une ville , mais si tu veux plus de détails tu peux aller voir : http://www.bellac.fr/
+
++ ou est bellac 
+- http://www.bellac.fr/
+
+
+
+
+// Directeurs du collège
+
+
++ qui a était le premier directeur du college louis timbal
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
++ qui est son premier directeur
+% [*] louis timbal [*]
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
++ quel etait son premier directeur
+% [*] louis timbal [*]
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
++ qui etait son premier directeur
+% [*] louis timbal [*]
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
+
++ le college louis timbal a eu combien de directeur
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
++ combien le college louis timbal a-t-il eu de directeur
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+
++ le college a eu combien de directeur
+- il faut que tu demandes a M.Pruchon , le professeur d'histoire-géographie du collège Louis Timbal.
+ endroit 
+
+
+
+
+
+// lieu du collège 
+
++ le college a toujours etait en meme endroit 
+- non
+
++ le college a toujours etait en meme emplacement
+- non
+
+
+
+
+
++ *
+% [*] louis timbal [*]
+- Et toi tu penses quoi de Louis Timbal ?
+
++ * {weight=10}
+% et toi tu penses quoi de louis timbal 
+- ok
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+// jeux  vidéos
+// V5
+// les geeks, pierre-jean ; Kilian ; matys, 3eme2, collège louis timbal
+
+//question sur jeux vidéos
+
++ (ouai|oui|ouaip|ouais|yep)
+- ok
+
++ (ouai|oui|ouaip|ouais|yep) tu joues a quoi
+- je joue a PUBG, CS:GO et League of Legends
+
++ quel est le jeu le plus stream
+- c'est League of Legends
+
++ [*]jeux videos[*]
+- oui je suis un gamer et toi
+
++ quel est le jeu video le plus populaire de 2018
+- le jeu vidéo le plus populaire de 2018 est Fortnite
+
++ quel est ton jeu video prefere
+- mon jeu vidéo préféré est Minecraft
+- mon jeu vidéo préféré est Tetris 99
+
++ [*]fortnite[*]
+- Error 404😝 
+
++ [*] joues [*] jeux videos [*]
+- oui je suis un gamer et toi
+
++ (non|non pas trop)
+% oui je suis un gamer et toi
+- ok pas grave
+
++ (moi j aime|moi jaime|je prefere|moi je prefere)[*]
+-j'aime aussi
+
++ cest quoi minecraft
+- tiens un lien vers le wiki https://minecraft-fr.gamepedia.com/Minecraft_Wiki qui t'expliquera le jeu
+- c'est un jeu de construction et d'aventure en 3d cubique
+
++ [*]meilleurs jeux[*]
+- il y a world of tanks, minecraft, PUBG, ARK: survival Evolved, Subnautica, Fallout 4 et Terraria
+
++ [*]pires jeux[*]
+- Fortnite, Fallout 76
