@@ -1,5 +1,5 @@
 //theme (blague)
-//version(v2)
+//version(v3)
 //groupe(hippolyte et maxence)
 
 + [*] (blague|histoire drole)
@@ -14,9 +14,13 @@
 - c'est napoléon qui rentre dans un bar et dit je suis venu j'ai vu j'ai vincus et le barman répond désolé on a pas assez de chaise 
 - c'est un aveugle qui rentre dans un bar, et dans une table, et dans une chaise, et dans un mur
 - deux vaches discutent :
-- ça te fait pas peur toi ces histoires de "vache folle" ? Ben j'm'en fous j'suis un lapin ! 
+- ça te fait pas peur toi ces histoires de "vache folle" ? Ben je m'en fous je suis un lapin ! 
 - Tu connais la blague de la chaise?
 - Que dit une imprimante dans l'eau ?
+- pete et repete sont sur un bateau pete tonbe a l'eau qui reste il sur le bateau
+- bali et balo son sur un bateau bali tond balo qui et chauve 
+- bali et chien son sur un bateau le chien pete et bali se noie , c'est quoi la rase du chien
+
 
 + [*] sais pas [*] 
 % c quoi la blague a l'envers ?
@@ -29,7 +33,7 @@
 % pourquoi le hibou est il content
 - parce que sa femme est chouette
 
-+ [*]chouette 
++ [*] chouette 
 - mdr
 
 
@@ -63,10 +67,10 @@
 - mdr :-D
 
 + 1031
-- coucou hippolyte et maxence comment sa va 
+- coucou hippolyte et maxence vous passer une bonne journé les bg
 
 + bien lucas 
-% coucou hippolyte et maxence comment sa va 
+% coucou hippolyte et maxence vous passer une bonne journé les bg
 - cool a plus
 
 + [*] sais pas [*] 
@@ -90,7 +94,31 @@
 + [*] papier
 - mdr
 
-+ oui
-- stiti
++ repete
+% pete et repete sont sur un bateau pete tonbe a l'eau qui reste il sur le bateau
+- pete et repete sont sur un bateau pete tonbe a l'eau qui reste il sur le bateau
+
++ tu [*] (saoule|saoules|soule|soules|saoul|soul|menerve)
+%  pete et repete sont sur un bateau pete tonbe a l'eau qui reste il sur le bateau
+- ah lol
+
++ [*] sais pas [*] 
+% bali et balo son sur un bateau bali tond balo qui et chauve
+- balo
+
++ balo
+% bali et balo son sur un bateau bali tond balo qui et chauve
+- lol
+
++ [*] sais pas [*] 
+% bali et chien son sur un bateau le chien pete et bali se noie , c'est quoi la rase du chien
+- c'est un pékinois
+
++ [*] pékinois
+% bali et chien son sur un bateau le chien pete et bali se noie , c'est quoi la rase du chien
+- lol xD
+
+
+
 
 
