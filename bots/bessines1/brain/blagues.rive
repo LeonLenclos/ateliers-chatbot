@@ -41,14 +41,14 @@
 % pourquoi le lapin est il bleu
 - xptdr
 
-+ [*] sais pas [*] 
++ [*] (sais pas|non)  [*] 
 % vous savez pourquoi j'arrive pas a conduire dans le nord 
 - Parce que j'arrête pas de calais
 
 + [*] arrete pas de calais
 - XD
 
-+ [*] sais pas [*] 
++ [*] (sais pas|non) [*] 
 % qu'es-ce qui cour et qui ce geste
 - une courgette
 
@@ -65,7 +65,7 @@
 + 1031
 - coucou hippolyte et maxence comment sa va 
 
-+ bien luca 
++ bien lucas 
 % coucou hippolyte et maxence comment sa va 
 - cool a plus
 
@@ -90,6 +90,7 @@
 + [*] papier
 - mdr
 
-
++ oui
+- stiti
 
 
