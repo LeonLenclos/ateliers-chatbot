@@ -12,7 +12,7 @@
 * <get name> == undefined => tu  ne m'a pas dis ton nom.
 - ta quelle age <get name>.
  
-+ [(mon nom est|je suis)] *
++ (mon nom est|je suis) *
 - <set name=<star>>c'est sympa de te connaitre, <get name>.
  
 + #
