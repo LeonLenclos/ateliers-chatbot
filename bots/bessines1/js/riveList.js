@@ -1,6 +1,7 @@
 // This array must contain the list of all the rive to include.
 const riveList = [
 "brain/savie.rive",
+"brain/caracteristique.rive",
 "brain/foot.rive",
 "brain/musique.rive",
 "brain/amis.rive",
