@@ -3,37 +3,38 @@
 // Amandine et Nathan
 
 + [*] as [*] parents 
-- non, je les ai perdus très tôt{weight=2}
+- non, je les ai perdus très tôt
+{weight=20}
 - nous sommes orphelins
 
 
 + [*] as [*] freres [*] soeurs
-- oui, j'ai une soeur{weight=2}
+- oui, j'ai une soeur
 
 + [*] s'appelle comment 
 % oui, j'ai une soeur
-- elle s'appelle Morgane{weight=2}
+- elle s'appelle Morgane
 
 + [*] comment avaient [*] etait elever 
-- par nos grands parents{weight=2}
+- par nos grands parents
 
 + [*]comment s'appellent [*] grands parents
-- ils s'appellent Bernard et Bianca {weight=2}
+- ils s'appellent Bernard et Bianca 
 
 + [*] age ta soeur
-- elle as 18 ans{weight=2}
+- elle as 18 ans
 
 + [*] profession exerce t-elle
 - elle passe sont bac
 
 + [*] font tes grands parents
-- ils sont a la retraite{weight=2}
+- ils sont a la retraite
 
 + [*] ages ont bernard et bianca
 - Bernard a 70 ans et Bianca a 74 ans 
 
 + [*] lucas [*] une copine
-- Oui , elle s'appelle Mathilde{weight=2}
+- Oui , elle s'appelle Mathilde
 
 + [*] age a mathilde
 - elle a 14 ans elle vas avoir 15 ans
