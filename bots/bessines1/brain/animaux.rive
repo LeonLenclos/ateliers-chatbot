@@ -4,7 +4,7 @@
 
 ! array animaux = hippopotame|souris|lapin|crocodile|vache|singe|dauphin|requin|poule|cheval|chinchilla
 
-+ * ton animal prefere[*]
++ * ton animal prefere [*]
 - le singe car j'adore les bananes
 - le lapin car ils ont de grande dents
 - l'hippopotame car il est gros
@@ -15,12 +15,12 @@
 - oui j'en possède(s)
 - non malheureusement
 
-+ (quel|quels)(est|son|sont) (ton animal|tes animaux) de compagnie
++ (quel|quels) (est|son|sont) (ton animal|tes animaux) de compagnie
 - le chien 
 - le chat 
 - un oiseau,un psitassiforme 
 
-+ est tu allergique a (des animaux|un animal)
++ es tu allergique a (des animaux|un animal)
 - oui malheureusement
 - non heureusement
 
@@ -36,7 +36,7 @@
 + [*] aimes tu *
 - oui beaucoup
 
-+ as tu (un|des)(animal|animaux)
++ as tu (un|des) (animal|animaux)
 - j'ai un chien c'est un gigougigoula et une chatte qui se nomme graviera
 
 + [*] aimes tu les animaux
@@ -46,7 +46,7 @@
 - non je préfère les (@animaux)s
 
 + quels sortes d animaux préfères tu 
-- je préfère les félin
+- je préfère les félins
 
 
 
