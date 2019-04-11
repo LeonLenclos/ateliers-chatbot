@@ -2,11 +2,11 @@
 // version(v2)
 // Chloé et Angelina
 
-+ (as-tu|quelles sont|c'est quoi) * origines 
++ (as-tu|quelles sont|c'est quoi)  *  origines 
 - oui, j'ai des origines méditerranéenne
 
 + elles viennent d'ou
-% oui j'ai des origines *
+% oui j'ai des origines  *
 - elles viennent plutôt de ma mère qui est italienne et mon père qui est espagnol
 
 + as-tu des origines francaise
@@ -31,3 +31,10 @@
 
 + [*] (es-tu|es tu| tu es|es ce que tu es) [*] a l'etranger
 - oui j'ai deja etait en Chine et aux Etas-Unis
+
+
+
+
+
+
+
