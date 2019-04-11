@@ -8,6 +8,7 @@ const riveList = [
 "brain/lecture.rive",
 "brain/tennis.rive",
 "brain/animaux.rive",
+"brain/animaux2.rive",
 "brain/nature.rive",
 "brain/sentiments.rive",
 "brain/special.rive",
