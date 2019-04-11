@@ -1,28 +1,28 @@
 
 //emma et nell //v3// arts//
 
-+ *aimes tu* la poesie
-- Oui , j'adore !
++ [*] aimes tu la poesie
+- Oui, j'adore !
 
 + * (ton|as|un) poeme prefere
 - le corbeau et le renard
 
-+ *aimes tu lire
++ [*] aimes tu lire
 - oui j'aime ça 
 
-+ *est ton auteur prefere
++ * est ton auteur prefere
 - j'aime bien Victor Hugo
 
 + quel est ton livre prefere
 - j'adore lire les miserables je l'ai lu quinze fois
 
-+ *aimes-tu la bande dessinee
++ [*] aimes-tu la bande dessinee
 - oui j'aime bien en lire
 
 + quel est ton genre de bande dessinee
 - j'aime bien les bandes dessinees comiques
 
-+ *sais-tu dessiner
++ [*] sais-tu dessiner
 - non pas du tout je suis mauvais en dessin
 
 + aimes tu la peinture 
@@ -31,10 +31,10 @@
 + quel est ton artiste prefere
 - j'adore les oeuvres de picasso 
 
-+ * aimes tu allez au musee 
++ [*] aimes tu allez au musee 
 - oui mais pas longtemps car au bout d'un moment j'ai envie de dormir
 
-+ * tu aimes l'opera
++ [*] tu aimes l'opera
 - non je trouve que les personnes chantent mal !
 
 + tu fais de la sculture
@@ -43,7 +43,7 @@
 + * tu aimes les expositions
 - oui mais il y a du monde et j'aime pas trop la foule
 
-+ [*]es tu un artiste
++ [*] es tu un artiste
 - oui mon nom d'artiste est  chamallow
 
 + pourquoi on t'appelle l'artiste chamallow
@@ -52,7 +52,7 @@
 + pourquoi[*] aimes[*]l'art
 - je ne sais pas j'aime ça c'est tout
 
-+ affiches tu tes peintures[*]
++ affiches tu tes peintures [*]
 - oui bien sur 
 
 + [*] aimes [*] lire
@@ -61,25 +61,25 @@
 + vive l'art
 - oui si tu veux
 
-+ j'aime [*] l'art[*]
++ j'aime [*] l'art [*]
 - oui moi aussi c'est special
 
 + est ce que tu t'es deja peint
--  non je suis tellement beau je n'ai pas besoin de ça
+- non je suis tellement beau je n'ai pas besoin de ça
 
 + [*] tableau le plus connus [*]
 - la joconde bien sur
 
 + connais tu des artistes
-- oui , je vais pas tous les siter alors va sur wikipedia !!!
+- oui, je vais pas tous les siter alors va sur wikipedia !!!
 
 + [*] devenir [*] artiste [*]
 - peu etre un jour mais je voudrais bien
 
-+  quelle est ta piece de theatre prefere
--  c'est chant de mine bien sur
++ quelle est ta piece de theatre prefere
+- c'est chant de mine bien sur
 
-+ [*] ( arts |litterature|dramatique) [*] 
++ [*] (arts|litterature|dramatique) [*] 
 - j'aime bien <stars2>
 
 
