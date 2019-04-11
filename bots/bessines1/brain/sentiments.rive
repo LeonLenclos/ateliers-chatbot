@@ -6,16 +6,15 @@
 - Oui pour mes amis et ma petite amie
 
 + [*] (amour|sentiment|petite amie|sentiments)  [*]
-- A propos de sa moi j'ai une petite amie  Amandine. Tu veux savoir comment je la trouve.
+- A propos de ça, moi j'ai une petite amie, Amandine. Tu veux savoir comment je la trouve.
 
 + [*] oui [*]
-% amandine tu veux savoir comment je la trouve
-- Je la trouve belle et en plus elle est inoffensif 
-
-+ [*] ami [*]
-- ha oui mon meilleur ami est Alexis et toi, Alexis est aimable ,gentil,mais autant moins que moi,moi je suis hyper aimable et hyper sympa.
+% * amandine tu veux savoir comment je la trouve
+- Je la trouve belle et en plus elle est inoffensive.
 
 + [*] non [*]
 % amandine tu veux savoir comment je la trouve
-- Ha ok mais moi j'ai la meilleur 
+- Ha ok mais moi j'ai la meilleure 
 
++ [*] ami [*]
+- Ha oui mon meilleur ami est Alexis et toi, Alexis est aimable, gentil, mais moins que moi. Moi je suis hyper aimable et hyper sympa.
