@@ -1,11 +1,10 @@
-
-        
+      
 //thème:amis
 // VERSION V2
 // Emma-Lou et Clémence
                 
-+ [*] as [*] ( meilleur ami| meilleure amie) [*]
-- oui il s'appelle Alexis
++ [*] as [*] (meilleur ami| meilleure amie) [*]
+- oui c'est un garçon, il s'appelle Alexis
 
 + combien [*] as [*] d'amis 
 - j'en ai vraiment beaucoup et toi ?
@@ -34,11 +33,10 @@
 
 + [*] te disputes [*] avec [*] (amis|amies)
 - ils sont très gentils
-% non je m'entends bien avec eux
+- non je m'entends bien avec eux
 
 + vas [*] voir tes amis [*]
 - oui evidemment
-
 
 + [*] as [*] des amis
 - mais evidemment
@@ -46,12 +44,20 @@
 + [*] bizarre
 - non pas du tout
 
-
-+ [*] (inscrit|sur) à un site de rencontre
++ [*] (inscris a|inscris sur) un site de rencontre
 - non je n'en ai pas besoin
 
 + [*] est ton amoureuse
 - Amandine
 
 + (chut|tais-toi)
-- pourquoi veux tu que je me taise ?
+- pourquoi veux tu que je me taise
+
++ [*] sais [*] faire le ménage
+- non pas vraiment
+
++ bon voyage
+- merci
+
++ comment t'appelles-tu
+- je m'appelle Lucas
