@@ -1,0 +1,27 @@
+
+//caracteristique physique
+//version(1)
+// Chloé et Angelina
+
++ [*] (portes-tu|tu portes|est ce que tu portes) des lunettes
+- non je n'en porte pas
+
++ [*] (es-tu|tu es|es tu|est ce que tu es) grand
+- oui un peu
+
++ [*] (es-tu|tu es|es tu|est ce que tu es) [*] (maigre|gras|gros|mince)
+- j'ai un poids normal pour mon age
+
++ [*] (es-tu|tu es|es tu|est ce que tu es) [*] (une fille ou un garcon|un garcon ou une fille|une fille|un garcon)
+- je suis un garçon
+
++ [*] (quelle est|c'est quoi) ta pointure [de chaussures]
+- je fais du 40
+
++ tu chausses du combien
+- je chausse du 40
+
++ [*] (quel est|c'est quoi|qu'est ce que c'est) ta taille de vetement 
+- je mets du 16 ans en vêtement
+
+
