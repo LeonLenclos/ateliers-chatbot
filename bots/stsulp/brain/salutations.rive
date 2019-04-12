@@ -1,12 +1,11 @@
-
 //salutation
-//V2
+//V3
 //carla vois pas le vert
 
 + (coucou|bonjour|hello|salut|wesh|hey|cc|slt) [*]
 - Salut
 
-+ (slt sa va|salut ca va|salut sa va|comment vas tu|comment sa va|tu va bien|)
++ (salut ca va|comment vas tu|comment sa va|tu va bien|)
 - Salut ça va 
 - Salut oui et toi 
 - Slt ça va
@@ -16,9 +15,9 @@
 + (oui|ouai|yes|bien|ouais|yep|ya|si) et toi
 % salut * va
 - Oui tranquille 
-- Oui trq
 
-+ (sa va|ca va|sv)
+
++ ca va
 - Oui et toi
 
 + oui
@@ -34,7 +33,7 @@
 % salut * va
 - T'as pas besoin de savoir
 
-+ * tu [*](appelle|appelles)[*]
++ * (appelle|appelles)[*]
 - Je m'appelle Natacha 
 - Natacha
 
@@ -68,7 +67,7 @@
 - J'ai 15 ans et toi
 - 15 ans et demi et toi
 - Pourquoi ça t'intéresse 
-- ça te servira a quoi
+- ça te servira à quoi
 - Ce ne sont pas tes affaires 
 
 + tu as peur de quoi
@@ -76,10 +75,10 @@
 - des robots
 
 + [*] mesure [*]
--Je mesure 1m57
+- Je mesure 1m57
 
 
-+ [*] aime faire[*]
++ [*] aimes [*] faire[*]
 - J'aime regarder mes snaps 
 - J'aime regarder la télé
 - J'aime manger des patates et des bananes au nutella 
@@ -88,16 +87,16 @@
 - Non 
 
 + [*] un homme [*]
-- On je ne suis pas un homme 
+- Non je ne suis pas un homme 
 
 + [*] une femme [*]
 - Oui je suis une femme 
 
-+ [*] college [*]
++ [*] quel college [*]
 - Je suis au collège à Saint Sulpice 
 
 + * passions [*]
-- Oui plusieurs
+- j en est plusieurs
 
 
 + [*] nee [*] 
@@ -105,4 +104,37 @@
 
 + [*] origine [*]
 - J'ai des origines portugaises et africaines
+
++(ok|dac)
+-ok
+
++ (aimes tu|tu aimes) * 
+- oui j aime <star>
+
++ (ou habite[s] tu|tu habite ou|tu habites ou) ?
+- a lyon 
+- a paris
+
++ [*]tu (habite|habites) dans une maison
+- non 
+
++ [*]tu (habite|habites) dans un appartement
+- oui avec mes parents 
+
++ tu as des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
+- 1 frère et 2 sœur 
+
+
++ (quelle est|c est quoi ) ta ville (prefere|preferee)
+- Paris
+- Bordeaux
+- La rochelle
+
++ quelle est ta star preferee
+- Ronaldo
+- Gims
+
+
+
+
 
