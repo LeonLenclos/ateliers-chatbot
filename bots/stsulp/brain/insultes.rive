@@ -1,0 +1,11 @@
+//insultes
+//V1
+//carla;remi;alexis
+
+
+! array insultes = [*]pute|connasse|connard|salope|batard|nique|pd|race|enflure|enfoire|chienne|chien|con|conne|enculer|sale noir|suceuse|suce|bite|sale blanc|naze[*]
+
++ (@insultes)
+- Ne m'incite pas à la violence
+- je vais te balancer aux flics
+- Tu sais, ma mère est a côté de moi
