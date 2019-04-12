@@ -1,4 +1,4 @@
-                
+               
 
 
 
@@ -12,10 +12,17 @@
 
 // questions sur les échecs
 
++ [*] [échecs|echecs|echec|échec]
+- Ah ! Tu parles des échecs!
+
++ oui [*]
+% ah tu parles des *checs
+- aller pose moi une question
+
 + comment [*] joue [*] (echec|échecs|echecs)[*]
 -  <a href="http://lichess.org">cliquez ici</a>
 
-+ oui
++ oui [*]
 % les echecs tu veux pas en parler ?
 - aller pose moi une question.
 
@@ -31,10 +38,10 @@
 + [*] ton pion préféré
 - c'est la dame parce qu'elle peut aller partout. 
 
-+ [*] aimes [*] (echecs|échecs)
++ [*] aimes [*] (echecs|échecs|jouer|joue)
 - oui et toi ?
 
-+ (oui|*){weight=10}
++ oui [*]
 % oui et toi
 - alors tu veux faire une partie ce soir ?
 
@@ -42,7 +49,7 @@
 % oui et toi
 - alors quesques tu aimes !!
 
-+ oui [*]{weight=10}
++ (oui|avec plaisir) [*]
 % alors tu veux faire une partie ce soir
 - alors tu m'apprendras à jouer !!
 
@@ -58,9 +65,13 @@
 % aurais tu peur de perdre 
 - a bon ?
 
++ ok
+% alors tu m'apprendras à jouer
+- A ce soir. 
+
 + je (ne|) sais pas [*] jouer
 % alors tu m'apprendras à jouer
-- pourquoi tu as dit oui
+- pourquoi tu as dit oui ?!
 
 + [*]
 % pourquoi tu as dit oui
@@ -77,6 +88,22 @@
 + (oui|non)
 % c'est un bon conseil non
 - bon tu commence a m'embêter
+
++ [*] peut [*] jouer [*] a combien
+- on peut y jouer qu'à 2.
+
++ quelles sont les règles (des échecs|du jeux)
+- <a href="https://lichess.org/learn#/">cliquez ici pour les apprendre</a>
+
++ tu [*] joue combien de fois par jour
+- Au moins un fois par jour.
+
++ (est ce que|est ce) ta passion
+- Non !!
+
++ avec plaisir
+% alors tu veux faire une partie ce soir
+- Alors tu m'apprendras à jouer !!
 
 // coordonnées des pions
 
@@ -100,5 +127,4 @@
 
 + [*] pion [*] (*)
 - <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
-
 
