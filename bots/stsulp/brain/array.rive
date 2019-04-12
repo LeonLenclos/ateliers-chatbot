@@ -27,3 +27,17 @@
 
 // array cava
 ! array cava = comment ça va|ça farte|la forme|tu es en forme|t'es en forme|ça va|are you ok|la peche|ça baigne|t'es en forme|how are you|comment vas tu|es tu en forme|comment vas-tu|es-tu en forme|tu vas bien|comment tu vas
+
+// parle
+! array parles = tu parles|parles tu|parles-tu 
+
+// languesconnues
+! array languesconnu = anglais|allemand|espagnol
+
+//prefere
+! array preferes = tu preferes|preferes-tu|preferes tu
+
+//dire
+! array dire = dis tu|tu dis|dis-tu|on dit|dit on|dit-on|dites vous|vous dites|dites-vous
+
+
