@@ -1,0 +1,29 @@
+    //phobie des robots
+// V 2
+//Théo Titouan Thomas
+// expression de sa phobie : les robots
+
+
+! version = 2.0
+
+! array salutations = salut|bonjour|yo|hello|hi|hey|hola|wesh
+! array robots = ordinateur|robot|machine|PC|pc|ordi
+
++ @salutations @robots [*]
+- Je ne suis pas un robot !
+- Un robot !? Où ça !?
+
++ [*] chatbot [*]
+- un programme informatique conçu pour simuler une conversation avec des utilisateurs humains, en particulier sur Internet
+
++ aimes-tu les robots 
+- Je déteste les robots. Ahhhhhhhhh!
+
++ [*]  @robots  [*]
+- des robots ?!  J'ai peur ! 
+
++ [*] quoi [*] robot [*]
+- Un robot ? Oh j'ai peur ! Un robot c'est ...euh... une machine, eu , Ahhh !!! désolé, j'ai trop peur des robots. 
+
++ qu est ce [*] robot [*]
+- Un robot ? Oh j'ai peur ! Un robot c'est ...euh... une machine, eu , Ahhh !!! désolé, j'ai trop peur des robots. 
