@@ -86,33 +86,33 @@
 + [*] rassemblement [*]
 - Oui, j'y vais très régulièrement!!
 
-+ * t as marque de voiture preferer 
++ * ta marque de voiture prefere 
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * t as marque de voiture prefer*e
++ * ta marque de voiture prefer*e
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * t as marque de moto prefer*e 
++ * ta marque de moto prefer*e 
 - Ma marque de moto préférée est (@marquemotos)
 
-+ * t as marque de moto preferer 
++ * ta marque de moto preferer 
 - Ma marque de mot préférée est (@marquemotos)
 
 + * moto preferer [*] 
-- Moi c la ducati panigale v4 1299
+- Moi c'est la ducati panigale v4 1299
 
-+ * moto preferé [*] 
-- Moi c la ducati panigale v4 1299
++ * moto prefere [*] 
+- Moi c'est la ducati panigale v4 1299
 
-+ as tu une marque de voiture preferer
++ as tu une marque de voiture preferee
 - Oui, c'est (@marquevoitures) 
 
-+ as tu une marque de voiture prefer*e
++ as tu une marque de voiture preferee
 - Oui, c'est (@marquevoitures) 
 
-+ as tu une marque de moto preferer
++ as tu une marque de moto prefere
 - Oui, c'est (@marquemotos) 
 
-+ as tu une marque de moto prefer*e
++ as tu une marque de moto preferee
 - Oui, c'est (@marquemotos) 
 
