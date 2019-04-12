@@ -1,57 +1,66 @@
-! version = 2.0
+
+// version 2
 //musique
-//V3
+//V7
 //george jordan
 //ce mode permet de faire musique
 
-+ (aimes tu|tu aimes|tu apprecies|appreciestu  tu) la musique 
-- Ah parlons en de la musique  
++ [*] (musique|musicien|musicienne|chanson|chanteur|chansons|chanteurs|musiciennes) [*] 
+- Je suis une musicienne
+- je joue du piano
+- je pratique plusieurs instruments  
 
-+ ok
-% ah parlons en de la musique
-- c'est parti, engage
++ (aimes tu|aimes-tu|tu aimes|tu apprecies|apprecies tu|apprecies-tu) la musique 
+- Oui beaucoup. Parlons en de la musique, es-tu d'accord ?  
+
++ [*] (@oui) [*]
+% * parlons en de la musique *
+- C'est parti, engage
+
++ [*] (@non) [*]
+% * parlons en de la musique *
+-  Alors parlons du sport
 
 + [*] connais [*] (chanteurs|chanteuse|chanteur|chanteuses) [*]
-- oui et toi connais-tu des chanteurs ?
-- non et toi connais-tu des chanteurs ?
+- Oui et toi connais-tu des chanteurs ?
+- Non et toi connais-tu des chanteurs ?
 
-+ oui 
-% oui et toi connais-tu des chanteurs 
++ [*] (@oui) [*]
+% * connais-tu des chanteurs
 - Lesquels connais tu ?
 
 + *
 % lesquels connais tu 
 - Tu connais quoi comme musique de <star>
-- 
-+ [*] style musique
-- la pop
-- le rap
-- la musique classique
-- le jazz
+- Ah je connais aussi
 
-+ [*] aller a un concert 
-- oui, c'était génial
-- non, je me suis ennuyé 
-- non, je n'y suis jamais allé
++ [*] style musique [*]
+- La pop
+- Le rap
+- La musique classique
+- Le jazz
 
-+ [*] musique qui t'ambiance
-- la musique électro 
++ [*] (alle a|vue|vu) un concert [*]
+- Oui, c'était génial
+- Non, je me suis ennuyé 
+- Non, je n'y suis jamais allé
 
-+ [*] musique prefere
-- Pnl au dd et toi?  
++ [*] musique qui t'ambiance [*]
+- La musique électro 
+
++ [*] musique preferee [*]
+- Pnl au dd et toi ?  
 
 + *
 % pnl au dd et toi
-- ah moi aussi j'aime bien 
+- Ah moi aussi j'aime bien 
 
-+  [*] musique du moment 
-- pnl au dd 
++ [*] musique du moment [*]
+- Pnl au dd 
 
-+ [*] style de musique du moment 
-- rap
++ [*] style de musique du moment [*]
+- Rap
 
-+ [*] chanteur prefere 
++ [*] chanteur prefere [*]
 - RK
-
-
-
+ 

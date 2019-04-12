@@ -1,30 +1,44 @@
+               
+
+
+
 //echecs
-// V 1.2
-//Théo Titouan
+// V 4
+//Théo Titouan Thomas
 // conversation sur les échecs
 
 
 ! version = 2.0
 
-! version = 2.0
+// questions sur les échecs
 
++ [echecs|echec]
+- Ah ! Tu parles des échecs!
 
-+ [*] joues [*] (echec|échec)
++ oui [*]
+% ah tu parles des *checs
+- aller pose moi une question
+
++ comment [*] joue [*] (echec|échecs|echecs)[*]
+-  <a href="http://lichess.org">cliquez ici</a>
+
++ oui [*]
+% les echecs tu veux pas en parler ?
+- aller pose moi une question.
+
++ [*] joues [*] (echec|échecs|)
 - Oui
 
-+ joues [*] (echec|échec)
++ joues [*] (echec|échecs)
 - Oui
 
 + [*] jouer [*] échecs
 -oui
 
-+ c'est quoi ton pion préféré
-- C'est la dame parce qu'elle peut aller partout. 
-
-+ quel est ton pion préféré
++ [*] ton pion préféré
 - c'est la dame parce qu'elle peut aller partout. 
 
-+ [*] aimes [*] (echecs|échecs)
++ [*] aimes [*] (echecs|échecs|jouer|joue)
 - oui et toi ?
 
 + oui [*]
@@ -35,7 +49,7 @@
 % oui et toi
 - alors quesques tu aimes !!
 
-+ oui [*]
++ (oui|avec plaisir) [*]
 % alors tu veux faire une partie ce soir
 - alors tu m'apprendras à jouer !!
 
@@ -47,95 +61,70 @@
 % aurais tu peur de perdre 
 - Moi aussi 
 
-+non [*]
-% aurais tu peur de perdre 
--a bon ?
-
-
-// questions à propos des échecs
-
-+ [*]roi [*] (*)
-- <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
-
-+ [*]fou [*] (*)
-- <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
-
-+ [*]chavalier [*] (*)
-- <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
-
-+ [*]dame [*] (*)
-- <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
-
-+ [*]tour [*] (*)
-- <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
-
-+ [*]pion [*] (*)
-- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
-
-
-// coordonnées des pions
-
-
-+ (*) joues [*] (echec|échec)
-- Oui
-
-+ joues [*] (echec|échec)
-- Oui
-
-+ c'est quoi ton pion préféré
-- C'est la dame parce qu'elle peut aller partout. 
-
-+ quel est ton pion préféré
-- c'est la dame parce qu'elle peut aller partout. 
-
-+ [*] aimes [*] (echecs|échecs) 
-- oui et toi ?
-
-+ oui [*]
-% oui et toi
-- alors tu veux faire une partie ce soir ?
-
 + non [*]
-% oui et toi
-- alors quesques tu aimes !!
+% aurais tu peur de perdre 
+- a bon ?
 
-+ oui [*]
++ ok
+% alors tu m'apprendras à jouer
+- A ce soir. 
+
++ je [*] sais pas [*] jouer
+% alors tu m'apprendras à jouer
+- pourquoi tu as dit oui ?!
+
++ [*]
+% pourquoi tu as dit oui
+- sort !!
+
++ (ok|*)
+% sort
+- ALLER, du vent parle de pêche. c'est bien la pêche.
+
++ (merci|*)
+% aller du vent parle de pêche c'est bien la pêche
+- c'est un bon conseil, non?
+
++ (oui|non)
+% c'est un bon conseil non
+- bon tu commence a m'embêter
+
++ [*] peut [*] jouer [*] a combien
+- on peut y jouer qu'à 2.
+
++ quelles sont les règles (des échecs|du jeux)
+- <a href="https://lichess.org/learn#/">cliquez ici pour les apprendre</a>
+
++ tu [*] joue combien de fois par jour
+- Au moins un fois par jour.
+
++ (est ce que|est ce) ta passion
+- Non !!
+
++ avec plaisir
 % alors tu veux faire une partie ce soir
-- alors tu m'apprendras à jouer !!
-
-+ non [*]
-% alors tu veux faire une partie ce soir ?
-- aurais tu peur de perdre 
-
-+ oui [*]
-% aurais tu peur de perdre 
-- Moi aussi 
-
-+non [*]
-% aurais tu peur de perdre 
--a bon ?
-
-
-// questions à propos des échecs
-
-+ [*]roi [*] (*)
-- <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
-
-+ [*]fou [*] (*)
-- <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
-
-+ [*]chavalier [*] (*)
-- <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
-
-+ [*]dame [*] (*)
-- <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
-
-+ [*]tour [*] (*)
-- <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
-
-+ [*]pion [*] (*)
-- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
-
+- Alors tu m'apprendras à jouer !!
 
 // coordonnées des pions
+
++ [*] roi [*] (*)
+- <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
+
++ [*] fou [*] (*)
+- <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
+
++ [*] chavalier [*] (*)
+- <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
+
++ [*] dame [*] (*)
+- <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
+
++ [*] tour [*] (*)
+- <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
+
++ [*] pion [*] (*)
+- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
+
++ [*] pion [*] (*)
+- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
 

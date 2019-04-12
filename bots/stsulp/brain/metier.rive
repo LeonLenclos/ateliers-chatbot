@@ -1,8 +1,11 @@
- //Métier
-//V3
+//Métier
+//V4
 //Team Angélique,Maeva
 
-//Les études//
++ [*] (metiers|etudes|metier|etude) [*]
+
++ [*] (m*tiers|*tudes|m*tier|*tude) [*]
+
 
 + quels lycees pour bac pro commerce
 - Aubusson(Jean Jaurès), Saint-Junien (Édouard Vaillant), Limoges (Marcel Pagnol)
@@ -25,7 +28,6 @@
 - Prof de sport, ou assistante Maternelle
 
 
-
 + [*]sous metiers[*]
 - pour moi tout métier est aussi beau si la personne est passionnée par ce métier
 
@@ -41,11 +43,11 @@
 + quel est ton metier
 - je n'ai pas de metier je suis mineur 
 
- 
+
 + qu'est ce que le métier d'educatrice sportive
 - L'éducateur sportif enseigne et encadre une activité sportive en particulier. Ses tâches sont donc naturellement différentes selon la discipline enseignée. Qu'il enseigne un sport à des jeunes pour le loisir ou en vue d'une compétition, à des adultes ou pour le 3ème age, en cours collectifs ou en cours individuels, l’éducateur sportif exerce essentiellement hors temps scolaire ou à des horaires adaptés à sa clientèle (fin de journée, week-end..). 
 
- 
+
 + quel formation faut t il pour etre commercant
 - Le diplôme plébiscité des recruteurs reste incontestablement le BTS avec le BTS NRC (négociation et relation client). Il est aussi possible de passer un BTS MUC (management des Unités Commerciales), un DUT TC (techniques de commercialisation).
 
@@ -90,8 +92,6 @@
 + je ne sais pas(jsp|je sais pas)
 % quelle est l*expression pr*f*r*e des dentistes
 - Que Dieu vous prothèse.
-
-
 
 
 

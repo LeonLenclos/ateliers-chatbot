@@ -1,5 +1,5 @@
 // cinema
-// V2
+// V6
 // ciné
 // ce code permet de faire une discussion sur le cinéma
 
@@ -26,6 +26,11 @@
 
 ! array acteurprefere = Joey King|Jacob Elordi|Leonardo DiCaprio
 
+! array filmmoment = the kissing booth|love simon|nos etoiles contraire|everything everything|sierra burgess is a loser|ralph 2.0|la reine des neiges 2|le roi lion|dumbo|annabelle 3|ca|escape game
+
++ [*] (cinema|film|cinéma|films) [*]
+- Oui j'adore
+- Vive le cinéma
 
 + [*] (aimes|aime) [*] (cinema|film) [*]
 - Oui.
@@ -35,47 +40,50 @@
 - Oui.
 - Uniquement certains types de film.
 
-
-
 + [*] film [*] romance [*] (aime|aimes) [*]
 - J'aime (@filmromance)
-
-
 
 + [*] film [*] horreur [*] (aime|aimes) [*]
 - J'aime (@filmhorreur)
 
-
 + [*] film [*] humoristique [*] (aime|aimes) [*]
 - J'aime (@filmhumoristique)
-
 
 + [*] film [*] dramatique [*] (aime|aimes) [*]
 - J'aime (@filmdramatique)
 
-
 + [*] film [*] fantastique [*] (aime|aimes) [*]
 - J'aime (@filmfantastique)
 
- 
 + [*] film [*] animation [*] (aime|aimes) [*]
 - J'aime (@filmanimation)
-
 
 + quel est ton film prefere
 - Mon film préféré est (@filmprefere)
 
-
 + quels sont les films que tu aimes le plus 
 - Mon film préféré est (@filmprefere)
-
 
 + aimes-tu les dessins animes ?
 - Ouiiiii je les adore
 
++ quel est le dernier film que tu as vu au cinema|tu as regardé quoi comme film dernierement
+- J'ai vu (@filmderniervue)
 
-+ quel est le dernier film que tu as vu au cinema 
-- j'ai vue (@filmderniervue)
++ * acteurs preferes
+- Mes acteurs préférés sont (@acteurspreferes)
 
-+ tu as regardé quoi comme film dernierement
-- j'ai vue (@filmderniervue)
++ * acteur prefere
+- Mon acteur préféré est  (@acteurprefere)
+
++ * film du moment
+- Mon film du moment est (@filmmoment)
+
+
+
+
+
+
+
+
+

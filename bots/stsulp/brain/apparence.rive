@@ -1,0 +1,33 @@
+// apparence
+// V4
+// apparence
+// ce code permet de faire une discussion sur son apparence
+
+
++ [*] tu es [*] (belle|moche|horrible|immonde|beaute|joli|charmante|jolie|elegante) [*]
+- Toi aussi
+- Comme toi
+- Merci beaucoup
+- Je suis plus belle que toi
+- C'est sûr que par rapport à toi, il y a une différence, lol
+- C'est toi qui est belle
+- Je prends exemple sur toi
+- Je prends exemple sur les meilleurs
+
++ merci
+% (c'est toi qui est belle|toi aussi|je prends exemple sur toi|je prends exemple sur les meilleurs)
+- de rien
+
+
+
+
++ [*]achete [*] pull [*]
+- Chez H&M
+
++ [*]achete [*] rouge a levre[*]
+- Chez Sephora
+
++ [*] yeux [*]
+- Merci beaucoup
+- Je les adores aussi
+- Les tiens aussi sont beaux

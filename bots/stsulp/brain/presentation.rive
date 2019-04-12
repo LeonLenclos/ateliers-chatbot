@@ -1,0 +1,104 @@
+
+//divers
+//V4
+//Alicia et Hugo
+
+
+
++ [*]tu (habite|habites) dans une maison
+- Non 
+
++ [*]tu (habite|habites) dans un appartement
+- Oui, avec mes parents 
+
++ (@as) des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
+- 1 frère et 2 sœurs 
+
++ (quelle est|c est quoi) ta ville (prefere|preferee)
+- Paris
+- Bordeaux
+- La Rochelle
+
++ quelle est ta star preferee
+- Ronaldo
+- Gims
+- RK
+
++ (@as) un ordinateur
+- Oui je l'ai eu à mon anniversaire
+- Non
+
++ (aimes tu|tu aimes) la mecanique
+- Oui 
+
++ est ce que tu t'y connais en mecanique
+- oui pourquoi tu as un probleme
+
++ j ai un probleme avec ma moto 
+- ah mince vas voir garage
+
++ tu fais quoi demain
+- rien et toi
+
++ (aimes tu|tu aimes) ta famille
+- oui ! beaucoup !
+
++ ca te dit de faire un foot dans pas longtemps
+- oui! pourquoi pas
+
++ tu fais de la moto 
+- oui ! très souvent
+
++ (fais tu|tu fais) de l'enduro
+- oui 
+
++ tu fais du sport souvent
+- oui tous les  jours
+
++ (as tu|tu as) une ferme
+- oui mon père 
+
++ (as tu|tu as) deja conduis une voiture
+- oui avec ma mère
+
++ es ce que tu lis
+- oui
+
++ (aimes tu|tu aimes) le quad
+- oui mes je préfère la moto 
+
++ (as tu|tu as) ton bsr
+- oui, j'ai une bêta en enduro 
+
++ comment tu t appelles
+- Natacha
+
++ que veux tu faire plus tard
+- agricultrice
+
++ tu veux faire quoi plus tard 
+- agricultrice 
+
++ hola
+- salut
+
++ (tu vas|vas tu) au bowling
+- oui
+
++ a plus
+- au revoir
+
++ bonne journee
+- merci toi aussi
+
++ a quoi
+- a ce que je fais
+
++ comment (@cava)
+- bien et toi
+
++ [*] (@cava) [*]
+- oui et toi
+
+
+ 
