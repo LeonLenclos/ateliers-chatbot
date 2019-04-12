@@ -3,12 +3,12 @@
 
 
 //echecs
-// V 4
+// V 7
 //Théo Titouan Thomas
 // conversation sur les échecs
 
 
-! version = 2.0
+! version = 2
 
 // questions sur les échecs
 
@@ -17,14 +17,14 @@
 
 + oui [*]
 % ah tu parles des *checs
-- aller pose moi une question
+- allez pose moi une question
 
 + comment [*] joue [*] (echec|échecs|echecs)[*]
 -  <a href="http://lichess.org">cliquez ici</a>
 
 + oui [*]
 % les echecs tu veux pas en parler ?
-- aller pose moi une question.
+- allez pose moi une question.
 
 + [*] joues [*] (echec|échecs|)
 - Oui
@@ -38,16 +38,16 @@
 + [*] ton pion préféré
 - c'est la dame parce qu'elle peut aller partout. 
 
-+ [*] aimes [*] (echecs|échecs|jouer|joue)
-- oui et toi ?
++ [*] aimes [*] (echecs|echecs|jouer|joue)
+- oui j'aime bien les échecs et toi ?
 
-+ oui [*]
-% oui et toi
-- alors tu veux faire une partie ce soir ?
++ @oui [*]
+% oui j'aime bien les *checs et toi
+- alors tu veux faire une partie ce soir ?{weight=100}
 
 + non [*]
-% oui et toi
-- alors quesques tu aimes !!
+% oui j'aime bien les *checs et toi
+- alors qu'est ce que tu aimes ?!!
 
 + (oui|avec plaisir) [*]
 % alors tu veux faire une partie ce soir
@@ -57,7 +57,7 @@
 % alors tu veux faire une partie ce soir ?
 - aurais tu peur de perdre 
 
-+ oui [*]
++ @oui [*]
 % aurais tu peur de perdre 
 - Moi aussi 
 
@@ -79,10 +79,10 @@
 
 + (ok|*)
 % sort
-- ALLER, du vent parle de pêche. c'est bien la pêche.
+- ALLEZ, du vent parle de pêche. c'est bien la pêche.
 
 + (merci|*)
-% aller du vent parle de pêche c'est bien la pêche
+% allez du vent parle de pêche c'est bien la pêche
 - c'est un bon conseil, non?
 
 + (oui|non)
@@ -92,7 +92,7 @@
 + [*] peut [*] jouer [*] a combien
 - on peut y jouer qu'à 2.
 
-+ quelles sont les règles (des échecs|du jeux)
++ quelles sont les regles (des échecs|du jeux)
 - <a href="https://lichess.org/learn#/">cliquez ici pour les apprendre</a>
 
 + tu [*] joue combien de fois par jour
@@ -101,7 +101,7 @@
 + (est ce que|est ce) ta passion
 - Non !!
 
-+ avec plaisir
++ @oui
 % alors tu veux faire une partie ce soir
 - Alors tu m'apprendras à jouer !!
 
@@ -127,4 +127,5 @@
 
 + [*] pion [*] (*)
 - <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
+
 
