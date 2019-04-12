@@ -1,7 +1,16 @@
-// nourriture
-// v8
+// nouriture
+// v9
 // zoebritt
 // ce code permet de faire une discussion sur la nourriture 
+
+
++ [*] (nourriture|manger|faim|cantine|menu) [*]
+- Je mange des lasagnes
+- Ma nourriture préfèrée est le plat lasagnes
+- J'ai faim 
+- Je mange pas a la cantine mercredi
+- Au menu il y'a du poisson
+
 
 + (tu aimes|qu'est ce que tu aimes) manger [*]  
 -  J'aime les lasagnes et les crêpes. 
