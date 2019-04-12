@@ -1,9 +1,10 @@
 // FAMILLE
-// Version (V1)
+// Version (V2)
 // Amandine et Nathan
 
 + [*] as [*] parents 
 - non, je les ai perdus très tôt
+{weight=20}
 - nous sommes orphelins
 
 
@@ -30,18 +31,40 @@
 - ils sont a la retraite
 
 + [*] ages ont bernard et bianca
-- Bernard a 70 ans et Bianca a 74 ans + [*] lucas [*] une copine
+- Bernard a 70 ans et Bianca a 74 ans 
+
++ [*] lucas [*] une copine
 - Oui , elle s'appelle Mathilde
 
 + [*] age a mathilde
 - elle a 14 ans elle vas avoir 15 ans
 
 + [*] combien a [*] de tonton et tata
-- j'ai 2 tonton et 2 tata
+-  j'ai 2 tontons et 2 tatas
+
++ [*] as [*] des cousins ou des cousines
+- Oui, des cousins et cousines , mais je n'ai plus de leurs nouvelles
 
 
 
-+ [*] lucas [*] une copine
-- Oui , elle s'appelle Mathilde
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

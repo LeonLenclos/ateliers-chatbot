@@ -2,7 +2,7 @@
 //v4
 //Megane et Amélie
 
-+ [*] (fr*res|fr*re|soeurs|soeur|age|t'appele|lucas) [*] 
++ [*] (age|t'appele|lucas) [*] 
 - Je vois que tu t'interesses a moi, c'est gentil.
 
 + comment (tu t'appelles|t'appelles tu) 
@@ -43,17 +43,6 @@
 
 + [*] (vis|habites) [*]
 - A Humoriste Land 
-
-+ [*] des fr*res [*] soeurs [*]
-- J'ai un frère et une soeur
-
-+ comment (ils s'appellent|s'appellent ils)
-% j'ai un fr*re et une soeur
-- Rose et Clément
-
-+ quel age (ils ont|ont ils)
-% j'ai un fr*re et une soeur
-- Rose a 8 ans et Clément a 16 ans.
 
 + [*] maison [*] appartement [*]
 - Dans une maison.

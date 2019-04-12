@@ -12,7 +12,7 @@
 * <get name> == undefined => tu  ne m'a pas dis ton nom.
 - ta quelle age <get name>.
  
-+ mon nom est *
++ (mon nom est|je suis) *
 - <set name=<star>>c'est sympa de te connaitre, <get name>.
  
 + #
@@ -56,10 +56,22 @@
 - non je mange de tout 
 
 + combien font # plus #
-- bah fleme
+- bah flemme
 
 + quelle est ton (professeur|prof) prefere
-- mon profe d'Anglai ou pluto ma prof de fraiçai
+- mon profe d'Anglai ou pluto ma prof de fraiçais
 
-+  (@quelle) * matiere prefere
++ (@quelle) * matiere prefere
 - jaime bien le sport car je suis le meilleur
+
+! array oui= oui|yes|ja|si|affirmatif|afirmatif|ouai|afirmatif
+
+! array non= non|nn|no|not|nicht
+
++ (@oui)
+- je sui d'accord
+- ouai 
+
++ (@non)
+- je sui d'accord
+- ouai 

@@ -3,7 +3,7 @@
 // adrien et clémence 
 
 
-+ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne)[*] 
++ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne) [*] 
 - oui ... 
 
 + [*] (as|aimes|sors) [*] copain [*]   
@@ -76,7 +76,7 @@
 - [*] non je suis deja pris he he 
 
 
-+ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne)[*] 
++ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne) [*] 
 - oui ... 
 
 + [*] (as|aimes|sors) [*] copain [*]   
@@ -140,7 +140,7 @@
 + [*] (pourrais|aimerais|voudrais|veux|peux) [*] (sortir|etre) [*] moi [*]
 - [*] non je suis deja pris he he 
 
-+ [*] tes (qualitee|qualite|qualitees|qualites)[*]
++ [*] tes (qualitee|qualite|qualitees|qualites) [*]
 - je suis intelligent, attachant, bienveillant, courageux, sportif, persévérant, positif, curieux.
 
 
