@@ -14,6 +14,7 @@ const riveList = [
         "brain/array.rive",
 	"brain/cinema.rive",
 	"brain/echec.rive",
+	"brain/graines-de-rue.rive",
 	"brain/jeuxvideos.rive",
 	"brain/livres.rive",
 	"brain/metier.rive",
