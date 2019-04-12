@@ -9,6 +9,7 @@ const riveList = [
 	"brain/insultes.rive",
 	"brain/presentation.rive",
 	"brain/fourretout.rive",
+	"brain/apparence.rive",
         "brain/array.rive",
 	"brain/cinema.rive",
 	"brain/echec.rive",
