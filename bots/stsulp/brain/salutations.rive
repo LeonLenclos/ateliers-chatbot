@@ -2,21 +2,21 @@
 //V4
 //carla;remi;alexis
 
-+ (coucou|bonjour|hello|salut|wesh|hey|cc|slt|yo|holla|hola) [*]
++ [*] (coucou|bonjour|hello|salut|wesh|hey|cc|slt|yo|holla|hola) [*]
 - Salut
 
-+ (salut ca va|comment vas tu|comment sa va|tu va bien|cv)
++ (salut ca va|comment vas tu|comment ça va|tu va bien|cv)
 - Salut ça va 
 - Salut oui et toi 
 - Slt ça va
 - Oui et toi
 - Bien et toi
 
-+ (oui|ouai|yes|bien|ouais|yep|ya|si|oue|oe)[*]
++ [*] (oui|ouai|yes|bien|ouais|yep|ya|si|oue|oe) [*]
 % bien et toi
 - Oui tranquille 
 
-+ (oui|ouai|yes|bien|ouais|yep|ya|si|oue|oe)[*]
++ [*] (oui|ouai|yes|bien|ouais|yep|ya|si|oue|oe) [*]
 % oui et toi
 - oui 
 
@@ -105,10 +105,10 @@
 + [*] (origine|origines) [*]
 - J'ai des origines portugaises et africaines
 
-+(ok|dac)
++ (ok|dac)
 - Ok
 
-+ (aimes tu|tu aimes) * 
++ (@aimes) * 
 - Oui j aime <star>
 
 + [*]parents[*]
@@ -133,10 +133,11 @@
 
 
 
-+ (au revoir|bisous|a plus|bay|bay bay|sayo nara)
++ (au revoir|bisous|a plus|bay|bay bay|sayo nara|chao|chiao)
 - Je te dit au revoir 
 - A plus
 - babay
+
 
 
 
