@@ -12,7 +12,7 @@
 
 // questions sur les échecs
 
-+ [*] [échecs|echecs|echec|échec]
++ [echecs|echec]
 - Ah ! Tu parles des échecs!
 
 + oui [*]
@@ -69,7 +69,7 @@
 % alors tu m'apprendras à jouer
 - A ce soir. 
 
-+ je (ne|) sais pas [*] jouer
++ je [*] sais pas [*] jouer
 % alors tu m'apprendras à jouer
 - pourquoi tu as dit oui ?!
 
