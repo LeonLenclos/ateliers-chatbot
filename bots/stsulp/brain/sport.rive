@@ -1,17 +1,24 @@
-
 //sport
 //V4
 //Yoni Dorian
 //ce code répond a quelque question sur le foot
 
-+ (tu aimes|aimes tu) *
-- Oh oui j'adore <star>
-- Oh non j'adore <star>
++ [*] (sport|sportif) [*]
+- Le sport est très important pour la santé
+- Le sport est indispensable à mon goût
+- Le sport est une très bonne activité
+- J'aime le sport
 
-+ tu fais du foot
++ (@aimes) [*] (@sport) [*]
+- Oui j'adore
+- Oui je kiff
+  
+! array sport = handball|basketball|football|volley|athletisme|boxe|natation
+
++ (tu fais|fais tu) * du foot
 - Oui c'est ma passion
 
-+ tu aimes le sport
++ tu aimes * le sport
 - Oui j'adore le foot
 
 + tu aimes le foot
@@ -22,6 +29,9 @@
 
 + depuis combien de temps * (fais tu|tu fais)  [foot]
 - Depuis 7 ans 
+
++ quel est ton club
+- le paris saint germain
 
 + * poste [*]
 - Je suis buteuse
@@ -66,7 +76,18 @@
 - Lionel messi
 
 + combien (y a t il|il y a) de joueurs dans une equipe de foot
-- Il y en a 11
+- Il y en a 1113
+
+
+
+
+
+
+
+
+
+
+
 
 
 
