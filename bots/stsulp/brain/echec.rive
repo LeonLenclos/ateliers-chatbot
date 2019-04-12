@@ -1,4 +1,7 @@
                 
+
+
+
 //echecs
 // V 4
 //Théo Titouan Thomas
@@ -12,7 +15,9 @@
 + comment [*] joue [*] (echec|échecs|echecs)[*]
 -  <a href="http://lichess.org">cliquez ici</a>
 
-
++ oui
+% les echecs tu veux pas en parler ?
+- aller pose moi une question.
 
 + [*] joues [*] (echec|échecs|)
 - Oui
