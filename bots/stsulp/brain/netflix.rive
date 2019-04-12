@@ -1,0 +1,22 @@
+// netflix
+// V1
+
++ [*] netflix [*]
+- Je passe ma vie dessus.
+
++ quelle est ta serie (preferee|favoris|du moment)
+- Riverdale
+- Teen Wolf
+- Les aventures de Sabrina
+
++ quel est ton film (favoris|du moment) sur netflix
+- Close et toi ?
+
++ *
+% close et toi
+- Je devrais peut-être le regarder !!! :)
+
++ pareil
+% close et toi
+- Non...on est jumelle !!  
+
