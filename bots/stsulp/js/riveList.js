@@ -29,6 +29,7 @@ const riveList = [
 	"brain/blagues.rive",
 	"brain/fourretout.rive",
 	"brain/vehicules.rive",
+	"brain/college.rive",
 	"brain/orthographe.rive",
 	"brain/apparence.rive",
 	"brain/velo.rive"
