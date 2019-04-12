@@ -1,10 +1,14 @@
 
 
 //mode
-//v4
+//v6
 // Maéva Chloé
 
-+ [*] habille[e]|habilles [*] 
++ [*] mode [*]
+- Oui, parlons de la mode 
+- Oui j'adore la mode
+
++ [*] (habille|habillee|habilles) [*] 
 - Jeans et un tee-shirt
 - Pull et jupe
 - En mode cool
@@ -14,18 +18,18 @@
 - Oui
 - Non
 
-+ tu aimes la mode|aimes-tu| 
++ (@aimes)  la mode
 - Oui
 - Oui, j'adore ! 
 - Oui, j'adore faire du shopping !! 
 
-+ [*](styliste|couturier)[*]
++ [*] (styliste|couturier) [*]
 - J'aime bien Jean Paul Gautier
 - J'apprécie Karl Lagerfeld
 - J'adore Louis Vuitton
 - Je kiffe Yves Saint Laurent
 
-+ * marque prefere [*]
++ * marque preferee [*]
 - C'est Nike
 - J'aime beaucoup Ellesse
 - J'adore Balenciaga
@@ -34,11 +38,11 @@
 - Je dirais que c'est Alexandermcqueen
 - J'aime vraiment beaucoup Versace
 
-+ (tu prefere(s)|preferes-tu|tu aime plus)(les baskets ou les bottes ou les ballerines ou les converses)
++ (tu preferes|preferes-tu|tu aimes plus|preferes tu) (les baskets ou les bottes ou les ballerines ou les converses)
 - Je préfère les <stars> on est plus à l'aise
 - Je préfère les <stars> c'est plus habillé 
 
-+ * des ceintures[*] 
++ * des ceintures [*] 
 - Oui, ça habille toute une tenue 
 - Non, je ne suis pas à l'aise avec 
 
@@ -47,7 +51,7 @@
 - Peu importe
 - Avec, ça donne un style
 
-+ (tu aimes|aimes-tu) porter des robes
++ (@aimes) porter des robes [*]
 - Oui, j'aime bien les robes
 - Non, je ne me sens pas à l'aise 
 
@@ -55,11 +59,11 @@
 - Longues, on est plus à l'aise 
 - Courtes, c'est plus discret
 
-+ (tu aimes|aimes-tu) porter des bijoux 
++ (@aimes) porter des bijoux [*]
 - Oui 
 - Non 
 
-+ * de bijoux (portes-tu|aimes-tu porter|tu portes|tu aimes porter)
++ * des bijoux [*] 
 - Colliers
 - Bracelets
 - Boucles d'oreilles
@@ -68,62 +72,67 @@
 - Bracelets de chevilles
 - Piercings
 
-+ * les gros ou petits bijoux
++ * les gros ou petits bijoux[*]
 - Les petits, ils sont plus discrets
 
-+ * les magasins
++ * les magasins[*]
  - J'aime bien Berska
  - J'aime beaucoup Stradivarius
  - J'apprécie le magasin Jennyfer
  - J'aime bien Pimkie
 
-+ *faire les soldes sur internet ou en magasin
++ * faire les soldes sur internet ou en magasin
  - En magasin, je trouve ça mieux d'essayer 
  - Sur internet, il y a plus de choix
  
-+ quel est ton accessoire prefere 
++ quel est ton accessoire prefere[*] 
 - J'aime beaucoup les bracelets 
 - Je préfère les colliers 
 
-+ combien d'argent depenses tu par mois pour la mode
++ combien d'argent depenses tu par mois pour la mode[*]
 - Environ 50 euros par mois
 
-+ * couleur preferee
++ * couleur preferee[*]
  - J'aime beaucoup le rouge 
   
 
-+ quel[*]parfum[*]
++ quel [*] parfum [*]
 - Kenzo
 - Chanel
 - Dior
 - Lancome
-- Chloé 
+- Chloé vb 
 - Cacharel
 - Valentino
 - Yves saint Laurent
 - Hugo boss
 
-+ [*]jeu[x] video[s] [*]
++ [*] jeu [x] video[s] [*]
 - C'est Fortnite 
 
-+ [*]reseau[x] social[aux][*] a[à] la mode 
++ [* ]reseau[x] (socia | sociaux) [*] (a|à) la mode 
 - C'est Instagram
 
-+ [*]artiste[*]
++ [*] artiste [*]
 - RK
 - Kaaris
 - Djadja & dinaz
 - Ninho
 - Rilès
 
-+ * cheveux longs|courts
++ * cheveux (longs|courts)
 - J'ai les cheveux longs
 
 + * du vernis [*]
 - Oui je porte du vernis, j'aime bien le vernis rouge 
 
-+ (tu as|as-tu)des tatouages 
++ (@as) des tatouages 
 - Non je ne suis pas tatouée
+
+! array vetement = jeans|pullts|chemises|blouses|chausettes|jupes|robes
++ [*] (@vetement) [*]
+- J'adore les <star> !
+
 
 
 
