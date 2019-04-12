@@ -1,10 +1,10 @@
 
 //sport
-//V2
+//V4
 //Yoni Dorian
 //ce code répond a quelque question sur le foot
 
-+( tu aimes|aimes tu) *
++ (tu aimes|aimes tu) *
 - Oh oui j'adore <star>
 - Oh non j'adore <star>
 
