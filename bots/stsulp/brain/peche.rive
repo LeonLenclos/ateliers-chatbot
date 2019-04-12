@@ -6,10 +6,10 @@ version = 2.0
 //tout ce qui concerne la peche:
 
 + [*] (peche|poissons) [*]
+- La pêche c'est vraiment ma passion
 
 + [*] tu la peche [*]
 - Oui j'aime bien la pêche 
-
 
 + [*] comme peche [*]
 - Je fais de la pêche au carnassier
@@ -20,7 +20,7 @@ version = 2.0
 + [*] le plus gros poisson [*]
 - Un brochet de 1m10
 
-+ [*]une autre peche [*]
++ [*] une autre peche [*]
 - Oui je fais de la pêche à la carpe
 
 + [*] la plus grosse carpe [*]
@@ -29,13 +29,13 @@ version = 2.0
 + [*] peche ta carpe [*] 
 - Euhhhh il me semble que c'est dans un étang
 
-+ [*] peche souvent[*]
++ [*] peche souvent [*]
 - A peu près tous les week-end
 
-+ [*] peche avec tes amis[*]
++ [*] peche avec tes amis [*]
 - Oui j'ai beaucoup d'amis, j'en ai deux, la classe
 
-+ [*] serieusement tu peches avec tes amis[*]
++ [*] serieusement tu peches avec tes amis [*]
 - Oui ça m'arrive 
 
 + [*] beaucoup de materiel [*]
@@ -47,7 +47,7 @@ version = 2.0
 + [*] poissons que tu connais [*]
 - Je connais les carpes, les brochets, les gardons, les truites
 
-+ [*] peche ce week end[*]
++ [*] peche ce week end [*]
 - Oui je vais pêcher ce week-end
 
 + [*] le brochet [*]
@@ -83,10 +83,10 @@ version = 2.0
 % pourquoi les blondes ont la t*te mouill*e quand elle sortent de chez elles
 - Car elle disent au revoir à leur poisson rouge
 
-+ [*] plus gros carnassier[*]
++ [*] plus gros carnassier [*]
 - Qu'est-ce que j'en sais je suis pas devin !
 
-+ [*] as tu peche un poisson[*]
++ [*] as tu peche un poisson [*]
 - Oui, 2 carpes et un brochet
 
 + tu peches avec des appats
@@ -120,7 +120,7 @@ version = 2.0
 + tu peche depuis combien de temps
 - Oui, ça fait 9 ans 
 
-+ [*] depuis combien de temps[*]
++ [*] depuis combien de temps [*]
 - Oui, ça fait 9 ans 
 
 + [*] avec quoi la carpe [*]
