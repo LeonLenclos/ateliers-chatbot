@@ -1,5 +1,5 @@
 // cinema
-// V2
+// V4
 // ciné
 // ce code permet de faire une discussion sur le cinéma
 
@@ -25,6 +25,10 @@
 ! array acteurspreferes = Joey King|Jacob Elordi|Leonardo DiCaprio
 
 ! array acteurprefere = Joey King|Jacob Elordi|Leonardo DiCaprio
+
+! array filmmoment = the kissing booth|love simon|nos etoiles contraire|everything everything|sierra burgess is a loser|ralph 2.0|la reine des neiges 2|le roi lion|dumbo|annabelle 3|ca|escape game
+
+
 
 
 + [*] (aimes|aime) [*] (cinema|film) [*]
@@ -74,8 +78,24 @@
 - Ouiiiii je les adore
 
 
-+ quel est le dernier film que tu as vu au cinema 
-- j'ai vue (@filmderniervue)
++ quel est le dernier film que tu as vu au cinema|tu as regardé quoi comme film dernierement
+- J'ai vu (@filmderniervue)
 
-+ tu as regardé quoi comme film dernierement
-- j'ai vue (@filmderniervue)
+
++ * acteurs preferes
+- Mes acteurs préférés sont (@acteurspreferes)
+
++ * acteur prefere
+- Mon acteur préféré est  (@acteurprefere)
+
++ * film du moment
+- Mon film du moment est (@filmmoment)
+
+
+
+
+
+
+
+
+
