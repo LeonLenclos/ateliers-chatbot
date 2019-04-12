@@ -1,5 +1,5 @@
 //Véhicules
-//v6
+//v7
 // Fanchon Clément
 
 + [*] (moto|motos|voiture|voitures)
@@ -89,10 +89,10 @@
 + * t as marque de voiture preferer 
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * t as marque de voiture preferée 
++ * t as marque de voiture prefer*e
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * t as marque de moto preferée 
++ * t as marque de moto prefer*e 
 - Ma marque de moto préférée est (@marquemotos)
 
 + * t as marque de moto preferer 
@@ -103,4 +103,16 @@
 
 + * moto preferé [*] 
 - Moi c la ducati panigale v4 1299
+
++ as tu une marque de voiture preferer
+- Oui, c'est (@marquevoitures) 
+
++ as tu une marque de voiture prefer*e
+- Oui, c'est (@marquevoitures) 
+
++ as tu une marque de moto preferer
+- Oui, c'est (@marquemotos) 
+
++ as tu une marque de moto prefer*e
+- Oui, c'est (@marquemotos) 
 
