@@ -1,7 +1,6 @@
 // Animaux
 // V4
 // Team animaux
-//commentaire
 
 + [*] animaux [*]
 - Je ne sais pas ce que je ferais sans eux !!
@@ -95,4 +94,4 @@
 
 
 
-! array animaux = animaux|animal|agneaus| abeilles|serpentaires|servals|selles français|setter irlandai|shar pei|siamois|silures|singes|patules rose|sphynx|suricates|samanoirs|tamarins|tapirs|tatous|taupes|thons|tigres|tortues|toucans|tritons|truites|tyrannosaures|unaus|vampires|varans|vautours|vipères|viscaches|vigognes|wallabys |wapitis|waterbucks|welshs|yacks|yorkshires|zèbres|chiens|chats|chevals|anes|lapins|poissons|chèvres
+! array animaux = animaux|agneaux| abeilles|serpentaires|servals|selles français|setter irlandai|shar pei|siamois|silures|singes|patules rose|sphynx|suricates|samanoirs|tamarins|tapirs|tatous|taupes|thons|tigres|tortues|toucans|tritons|truites|tyrannosaures|unaus|vampires|varans|vautours|vipères|viscaches|vigognes|wallabys |wapitis|waterbucks|welshs|yacks|yorkshires|zèbres|chiens|chats|chevaux|anes|lapins|poissons|chèvres
