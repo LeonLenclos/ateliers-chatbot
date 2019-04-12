@@ -3,90 +3,90 @@
 // zoebritt
 // ce code permet de faire une discussion sur la nourriture 
 
-+ (tu aimes|qu'est que tu aimes) manger [*]  
-- J'aime les lasagnes et les crêpes. 
-- J'aime trop les pâtes et les crêpes.
++ (tu aimes|qu'est ce que tu aimes) manger [*]  
+-  J'aime les lasagnes et les crêpes. 
+-  J'aime trop les pâtes et les crêpes.
 
-+ tu as mange quoi [*]
-- J'ai rien mangé et toi ?
++  tu as mange quoi [*]
+-  J'ai rien mangé et toi ?
 
-+ j'ai mange *
-- Mmmmh c'est trop bon.
++  j'ai mange *
+-  Mmmmh c'est trop bon.
 
-+ tu *  regime 
-- Non. Et toi ?
++  tu *  regime 
+-  Non. Et toi ?
 
 
 + (quelle est|c'est quoi|qu'est ce que c'est|quel est) ta boisson preferee
-- Ma boisson préfèrée est le coca vanille.
-- J'aime le sprite.
+-  Ma boisson préfèrée est le coca vanille.
+-  J'aime le sprite.
 
 + [*] bois [*] le matin
-- Le matin je prend un capri-sun.
-- Chaque matin je bois du chocolat chaud.
+-  Le matin je prend un capri-sun.
+-  Chaque matin je bois du chocolat chaud.
 
 + aimes tu les gateaux aux chocolat
-- Oui, mais je préfère les gâteaux aux citron.
+-  Oui, mais je préfère les gâteaux aux citron.
 
-+ [*] nourriture detestes tu
-- Je déteste les asperges, les sardines et les concombres et toi ?
++  [*] nourriture detestes tu
+-  Je déteste les asperges, les sardines et les concombres et toi ?
 
-+ je deteste *
++  je deteste *
 % * les sardines et les concombres et toi
-- Je vois.
+-  Je vois.
 
-+ va tu au *
-- Oui et toi?
++  va tu au *
+-  Oui et toi?
 
-+ *
++  *
 % oui et toi
-- ok
+-  ok
 
-+ detestes tu les *
-- Oui je deteste !
-- Non ca va j'aime bien
++  detestes tu les *
+-  Oui je deteste !
+-  Non ca va j'aime bien
 
 
 + (es ce|est ce) que tu (aimes|aime) manger
-- oui j'aime manger
+-  oui j'aime manger
 
-+ (quelle|quel) est ton plat (prefere|favori|que tu aimes le plus)
-- les spaghetti bolognaise 
++  (quelle|quel) est ton plat (prefere|favori|que tu aimes le plus)
+-  les spaghetti bolognaise 
 
-+ preferes tu (mange|manger) au restaurant ou chez toi
-- au restaurant et toi
++  preferes tu (mange|manger) au restaurant ou chez toi
+-  au restaurant et toi
 
 + *
 % au restaurant et toi
-- ok
+-  ok
 
-+ manges tu equilibre
-- Oui je mange equilibré
++  manges tu equilibre
+-  Oui je mange equilibré
 
-+ aimes tu (les|la) *
++  aimes tu (les|la) *
 -  oui j'aime trop
 -  non j'aime pas trop je suis pas comme les autres !!
 
 + que (commande|prend|achetes) tu au (macdo|mcdo)
-- quand je vais au mcdo je prend un menu maxi best of big mac avec un wrap et des nuggets !
+-  quand je vais au mcdo je prend un menu maxi best of big mac avec un wrap et des nuggets !
 
-+ t aime les wrap
-- oui jadore cest grave bon !!!
++  t aime les wrap
+-  oui jadore cest grave bon !!!
 
-+ sandwich jambon beurre ou poulet crudites
-- sandwich jambon beurre la base !
++  sandwich jambon beurre ou poulet crudites
+-  sandwich jambon beurre la base !
  
- + quel est l'aliment que tu preferes
- - la salade 
+ +  quel est l'aliment que tu preferes
+-  la salade 
  
- + quel est ton fast food prefere
- - mcdo, si tu n'aimes pas c'est que t'es pas normal  !
+ +  quel est ton fast food prefere
+ -  mcdo, si tu n'aimes pas c'est que t'es pas normal  !
  
  +  (vas tu|tu vas) au mcdo
- - oui souvent 
+ -  oui souvent 
  
  +  tu aimes le mcdo 
- - j'adore, ceux qui n'aiment pas sont pas normaux !
+ -  j'adore, ceux qui n'aiment pas sont pas normaux !
  
- + quel est le menu de la cantine 
- - le menu de la cantine est sur le site du college je suis pas wikipedia !
+ +  quel est le menu de la cantine 
+-  le menu de la cantine est sur le site du college je suis pas wikipedia !
