@@ -1,33 +1,35 @@
+                
 //echecs
-// V 1.2
-//Théo Titouan
+// V 4
+//Théo Titouan Thomas
 // conversation sur les échecs
 
 
 ! version = 2.0
 
-! version = 2.0
+// questions sur les échecs
+
++ comment [*] joue [*] (echec|échecs|echecs)[*]
+-  <a href="http://lichess.org">cliquez ici</a>
 
 
-+ [*] joues [*] (echec|échec)
+
++ [*] joues [*] (echec|échecs|)
 - Oui
 
-+ joues [*] (echec|échec)
++ joues [*] (echec|échecs)
 - Oui
 
 + [*] jouer [*] échecs
 -oui
 
-+ c'est quoi ton pion préféré
-- C'est la dame parce qu'elle peut aller partout. 
-
-+ quel est ton pion préféré
++ [*] ton pion préféré
 - c'est la dame parce qu'elle peut aller partout. 
 
 + [*] aimes [*] (echecs|échecs)
 - oui et toi ?
 
-+ oui [*]
++ (oui|*){weight=10}
 % oui et toi
 - alors tu veux faire une partie ce soir ?
 
@@ -35,7 +37,7 @@
 % oui et toi
 - alors quesques tu aimes !!
 
-+ oui [*]
++ oui [*]{weight=10}
 % alors tu veux faire une partie ce soir
 - alors tu m'apprendras à jouer !!
 
@@ -47,95 +49,51 @@
 % aurais tu peur de perdre 
 - Moi aussi 
 
-+non [*]
++ non [*]
 % aurais tu peur de perdre 
--a bon ?
+- a bon ?
 
++ je (ne|) sais pas [*] jouer
+% alors tu m'apprendras à jouer
+- pourquoi tu as dit oui
 
-// questions à propos des échecs
++ [*]
+% pourquoi tu as dit oui
+- sort !!
 
-+ [*]roi [*] (*)
-- <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
++ (ok|*)
+% sort
+- ALLER, du vent parle de pêche. c'est bien la pêche.
 
-+ [*]fou [*] (*)
-- <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
++ (merci|*)
+% aller du vent parle de pêche c'est bien la pêche
+- c'est un bon conseil, non?
 
-+ [*]chavalier [*] (*)
-- <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
-
-+ [*]dame [*] (*)
-- <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
-
-+ [*]tour [*] (*)
-- <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
-
-+ [*]pion [*] (*)
-- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
-
++ (oui|non)
+% c'est un bon conseil non
+- bon tu commence a m'embêter
 
 // coordonnées des pions
 
-
-+ (*) joues [*] (echec|échec)
-- Oui
-
-+ joues [*] (echec|échec)
-- Oui
-
-+ c'est quoi ton pion préféré
-- C'est la dame parce qu'elle peut aller partout. 
-
-+ quel est ton pion préféré
-- c'est la dame parce qu'elle peut aller partout. 
-
-+ [*] aimes [*] (echecs|échecs) 
-- oui et toi ?
-
-+ oui [*]
-% oui et toi
-- alors tu veux faire une partie ce soir ?
-
-+ non [*]
-% oui et toi
-- alors quesques tu aimes !!
-
-+ oui [*]
-% alors tu veux faire une partie ce soir
-- alors tu m'apprendras à jouer !!
-
-+ non [*]
-% alors tu veux faire une partie ce soir ?
-- aurais tu peur de perdre 
-
-+ oui [*]
-% aurais tu peur de perdre 
-- Moi aussi 
-
-+non [*]
-% aurais tu peur de perdre 
--a bon ?
-
-
-// questions à propos des échecs
-
-+ [*]roi [*] (*)
++ [*] roi [*] (*)
 - <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
 
-+ [*]fou [*] (*)
++ [*] fou [*] (*)
 - <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
 
-+ [*]chavalier [*] (*)
++ [*] chavalier [*] (*)
 - <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
 
-+ [*]dame [*] (*)
++ [*] dame [*] (*)
 - <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
 
-+ [*]tour [*] (*)
++ [*] tour [*] (*)
 - <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
 
-+ [*]pion [*] (*)
++ [*] pion [*] (*)
 - <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
 
++ [*] pion [*] (*)
+- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
 
-// coordonnées des pions
 
