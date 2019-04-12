@@ -1,18 +1,15 @@
 // cinema
-// V6
+// V7
 // ciné
 // ce code permet de faire une discussion sur le cinéma
 
 ! array filmromance = the kissing booth|love simon|nos etoiles contraire|everything everything|sierra burgess is a loser|a tout les garçon que j'ai aime|love addict
 
-
 ! array filmhorreur = massacre a la tronconneuse|la nonne|action ou verite|happy birthdead 2 you|annabelle 3|ca|escape game
 
 ! array filmhumoristique = les tuche 3|la ch'tite famille|larguées|taxi 5|les dents, pipi et au lit|qu'est-ce qu'on a encore fait au bon dieu|la lutte des classes
 
-
 ! array filmdramatique = titanic|a star is born|en guerre|amanda|mes freres|les animaux fantastiques|la saveur des ramen
-
 
 ! array filmfantastique = aladdin|harry poter|pokémon:détective pikachu|maléfique 2|casse-noisette et les quatre royaumes|deadpool 2|pierre lapin
 
@@ -28,55 +25,55 @@
 
 ! array filmmoment = the kissing booth|love simon|nos etoiles contraire|everything everything|sierra burgess is a loser|ralph 2.0|la reine des neiges 2|le roi lion|dumbo|annabelle 3|ca|escape game
 
-+ [*] (cinema|film|cinéma|films) [*]
-- Oui j'adore
-- Vive le cinéma
+! array typedefilm = romance|horreur|humoristique|dramatique|fantastique|animation
 
-+ [*] (aimes|aime) [*] (cinema|film) [*]
+
++ [*] (cinema|film|films) [*]
+- Oui j'adore. Vive le cinéma
+
++ [*] (aimes|aime) [*] (cinema|film|films) [*]
 - Oui.
-- Uniquement certains types de film.
 
 + [*] (cinema|film) [*] (aimes|aime) [*]
-- Oui.
-- Uniquement certains types de film.
+- Oui. J'aime particulièrement(@typedefilm)
 
-+ [*] film [*] romance [*] (aime|aimes) [*]
++ (quel|quels|quoi)* film[s] [*]
+- J'aime (@typedefilm)
+
++ [*] film[s] [*] romance [*] (aime|aimes) [*]
 - J'aime (@filmromance)
 
-+ [*] film [*] horreur [*] (aime|aimes) [*]
++ [*] film[s] [*] horreur [*] (aime|aimes) [*]
 - J'aime (@filmhorreur)
 
-+ [*] film [*] humoristique [*] (aime|aimes) [*]
++ [*] film[s] [*] humoristique [*] (aime|aimes) [*]
 - J'aime (@filmhumoristique)
 
-+ [*] film [*] dramatique [*] (aime|aimes) [*]
++ [*] film[s] [*] dramatique [*] (aime|aimes) [*]
 - J'aime (@filmdramatique)
 
-+ [*] film [*] fantastique [*] (aime|aimes) [*]
++ [*] film[s] [*] fantastique [*] (aime|aimes) [*]
 - J'aime (@filmfantastique)
 
-+ [*] film [*] animation [*] (aime|aimes) [*]
++ [*] film[s] [*] animation [*] (aime|aimes) [*]
 - J'aime (@filmanimation)
 
-+ quel est ton film prefere
++ * film[s] prefere[s] [*]
 - Mon film préféré est (@filmprefere)
 
 + quels sont les films que tu aimes le plus 
 - Mon film préféré est (@filmprefere)
 
-+ aimes-tu les dessins animes ?
-- Ouiiiii je les adore
++ (@aimes) les dessins animes [*]
+- Ouiiiii je les adore.
 
-+ quel est le dernier film que tu as vu au cinema|tu as regardé quoi comme film dernierement
++ (quel est le dernier film que tu as vu au cinema|tu as vu quoi comme film dernierement)
 - J'ai vu (@filmderniervue)
 
-+ * acteurs preferes
-- Mes acteurs préférés sont (@acteurspreferes)
-
-+ * acteur prefere
++ * acteur[s] prefere[s]
 - Mon acteur préféré est  (@acteurprefere)
 
-+ * film du moment
++ * film[s] du moment
 - Mon film du moment est (@filmmoment)
 
 
