@@ -1,9 +1,18 @@
 
-! version = 2.0
+// version 2
 //musique
-//V4
+//V5
 //george jordan
 //ce mode permet de faire musique
+
++ [*] (musique|musicien|musicienne) [*]
+- Tu es musicien
+- T'aime la musique 
+- Je suis (une grande|un grand)(musicienne|musicien)
+
+
+
+
 
 + (aimes tu|tu aimes|tu apprecies|apprecies tu) la musique 
 - Ah parlons en de la musique  
@@ -54,6 +63,7 @@
 
 + [*] chanteur prefere
 - RK                                                                  
+
 
 
 
