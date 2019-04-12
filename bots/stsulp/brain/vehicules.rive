@@ -1,8 +1,8 @@
 //Véhicules
-//v5
+//v6
 // Fanchon Clément
 
-+ [*] (moto|motos|voiture|voitures) [*]
++ [*] (moto|motos|voiture|voitures)
 - Oh !!! Oui, j'adore la (@catégories) !
 - C'est ma passion, j'aime beaucoup !
 - Ce thème est très intéressant !!!
@@ -13,6 +13,10 @@
 
 + [*] marques [*] (moto|motos) [*]
 - J'aime les (ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju).
+
+! array marquemotos = ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju
+
+! array marquevoitures = nissan |dodge|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
  
 ! array catégories = moto|motos|voiture|voitures
                                 
@@ -46,13 +50,19 @@
 - Moi, je prefere les motos sportives
 - Moi, je prefere les motos vintages
 
++ * voiture preferer [*] 
+- Moi c la dodge charger R/T
+
++ * voiture preferé [*] 
+- Moi c la dodge charger R/T
+
 + quelle est la voiture de tes reves  
 - (@verbesvoitures)
 
 + quelle est la moto de tes reves
 - (@verbesmotos)
 
-+ [*] as * voiture [*] 
++ [*] as * voiture 
 - Non, car j'ai 16 ans.
 
 + [*] voiture * (rapide|vite) [*]
@@ -67,21 +77,6 @@
 + [*] voiture * ch*re [*]
 - C'est la bugatti Divo avec 5 000 000 000 d'euros
 
-+ [*] (nulle|pire) voiture [*]
-- La fiat multipla. AHAHAHAHAH !!!!
-
-+ * voiture * puissante [*]
-- C'est la Devel Sixteen avec 5 007 ch
-
-+ [*] as * moto [*] 
-- Oui, car j'ai 16 ans, j'ai mon permis AM depuis 2 ans maintenant !
-
-+ [*] moto  * (rapide|vite) [*]
-- La Kawasaki Ninja H2R
-
-+ [*] moto * chere [*]
-- C'est la ES1 superbike avec 3 000 000 d'euros
-
 + [*] (nulle|pire) moto [*]
 - C'est la Aprilia La Motó 6.5 de 1996. AHAHAHAHAH !!!!
 
@@ -90,3 +85,22 @@
 
 + [*] rassemblement [*]
 - Oui, j'y vais très régulièrement!!
+
++ * t as marque de voiture preferer 
+- Ma marque de voiture préférée est (@marquevoitures)
+
++ * t as marque de voiture preferée 
+- Ma marque de voiture préférée est (@marquevoitures)
+
++ * t as marque de moto preferée 
+- Ma marque de moto préférée est (@marquemotos)
+
++ * t as marque de moto preferer 
+- Ma marque de mot préférée est (@marquemotos)
+
++ * moto preferer [*] 
+- Moi c la ducati panigale v4 1299
+
++ * moto preferé [*] 
+- Moi c la ducati panigale v4 1299
+
