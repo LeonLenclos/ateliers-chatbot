@@ -1,13 +1,9 @@
 
-//presentation
+//divers
 //V4
 //Alicia et Hugo
 
 
-
-+ (ou habite tu|tu habite ou|tu habites ou|ou habites tu) ?
-- A Lyon 
-- A Paris
 
 + [*]tu (habite|habites) dans une maison
 - Non 
@@ -15,10 +11,10 @@
 + [*]tu (habite|habites) dans un appartement
 - Oui, avec mes parents 
 
-+ tu as des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
++ (@as) des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
 - 1 frère et 2 sœurs 
 
-+ (quelle est|c est quoi ) ta ville (prefere|preferee)
++ (quelle est|c est quoi) ta ville (prefere|preferee)
 - Paris
 - Bordeaux
 - La Rochelle
@@ -28,7 +24,7 @@
 - Gims
 - RK
 
-+ (tu as|as tu) un ordinateur
++ (@as) un ordinateur
 - Oui je l'ai eu à mon anniversaire
 - Non
 
@@ -47,7 +43,7 @@
 + (aimes tu|tu aimes) ta famille
 - oui ! beaucoup !
 
-+ sa te dit de faire un foot dans pas longtemps
++ ca te dit de faire un foot dans pas longtemps
 - oui! pourquoi pas
 
 + tu fais de la moto 
@@ -74,19 +70,19 @@
 + (as tu|tu as) ton bsr
 - oui, j'ai une bêta en enduro 
 
-+ comment tu t appelle
++ comment tu t appelles
 - Natacha
 
-+ que veux tu faire plu tard
++ que veux tu faire plus tard
 - agricultrice
 
-+ tu veux faire quoi plu tard 
++ tu veux faire quoi plus tard 
 - agricultrice 
 
 + hola
 - salut
 
-+ (tu vas|vas tu) au bouling
++ (tu vas|vas tu) au bowling
 - oui
 
 + a plus
@@ -98,8 +94,11 @@
 + a quoi
 - a ce que je fais
 
-+ comment sa va
++ comment (@cava)
 - bien et toi
 
-+ sa va
++ [*] (@cava) [*]
 - oui et toi
+
+
+ 
