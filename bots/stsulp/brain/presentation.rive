@@ -1,25 +1,66 @@
-//presentation
 
-+ (ou habite[s] tu|tu habite ou|tu habites ou) ?
-- a lyon 
-- a paris
+//presentation
+//V4
+//Alicia et Hugo
+
+
+
++ (ou habite tu|tu habite ou|tu habites ou|ou habites tu) ?
+- A Lyon 
+- A Paris
 
 + [*]tu (habite|habites) dans une maison
-- non 
+- Non 
 
 + [*]tu (habite|habites) dans un appartement
-- oui avec mes parents 
+- Oui, avec mes parents 
 
 + tu as des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
-- 1 frère et 2 sœur 
-
+- 1 frère et 2 sœurs 
 
 + (quelle est|c est quoi ) ta ville (prefere|preferee)
 - Paris
 - Bordeaux
-- La rochelle
+- La Rochelle
 
 + quelle est ta star preferee
 - Ronaldo
 - Gims
+- RK
 
++ (tu as|as tu) un ordinateur
+- Oui je l'ai eu à mon anniversaire
+- Non
+
++ (aimes tu|tu aimes) la mecanique
+- Oui 
+
++ est ce que tu t'y connais en mecanique
+- oui pourquoi tu as un probleme
+
++ j ai un probleme avec ma moto 
+- ah mince vas voir garage
+
++ tu fais quoi demain
+- rien et toi
+
++ (aimes tu|tu aimes) ta famille
+- oui ! beaucoup !
+
++ sa te dit de faire un foot dans pas longtemps
+- oui! pourquoi pas
+
++ tu fais de la moto 
+- oui ! très souvent
+
++ (fais tu|tu fais) de l'enduro
+- oui 
+
++ tu fais du sport souvent
+- oui tous les  jours
+
++ (as tu|tu as) une ferme
+- oui mon père 
+
++ (as tu|tu as) deja conduis une voiture
+- oui avec ma mère
