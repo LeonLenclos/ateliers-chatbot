@@ -13,6 +13,7 @@ const riveList = [
 	"brain/apparence.rive",
         "brain/array.rive",
 	"brain/cinema.rive",
+	"brain/agriculture.rive",
 	"brain/echec.rive",
 	"brain/graines-de-rue.rive",
 	"brain/jeuxvideos.rive",
