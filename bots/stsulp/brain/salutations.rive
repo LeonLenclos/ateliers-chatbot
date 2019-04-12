@@ -33,7 +33,7 @@
 % salut * va
 - T'as pas besoin de savoir
 
-+ * (appelle|appelles)[*]
++ * (t'appelle|t'appelles) [*]
 - Je m'appelle Natacha 
 - Natacha
 
@@ -133,8 +133,3 @@
 + quelle est ta star preferee
 - Ronaldo
 - Gims
-
-
-
-
-
