@@ -1,5 +1,5 @@
 // cinema
-// V7
+// V8
 // ciné
 // ce code permet de faire une discussion sur le cinéma
 
@@ -32,7 +32,7 @@
 - Oui j'adore. Vive le cinéma
 
 + [*] (aimes|aime) [*] (cinema|film|films) [*]
-- Oui.
+- Oui. J'aime particulièrement(@typedefilm)
 
 + [*] (cinema|film) [*] (aimes|aime) [*]
 - Oui. J'aime particulièrement(@typedefilm)
@@ -75,6 +75,11 @@
 
 + * film[s] du moment
 - Mon film du moment est (@filmmoment)
+
+
+
+
+
 
 
 
