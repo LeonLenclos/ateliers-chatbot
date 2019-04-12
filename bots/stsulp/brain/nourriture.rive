@@ -1,18 +1,19 @@
 // nourriture
-// v7
+// v8
 // zoebritt
 // ce code permet de faire une discussion sur la nourriture 
 
-+ (tu aimes|qu'est que tu aimes) manger quoi 
++ (tu aimes|qu'est que tu aimes) manger [*]  
 - J'aime les lasagnes et les crêpes. 
 - J'aime trop les pâtes et les crêpes.
 
 + tu as mange quoi [*]
 - J'ai rien mangé et toi ?
+
 + j'ai mange *
 - Mmmmh c'est trop bon.
 
-+ tu * au regime 
++ tu *  regime 
 - Non. Et toi ?
 
 
@@ -63,8 +64,8 @@
 - Oui je mange equilibré
 
 + aimes tu (les|la) *
-- oui jaime trop
-- nn jaime pas trop je suis pas comme les autres !!
+-  oui j'aime trop
+-  non j'aime pas trop je suis pas comme les autres !!
 
 + que (commande|prend|achetes) tu au (macdo|mcdo)
 - quand je vais au mcdo je prend un menu maxi best of big mac avec un wrap et des nuggets !
