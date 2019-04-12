@@ -1,9 +1,9 @@
 //Véhicules
-//v7
+//v8
 // Fanchon Clément
 
 + [*] (moto|motos|voiture|voitures)
-- Oh !!! Oui, j'adore la (@catégories) !
+- Oh !!! Oui, j'adore la moto !
 - C'est ma passion, j'aime beaucoup !
 - Ce thème est très intéressant !!!
 - Depuis que je suis toute petite je baigne dedans !!! <3 Au sens imagé ! MDRRR !
@@ -30,6 +30,11 @@
 
 + [*] aime [*] (les voitures|la voiture|les motos|la moto)
 - J'adore !! Et toi ?
+
++ oui j adore
+% j'adore et toi 
+- D'accord
+
 
 + [*] aimes [*] (les voitures|la voiture|les motos|la moto)
 - J'adore !! Et toi ?
@@ -86,33 +91,33 @@
 + [*] rassemblement [*]
 - Oui, j'y vais très régulièrement!!
 
-+ * ta marque de voiture prefere 
++ * t as marque de voiture preferer 
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * ta marque de voiture prefer*e
++ * t as marque de voiture prefer*e
 - Ma marque de voiture préférée est (@marquevoitures)
 
-+ * ta marque de moto prefer*e 
++ * t as marque de moto prefer*e 
 - Ma marque de moto préférée est (@marquemotos)
 
-+ * ta marque de moto preferer 
++ * t as marque de moto preferer 
 - Ma marque de mot préférée est (@marquemotos)
 
 + * moto preferer [*] 
-- Moi c'est la ducati panigale v4 1299
+- Moi c la ducati panigale v4 1299
 
-+ * moto prefere [*] 
-- Moi c'est la ducati panigale v4 1299
++ * moto preferé [*] 
+- Moi c la ducati panigale v4 1299
 
-+ as tu une marque de voiture preferee
++ as tu une marque de voiture preferer
 - Oui, c'est (@marquevoitures) 
 
-+ as tu une marque de voiture preferee
++ as tu une marque de voiture prefer*e
 - Oui, c'est (@marquevoitures) 
 
-+ as tu une marque de moto prefere
++ as tu une marque de moto preferer
 - Oui, c'est (@marquemotos) 
 
-+ as tu une marque de moto preferee
++ as tu une marque de moto prefer*e
 - Oui, c'est (@marquemotos) 
 
