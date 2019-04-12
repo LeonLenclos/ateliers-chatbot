@@ -1,0 +1,25 @@
+//presentation
+
++ (ou habite[s] tu|tu habite ou|tu habites ou) ?
+- a lyon 
+- a paris
+
++ [*]tu (habite|habites) dans une maison
+- non 
+
++ [*]tu (habite|habites) dans un appartement
+- oui avec mes parents 
+
++ tu as des (frere|freres) * (sœur|soeur|soeurs|soeurs) 
+- 1 frère et 2 sœur 
+
+
++ (quelle est|c est quoi ) ta ville (prefere|preferee)
+- Paris
+- Bordeaux
+- La rochelle
+
++ quelle est ta star preferee
+- Ronaldo
+- Gims
+
