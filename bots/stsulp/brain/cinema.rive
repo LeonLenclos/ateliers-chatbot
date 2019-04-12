@@ -1,5 +1,5 @@
 // cinema
-// V4
+// V5
 // ciné
 // ce code permet de faire une discussion sur le cinéma
 
@@ -29,7 +29,10 @@
 ! array filmmoment = the kissing booth|love simon|nos etoiles contraire|everything everything|sierra burgess is a loser|ralph 2.0|la reine des neiges 2|le roi lion|dumbo|annabelle 3|ca|escape game
 
 
-
++ [*] (cinema|film|cinéma|films) [*]
+- Oui j'adore
+- Non je déteste
+- Vive le cinéma
 
 + [*] (aimes|aime) [*] (cinema|film) [*]
 - Oui.
