@@ -1,4 +1,4 @@
-! version = 2.0
+
 //peche
 //V3
 //ce code permet de faire pêche
@@ -6,14 +6,15 @@
 
 
 
-+ [*] la peche [*]
-- Génial on pourra aller à la pêche ensemble
++ [*] tu la peche [*]
+- Oui j'aime bien la pêche 
+- Génial, on pourra aller à la pêche ensemble
 - J'adore la pêche, tu pêches souvent toi ?
 
 
 + [*] et toi [*]
 % j'adore la p*che, tu p*ches souvent toi
-- Oui moi j'y vais tous les week end
+- Oui, moi j'y vais tous les week end
  
 
 + [*] comme peche [*]
@@ -35,10 +36,10 @@
 - Euhhhh il me semble que c'est dans un étang
 
 + [*] peche souvent[*]
-- A peu près tout les week-end
+- A peu près tous les week-end
 
 + [*] peche avec tes amis[*]
-- Oui j'ai beaucoup d'amis, j'en ai deux la classe
+- Oui j'ai beaucoup d'amis, j'en ai deux, la classe
 
 + [*] serieusement tu peches avec tes amis[*]
 - Oui ça m'arrive 
@@ -50,7 +51,7 @@
 - Oui
 
 + [*] poissons que tu connais [*]
-- je connais les carpes, les brochets, les gardons, les truites
+- Je connais les carpes, les brochets, les gardons, les truites
 
 + [*] peche ce week end[*]
 - Oui je vais pêcher ce week-end
@@ -59,7 +60,7 @@
 - Le brochet est un carnassier
 
 + tu peches dans les (lacs|etangs|canaux|rivieres)
-- Mdr je pêche où je veux
+- Mdr, je pêche où je veux
 
 + as tu une canne a peche
 - Oui j'ai une canne à pêche
@@ -68,14 +69,14 @@
 - Oui je pêche avec un bouchon
 
 + [*] blague [*]
-- Pourquoi les poissons ne vont pas au cours d'anglais
+- Pourquoi les poissons ne vont pas au cours d'anglais ?
 
 + (jsp|je sais pas)
 % pourquoi les poissons ne vont pas au cours d'anglais
-- Parce ce qu'ils s'en fish
+- Parce qu'ils s'en fish
 
 + [*] une autre blague [*]
-- Comment une blonde tue-t-elle un poisson
+- Comment une blonde tue-t-elle un poisson ?
 
 + (jsp|je sais pas)
 % comment une blonde tue-t-elle un poisson
@@ -88,17 +89,49 @@
 % pourquoi les blondes ont la t*te mouill*e quand elle sortent de chez elles
 - Car elle disent au revoir à leur poisson rouge
 
-+ quel est le plus gros carnassier
-- Qu'es que j'en sais je suis pas devin
++ [*] plus gros carnassier[*]
+- Qu'est-ce que j'en sais je suis pas devin !
 
-+ as tu peche un poisson
-- Oui 2 carpe et un brochet
++ [*] as tu peche un poisson[*]
+- Oui, 2 carpes et un brochet
 
 + tu peches avec des appats
-- Non je tes dit que je peche au leures tes sourd ou quoi !!!
+- Non, je t'ai dit que je pêche au leurre, t'es sourd ou quoi !!!
 
-+ il faut que tu peche avec moi
-- Ok peut-etre un jour
++ il faut que tu peches avec moi
+- Ok, peut-etre un jour
 
-+ quand va tu a la peche
-- Je sais pas je suis pas devin !!!!  
++ quand vas tu a la peche
+- Je sais pas je suis pas devin !!!!
+
++ tu peches à quoi
+- Je pêche au leurre
+
++ tu as quoi comme leurre
+- Des leurres souple et des leurre dur
+
++ qu'est que c'est un leurre souple
+- C'est un faux poisson en plastique souple
+
++ connais tu *
+- Non je connais pas <star>
+- Oui je connais <star>
+
++ quel est ton poisson prefere
+- C'est la carpe
+
++ connais tu la peche *
+- Oui je connais <star> 
+
++ tu peche depuis combien de temps
+- Oui, ça fait 9 ans 
+
++ [*] depuis combien de temps[*]
+- Oui, ça fait 9 ans 
+
++ [*] avec quoi la carpe [*]
+- Je pêche avec des bouillettes ou au maïs 
+
++ [*] quoi comme (amorce|appat) pour la carpe [*]
+- J'utilise des bouillette ou de l'appât naturel  
+
