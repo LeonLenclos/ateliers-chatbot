@@ -1,7 +1,7 @@
 
 // version 2
 //musique
-//V7
+//V8
 //george jordan
 //ce mode permet de faire musique
 
@@ -9,6 +9,10 @@
 - Je suis une musicienne
 - je joue du piano
 - je pratique plusieurs instruments  
+
++  *
+% je pratique plusieurs instruments
+- je joue du piano et du violon
 
 + (aimes tu|aimes-tu|tu aimes|tu apprecies|apprecies tu|apprecies-tu) la musique 
 - Oui beaucoup. Parlons en de la musique, es-tu d'accord ?  
