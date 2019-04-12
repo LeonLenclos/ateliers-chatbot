@@ -1,21 +1,15 @@
 
+version = 2.0
 //peche
 //V3
 //ce code permet de faire pêche
 //tout ce qui concerne la peche:
 
-
++ [*] (peche|poissons) [*]
 
 + [*] tu la peche [*]
 - Oui j'aime bien la pêche 
-- Génial, on pourra aller à la pêche ensemble
-- J'adore la pêche, tu pêches souvent toi ?
 
-
-+ [*] et toi [*]
-% j'adore la p*che, tu p*ches souvent toi
-- Oui, moi j'y vais tous les week end
- 
 
 + [*] comme peche [*]
 - Je fais de la pêche au carnassier
