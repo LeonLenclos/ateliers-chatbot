@@ -1,48 +1,104 @@
 ! version = 2.0
 //peche
-//V1
+//V3
 //ce code permet de faire pêche
 //tout ce qui concerne la peche:
 
 
 
-+ [*] aime la peche[*]
-- oui j'aime la pêche 
++ [*] la peche [*]
+- Génial on pourra aller à la pêche ensemble
+- J'adore la pêche, tu pêches souvent toi ?
+
+
++ [*] et toi [*]
+% j'adore la p*che, tu p*ches souvent toi
+- Oui moi j'y vais tous les week end
+ 
 
 + [*] comme peche [*]
-- je fais de la pêche au carnassier
+- Je fais de la pêche au carnassier
 
 + [*] materiel [*]
-- j'ai une canne casting avec de la tresse et un leurre souple
+- J'ai une canne casting avec de la tresse et un leurre souple
 
 + [*] le plus gros poisson [*]
-- un brochet de 1m10
+- Un brochet de 1m10
 
-+ [*]une autre peche[*]
-- oui je fais peche a la carpe
++ [*]une autre peche [*]
+- Oui je fais de la pêche à la carpe
 
 + [*] la plus grosse carpe [*]
-- une carpe de 15kg
+- Une carpe de 15kg
 
-+ [*] peche ta carpe[*] 
-- euhhhh il me semble que cet dans un etang
++ [*] peche ta carpe [*] 
+- Euhhhh il me semble que c'est dans un étang
 
 + [*] peche souvent[*]
-- a peut pres tout les week-end
+- A peu près tout les week-end
 
 + [*] peche avec tes amis[*]
-- oui j'ai beaucoup d'amis j'en ai deux la class
+- Oui j'ai beaucoup d'amis, j'en ai deux la classe
 
-+ [*] serieusement tu peche avec tes amis[*]
-- oui ça m'arrive 
++ [*] serieusement tu peches avec tes amis[*]
+- Oui ça m'arrive 
 
-+ [*] beaucoup de materiel[*]
-- oui j'en ai pas mal
++ [*] beaucoup de materiel [*]
+- Oui j'en ai pas mal
 
-+ [*] connais plusieurs poisson[*]
-- oui
++ [*] connais plusieurs poissons [*]
+- Oui
 
-+ [*] poissons que tu connais[*]
-- je connait les carpes, les brochet, gardon,truites etc...
++ [*] poissons que tu connais [*]
+- je connais les carpes, les brochets, les gardons, les truites
 
 + [*] peche ce week end[*]
+- Oui je vais pêcher ce week-end
+
++ [*] le brochet [*]
+- Le brochet est un carnassier
+
++ tu peches dans les (lacs|etangs|canaux|rivieres)
+- Mdr je pêche où je veux
+
++ as tu une canne a peche
+- Oui j'ai une canne à pêche
+
++ [*] avec un bouchon [*]
+- Oui je pêche avec un bouchon
+
++ [*] blague [*]
+- Pourquoi les poissons ne vont pas au cours d'anglais
+
++ (jsp|je sais pas)
+% pourquoi les poissons ne vont pas au cours d'anglais
+- Parce ce qu'ils s'en fish
+
++ [*] une autre blague [*]
+- Comment une blonde tue-t-elle un poisson
+
++ (jsp|je sais pas)
+% comment une blonde tue-t-elle un poisson
+- Elle le noie
+
++ [*] encore [*]
+- Pourquoi les blondes ont la tête mouillée quand elle sortent de chez elles ?
+
++ (jsp|je sais pas)
+% pourquoi les blondes ont la t*te mouill*e quand elle sortent de chez elles
+- Car elle disent au revoir à leur poisson rouge
+
++ quel est le plus gros carnassier
+- Qu'es que j'en sais je suis pas devin
+
++ as tu peche un poisson
+- Oui 2 carpe et un brochet
+
++ tu peches avec des appats
+- Non je tes dit que je peche au leures tes sourd ou quoi !!!
+
++ il faut que tu peche avec moi
+- Ok peut-etre un jour
+
++ quand va tu a la peche
+- Je sais pas je suis pas devin !!!!  
