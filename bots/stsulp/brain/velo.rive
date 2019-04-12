@@ -1,12 +1,12 @@
 // Velo
-// V2.0
+// V3.0
 // Rémy et Florent
 
 + [*] (fais|faire) [*] (velo|vtt) [*]
-- Je ne fait pas de velo  mais je connais des infos. 
-
-+ est ce que tu as des * sur le velo
-- Oui que veut tu savoir ?    
+- Je ne fais pas de velo  mais je connais des infos. 
+ 
++ [*] (infos|lesquelles) [*] 
+- Oui que veux-tu savoir ?    
 
 + ou * faire du velo {weight=100}
 - Je peux t'indiquer des balades ?
@@ -18,36 +18,34 @@
 - Mais dans quel département habites-tu ?
 
 + j'habite *
-- D'accord ! tu habites loin de Saint-Pardoux ?  
+- D'accord ! Tu habites loin de Saint-Pardoux ?  
 
 + non c'est a * minutes de * 
-- D'accord mais de quels type de vélo fait-tu ?
+- D'accord mais de quel type de vélo fais-tu ?
 
 + je fait du velo tout terrain 
-- Donc tu peut faire combien de kilomètres ?
+- Donc tu peux faire combien de kilomètres ?
 
 + je * environ * kilometres en * 
-- Ok donc je peut te conseiller un parcours qui fait tout le tour du lac sa t’intéresse ?
+- Ok donc je peux te conseiller un parcours qui fait tout le tour du lac, ça t’intéresse ?
 
 + * part
 - Du parking de Chabannes, tu connais ?
 
 + oui c'est a coter d'une plage non 
-- Oui c'est exacte.
+- Oui c'est exact.
 
 + [*] tour [*]
-- oui cela dépend de leurs conditions physiques 
+- Oui cela dépend de ta condition physique
 
-+ tu fait du velo depuis combien de temps
-- Je ne sais pas en faire 
-
-
++ tu fais du velo depuis combien de temps
+- Je ne sais pas en faire donc j'en ai pas 
 
 + * comme velo 
-- je ne sais pas en faire 
+- Je ne sais pas en faire 
 
-+ quel est la marque de ton velo 
-- je n'ai pas de vélo 
++ * marque * velo 
+- Je n'ai pas de vélo 
 
 + aime tu le velo 
-- oui mais je ne sais pas en faire
+- Oui mais je ne sais pas en faire
