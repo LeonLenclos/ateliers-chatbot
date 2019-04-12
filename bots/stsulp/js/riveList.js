@@ -4,6 +4,7 @@ const riveList = [
 "brain/special.rive",
   "brain/animaux.rive",
 	"brain/bip.rive",
+        "brain/array.rive",
 	"brain/cinema.rive",
 	"brain/echec.rive",
 	"brain/jeuxvideos.rive",
