@@ -1,5 +1,5 @@
 //Véhicules
-//v2
+//v3
 // Fanchon Clément
 
 ! array verbesvoitures = nissan skiline gtr r34|dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
@@ -8,7 +8,12 @@
 
 ! array verbesgout = sportives|vintages|luxe
 
-+ aimes tu (les voitures|la voiture|les motos|la moto)
+! array voitureslesmoinscheres = Citroën C1 3 portes avec 10 450€|Ford Ka+ avec 10 150€|Dacia Lodgy avec 10 150€|Seat Mii 3 portes avec 9 895€|Fiat Panda avec 9 690€|Dacia Dokker avec 9 650€|Skoda Citigo 3 portes avec 9 500€|Suzuki Celerio avec 8 990€|Dacia Sandero avec 7 990€|Dacia Logan avec 7 790€ 
+
++ [*] aime [*] (les voitures|la voiture|les motos|la moto)
+- J'adore !! Et toi ?
+
++ [*] aimes [*] (les voitures|la voiture|les motos|la moto)
 - J'adore !! Et toi ?
 
 + * prefere [*](les voitures|la voiture|les motos|la moto)
@@ -39,10 +44,13 @@
 + [*] voiture * (rapide|vite) [*]
 - La bugatti chiron 
 
-+ [*] voitures * chères [*]
++ [*] voitures * plus ch*re [*]
 - Les voitures de luxe et de sport
 
-+ [*] voiture * chere [*]
++ [*] voiture la moin ch*re [*]
+- C'est la Dacia Logan avec 7 790€
+
++ [*] voiture * ch*re [*]
 - C'est la bugatti Divo avec 5 000 000 000 d'euros
 
 + [*] (nulle|pire) voiture [*]
@@ -55,7 +63,7 @@
 - Non, car j'ai 16 ans.
 
 + [*] moto  * (rapide|vite) [*]
-- la la Kawasaki Ninja H2R
+- La Kawasaki Ninja H2R
 
 + [*] moto * chere [*]
 - C'est la ES1 superbike avec 3 000 000 d'euros
@@ -66,16 +74,5 @@
 + * moto * puissante [*]
 - C'est la Y2K TURBINE SUPERBIKE de 2001 avec 320 ch. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
++ [*] rassemblement [*]
+- Oui, j'y vais très régulièrement!!
