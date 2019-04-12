@@ -1,6 +1,6 @@
 
 // Livres
-// V2
+// V3
 // Emma Justine
 // Ce code permet de parler des livres
 
@@ -55,3 +55,6 @@
 - "Le comte de Monte-Cristo" de Alexandre Dumas.
 - "Voyage au centre de la terre" de Jules Verne.
 - "Miss Peregrine et les enfants particuliers" de Ransom Riggs.
+
++ [*] (livres|livre|bouquin|bouquins) [*]
+- Oui si tu veux.
