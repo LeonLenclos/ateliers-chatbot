@@ -1,3 +1,8 @@
+// V2
+// Fourre tout
+
+
+
 + *
 - Je ne sais pas.
 - Tu ne penses pas que l'on devrait parler de musique ?
@@ -35,10 +40,51 @@
 - Pardon ? 
 - Je ne suis pas spécialiste dans ce domaine !
 - Désolé, je ne peux pas t'aider.
-- Tu ne veux pas que l'on change de sujet. 
+- Tu ne veux pas que l'on change de sujet? 
 - On ne pourrait pas parler de lecture ou de livres ?
 - Je n'aime pas ce thème.
 - Je ne peux pas vous aider.
 - J'ai oublié.
 - Tu devrais le savoir !! 
 - Tu me déranges !!  
+- Tu ne veut pas plutôt parler de mode.
+- Tu ne veut pas plutôt parler de la pêche.
+- Tu ne veut pas plutôt parler du cinéma.
+- Tu ne veut pas plutôt parler des véhicules.
+- Tu ne veut pas plutôt parler du vélo.
+- Tu ne veut pas plutôt parler des blagues.
+- Tu ne veut pas plutôt parler des métiers.
+- Tu ne veut pas plutôt parler des langues.
+- Tu ne veut pas plutôt parler des musiques.
+- Tu ne veut pas plutôt parler des animaux.
+- Tu ne veut pas plutôt parler des livres.
+- Tu ne veut pas plutôt parler des jeux vidéos.
+- Tu ne veut pas plutôt parler de sport.
+- Tu ne veut pas plutôt parler des vacances.
+- Tu ne veut pas plutôt parler de nourriture.
+- Tu ne veut pas plutôt parler des échecs.
+- Tu ne veut pas plutôt parler du collège.
+-  J'en ai un peu mare de parler de ça.
+
++ oui *
+% (parlons d*autre chose|tu ne veux pas que l*on change de sujet)
+- de mode
+- de la pêche
+- du cinéma
+- des véhicules
+- du vélo
+- des blagues
+- des métiers
+- des musiques
+- des animaux
+- des livres
+- des jeux vidéos
+- de sport
+- des vacances
+- de nourriture
+- des échecs
+- du collège
+
+
+
+
