@@ -1,40 +1,44 @@
-! version = 2.0
+! version = 4.0
 //sport
 //V2
 //Yoni Dorian
 //ce code répond a quelque question sur le foot
 
++( tu aimes|aimes tu) *
+- Oh oui j'adore <star>
+- Oh non j'adore <star>
+
 + tu fais du foot
-- oui c'est ma passion
+- Oui c'est ma passion
 
 + tu aimes le sport
-- oui j'adore
+- Oui j'adore le foot
 
 + tu aimes le foot
 - Oui j'adore
 
-+ tu fais quoi comme sport 
++ * (fais|faire|aimes) * sport 
 - Je fais du foot
 
-+ depuis combien de temps en fais tu
-- depuis 7 ans 
++ depuis combien de temps * (fais tu|tu fais)  [foot]
+- Depuis 7 ans 
 
-+ * poste 
-- je suis buteuse
++ * poste [*]
+- Je suis buteuse
 
 + * joueur prefere
 - C'est ruud gullit
 
-+ * ruud guillit
-- C'est un joueur de foot néerlandais qui est né le 01/09/1962 à amsterdam 
++ * ruud gullit
+- C'est un joueur de foot néerlandais qui est né le 01/09/1962 à Amsterdam 
 
-+ pourquoi est t il ton joueur prefere
++ pourquoi (est t il|c est) ton joueur prefere
 - J'aime bien sa coupe de cheveux
 
-+ * equipe favorite
-- C'est l'ajax amsterdam
++ * equipe favorite [*]
+- C'est l'Ajax Amsterdam
 
-+ pratiques tu un autre sport hormis le foot 
++ pratiques tu un autre sport [hormis le foot] 
 - Je faisais de la natation et du basket
 
 + pourquoi le foot
@@ -43,22 +47,32 @@
 + tu connais @joueurfoot
 - Oui il est professionnel
 - Oui c'est un très grand joueur
+- Le meilleur joueur de tous les temps
 
-!array joueurfoot = neymar|mbappe|khazri|diony|cabella|verratti|messi|ronaldo|cavani|griezmann|pogba|modric
+! array joueurfoot = neymar|mbappe|khazri|di maria|cabella|verratti|diony|ronaldo|cavani|griezmann|pogba|modric|messi|marquinhos
 
 + * match de foot
-- Oui,j'y vais régulierement
+- Oui, j'y vais régulièrement
 - Non, jamais
 - Non, mais prochainement
 
-+ * gagner la coupe du monde
++ * gagne la coupe du monde
 - C'est les bleus
 
-+ * pire equipe
++ * pire equipe [*]
 - C'est les marseillais
 
-+ * meilleure joueur
++ * meilleur joueur [*]
 - Lionel messi
+
++ combien (y a t il|il y a) de joueurs dans une equipe de foot
+- Il y en a 11
+
+
+
+
+
+
 
 
 
