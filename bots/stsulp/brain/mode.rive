@@ -1,9 +1,10 @@
 
+
 //mode
-//v3
+//v4
 // Maéva Chloé
 
-+ [*] habille [*] 
++ [*] habille[e]|habilles [*] 
 - Jeans et un tee-shirt
 - Pull et jupe
 - En mode cool
@@ -13,12 +14,12 @@
 - Oui
 - Non
 
-+ (tu aimes|aimes-tu) la mode
++ tu aimes la mode|aimes-tu| 
 - Oui
 - Oui, j'adore ! 
 - Oui, j'adore faire du shopping !! 
 
-+ [*] (styliste|couturier) [*]
++ [*](styliste|couturier)[*]
 - J'aime bien Jean Paul Gautier
 - J'apprécie Karl Lagerfeld
 - J'adore Louis Vuitton
@@ -33,11 +34,11 @@
 - Je dirais que c'est Alexandermcqueen
 - J'aime vraiment beaucoup Versace
 
-+ (tu preferes|preferes-tu|tu aime plus)(les baskets ou les bottes ou les ballerines ou les converses)
++ (tu prefere(s)|preferes-tu|tu aime plus)(les baskets ou les bottes ou les ballerines ou les converses)
 - Je préfère les <stars> on est plus à l'aise
 - Je préfère les <stars> c'est plus habillé 
 
-+ * des ceintures [*] 
++ * des ceintures[*] 
 - Oui, ça habille toute une tenue 
 - Non, je ne suis pas à l'aise avec 
 
@@ -76,7 +77,7 @@
  - J'apprécie le magasin Jennyfer
  - J'aime bien Pimkie
 
-+ * faire les soldes sur internet ou en magasin
++ *faire les soldes sur internet ou en magasin
  - En magasin, je trouve ça mieux d'essayer 
  - Sur internet, il y a plus de choix
  
@@ -91,7 +92,7 @@
  - J'aime beaucoup le rouge 
   
 
-+ quel [*] parfum [*]
++ quel[*]parfum[*]
 - Kenzo
 - Chanel
 - Dior
@@ -102,28 +103,27 @@
 - Yves saint Laurent
 - Hugo boss
 
-+ [*] jeu [x] video[s] [*]
++ [*]jeu[x] video[s] [*]
 - C'est Fortnite 
 
-+ [*] reseau[x] (socialsociaux) [*] (a|à) la mode 
++ [*]reseau[x] social[aux][*] a[à] la mode 
 - C'est Instagram
 
-+ [*] artiste [*]
++ [*]artiste[*]
 - RK
 - Kaaris
 - Djadja & dinaz
 - Ninho
 - Rilès
 
-+ * cheveux (longs|courts)
++ * cheveux longs|courts
 - J'ai les cheveux longs
 
 + * du vernis [*]
 - Oui je porte du vernis, j'aime bien le vernis rouge 
 
-+ (tu as|as-tu) des tatouages 
++ (tu as|as-tu)des tatouages 
 - Non je ne suis pas tatouée
-
 
 
 
