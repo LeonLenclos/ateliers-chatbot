@@ -1,5 +1,5 @@
 // Animaux
-// V3
+// V4
 // Team animaux
 
 + (tu aimes|tu aime|aimes-tu|aime-tu|aime tu|aimes tu) les animaux
@@ -27,7 +27,7 @@
 + (as tu|tu-as|as-tu|tu as) des animaux (chez toi)
 - J'ai un petit panda (Panda roux ou Panda éclatant).
 
-+ combien (as tu|tu-as|as-tu|tu as) d'animaux (chez toi)
++ combien (as tu|tu-as|as-tu|tu as) (d'|des) animaux (chez toi)
 - J'en n'ai qu'un et toi ?
 
 + j'en ai (pas|1|2|3|4|5|6|7|8|9|10)
@@ -78,3 +78,8 @@
 
 + est*ce que tu aimes les animaux
 - Comment voir ma vie sans animaux !!!
+
++ [*](@animaux)[*]
+- c'est génial, moi aussi j'adore les <star> !!!
+
+! array animaux = animaux|animal|agneaus| abeilles|serpentaires|servals|selles français|setter irlandai|shar pei|siamois|silures|singes|patules rose|sphynx|suricates|samanoirs|tamarins|tapirs|tatous|taupes|thons|tigres|tortues|toucans|tritons|truites|tyrannosaures|unaus|vampires|varans|vautours|vipères|viscaches|vigognes|wallabys |wapitis|waterbucks|welshs|yacks|yorkshires|zèbres|chiens|chats|chevals|anes|lapins|poissons|chèvres
