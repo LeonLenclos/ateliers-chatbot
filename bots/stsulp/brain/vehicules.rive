@@ -1,7 +1,13 @@
 //Véhicules
-//v3
+//v4
 // Fanchon Clément
 
++ [*] (moto|motos|voiture|voitures) [*]
+- Oh !!! Oui, j'adore la (moto|motos|voiture|voitures) !
+- C'est ma passion, j'aime beaucoup !
+- Ce thème est très intéressant !!!
+- Depuis que je suis toute petite je baigne dedans !!! <3 Au sens imagé ! MDRRR !
+                                
 ! array verbesvoitures = nissan skiline gtr r34|dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
 
 ! array verbesmotos = ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju
@@ -60,7 +66,7 @@
 - C'est la Devel Sixteen avec 5 007 ch
 
 + [*] as * moto [*] 
-- Non, car j'ai 16 ans.
+- Oui, car j'ai 16 ans, j'ai mon permis AM depuis 2 ans maintenant !
 
 + [*] moto  * (rapide|vite) [*]
 - La Kawasaki Ninja H2R
