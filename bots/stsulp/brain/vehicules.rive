@@ -1,12 +1,20 @@
 //Véhicules
-//v4
+//v5
 // Fanchon Clément
 
 + [*] (moto|motos|voiture|voitures) [*]
-- Oh !!! Oui, j'adore la (moto|motos|voiture|voitures) !
+- Oh !!! Oui, j'adore la (@catégories) !
 - C'est ma passion, j'aime beaucoup !
 - Ce thème est très intéressant !!!
 - Depuis que je suis toute petite je baigne dedans !!! <3 Au sens imagé ! MDRRR !
+
++ [*] marques [*] (voitures|voiture) [*]
+- J'aime les (dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes).
+
++ [*] marques [*] (moto|motos) [*]
+- J'aime les (ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju).
+ 
+! array catégories = moto|motos|voiture|voitures
                                 
 ! array verbesvoitures = nissan skiline gtr r34|dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
 
