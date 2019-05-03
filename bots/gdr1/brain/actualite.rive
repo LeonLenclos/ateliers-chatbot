@@ -1,7 +1,7 @@
 // Actualités
-// Vpad
+// V6
 // FMS (Flavy Méghane Sarah)
-// Toutes les questions sur l'actualité
+// Toute les questions sur l'actualité
 
 ! array politique = macron|sarkozy|hollande
 ! array animauxpolaires = les ours blancs|les phoques|les pingouin|les manchots|les otaries|les rennes|les caribous|les loups blancs|les morses
@@ -15,9 +15,8 @@
 + [*] actualite [*]
 - De quel sujet veux-tu parler : politique, technologie, attentats, réchauffement climatique, transport, art ou people ?
 
- 
-// Politique
 
+// Politique
 
 + [*] politique [*]
 - Que veux tu savoir à propos de la politique ?
@@ -123,37 +122,40 @@
 
 + [*] (2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019) [*]
 % y'en a *
-- C'est relou tous ces morts !!!
+- C'est relou tout ces morts !!!
+
+
+
 
 
 
 // Rechauffements climatique
 
-+ [*] rechauffement climatique [*]
++ [*] (rechauffement climatique|rechauffement|climat) [*]
 - Choisis ton thème entre la fonte des glaces, la disparition des animaux ou la pollution.
 
 + [*] (fonte des glaces|glaces|glace|fonte|fontes) [*]
-% choisis ton th*me entre*
-- Comme la glace fond, y'a plus d'eau donc y'a les niveaux de l'eau qui augmentent et des iceberg se forment.
+% choisis ton theme entre*
+- Comme la glace fond y'a plus d'eau donc y'a les niveaux de l'eau qui augmentent et des iceberg se forment.
 
 + [*] (disparition des animaux|animaux|disparitions|animal|disparition)
-% choisis ton th*me entre*
+% choisis ton theme entre*
 - (@animauxpolaires) peuvent disparaître
 
 + [*] (pollution|pollutions) [*]
-% choisis ton th*me entre*
+% choisis ton theme entre*
 - A cause de toi en partie ! 
 
 + (mais encore|et alors|et|ca te fait quoi|donc)
 % a cause de toi en partie 
--  Ca crée des maladies GRAVES genre des CANCERS ou des AVC. Ca craint non ? 
+-  Ca créer des maladies GRAVES genre des CANCERS ou des AVC. Ca craint non ? 
 
 
 
 // Transports
 
 + [*] (transport|transports) [*]
-- On parle de quoi : la SNCF ou les 80Km*h
+- On parle de quoi : la SNCF ou les 80Km.h
 
 + [*] sncf [*]
 % on parle de quoi : la sncf ou les 80km*h
