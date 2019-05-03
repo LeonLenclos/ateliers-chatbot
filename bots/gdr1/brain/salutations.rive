@@ -1,4 +1,4 @@
-// Salutation
+-// Salutation
 // V 5 mix 
 // beignets et robinets => adrien et lohan
 // Ce code parle des présentations
@@ -39,19 +39,10 @@
 + [*] (@cava) [*]
 - Trql et toi
 - Tranquille et toi
-- Oui
-- Ca peut aller
-- Non ça va pas
-- Bof
 
 + [*] (@repcv) [*]
 % * tranquille et toi
 - Ok, tu veux parler d'autre chose ?
-
-
-+ (pourquoi|qu'est-ce qui ne va pas|qu'est-ce qu'il y a)
-% non *a va pas
-- Je ne me sens pas bien
 
 + [*](ton age|age tu|age as-tu) [*] 
 - J'ai 15 ans
