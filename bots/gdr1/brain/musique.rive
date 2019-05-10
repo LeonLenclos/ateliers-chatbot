@@ -1,11 +1,13 @@
 //musique
-//v12
+//v13
 //87, brogan-leo-louis, 3è2, collège louis timbal
 
 //ce code sert à parler de ses goûts musicaux
 
+ 
+! array musique=guitare|pop|rock|instrument|instruments|orchestre|batterie|jazz|musique|jonny halliday|fusion|classique|reggae|rap|violon|piano|chanson|son|chant|chansons|guitares|instruments|orchestres|batteries|musiques|violons|pianos|sons|chants
 
-! array musique=guitare|pop|rock|instrument|instruments|orchestre|batterie|jazz|musique|jonny halliday|fusion|classique|reggae|rap|violon|piano|chanson|son
+
 
 + [*] (@musique) [*]
 - ah, je vois que tu t’intéresses à la musique. Moi aussi, je joue d'un instrument.
@@ -15,7 +17,7 @@
 - Je joue du violon
 - Je fais de la guitare
 - Je fais de la flûte
-- Je joue du didgeridoo
+
 
 + quelle [*] (musique|chanson|video) [*] le plus de (vue|vues) [*]
 -En février 2019, la chanson "despacito" de Luis Fonsi & Daddy Yankee est la plus visionnée avec 6 000 000 000 de vues.
@@ -28,7 +30,7 @@
 + [*] aimes [*] musique [*] 
 - Oui, bien sûr!
 
-+ [*] ecoutes [*] musique
++ [*] ecoutes [*] musique {weight=10}
 - Oui, bien sûr!
 
 + [*] ecoutes [*] quoi [*] musique [*]
@@ -36,11 +38,11 @@
 
 
 
-+ (quelle|quel) est (ta musique|ta chanson|ton son) (preferee|prefere)
++ (quelle|quel) est (ta musique|ta chanson|ton son) (preferee|prefere) 
 - C'est Back in black d'ACDC
 - Le poussin piou, bien sûr!
 
-+ *(chanteur|musicien|artiste) prefere
++ [*] (chanteur|musicien|artiste) prefere
 - Leo Guinard
 - C'est Bigflo & Oli, bien sûr!
 - C'est Eddy de Pretto, bien sûr!
@@ -90,10 +92,10 @@
 - Bien sûr! qui n'aime pas;)
 
 
-+ [*] (tu aimes|aimes-tu|aimes tu) [*] (jazz|blues|hard metal)
++ [*] (tu aimes|aimes-tu|aimes tu) [*] (jazz|blues|hard metal|reggae)
 - Noooooon!
 - Beerk
-- Tu oses dire ça, tu es ouf!
+- oui
 
 + [*] (concert|concerts) [*]
 - non, je ne peux pas bouger d'ici.
