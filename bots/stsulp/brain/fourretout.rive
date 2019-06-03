@@ -1,0 +1,141 @@
+
+// V2
+// Fourre tout
+
+
++ *
+- Je ne sais pas.
+- Tu ne penses pas que l'on devrait parler de musique ?
+- Votre demande n'est pas à la hauteur de mes connaissances !!
+- Je ne peux pas t'aider sur ça.
+- Euh...parlons peu, parlons bien, si on parlait d'animaux.
+- Bla Bla Bla ... Tu parles trop, alors au moins parle de choses intéressantes comme le cinéma.
+- Ce sujet ne me convient pas !!
+- Je n'ai pas compris mdr.
+- Je ne m'appelle pas wikipédia.
+- Demande à google.
+- Demande à un prof !!
+- Mais va te coucher !
+- Bien sur. Rêve encore !
+- Va voir ailleurs si j'y suis lol !
+- Je ne suis pas d'humeur à parler de ça.
+- Tu ne veux pas plutôt que l'on parle de pêche ?
+- Je ne peux pas t'aider sur ce sujet.
+- Parlons d'autre chose.
+- Je n'ai pas la réponse à votre question.
+- Qu'est-ce que j'en sais ?
+- Comment veux-tu que je le sache !
+- Je ne sais pas, tu n'as qu'as chercher toi même !
+- Je ne connais pas la réponse à ta question ! 
+- Je ne comprends pas désolé.
+- Je n'ai pas la réponse !
+- T'as cru que j’étais Google !
+- Je ne sais pas utiliser un dictionnaire !
+- Cette question n'est pas dans mon vocabulaire.
+- Je ne sais pas quoi répondre.
+- Je ne comprends pas cette question. Peux-tu la reformuler s'il te plait ?
+- J'ai du mal à te comprendre !
+- Changeons de sujet.
+- Cela ne m'intéresse pas, changeons de sujet.
+- Pardon ? 
+- Je ne suis pas spécialiste dans ce domaine !
+- Désolé, je ne peux pas t'aider.
+- Tu ne veux pas que l'on change de sujet? 
+- On ne pourrait pas parler de lecture ou de livres ?
+- Je n'aime pas ce thème.
+- Je ne peux pas vous aider.
+- J'ai oublié.
+- Tu devrais le savoir !! 
+- Tu me déranges !!  
+- Tu ne veux pas plutôt parler de mode.
+- Tu ne veux pas plutôt parler de la pêche.
+- Tu ne veux pas plutôt parler du cinéma.
+- Tu ne veux pas plutôt parler des véhicules.
+- Tu ne veux pas plutôt parler du vélo.
+- Tu ne veux pas plutôt parler des blagues.
+- Tu ne veux pas plutôt parler des métiers.
+- Tu ne veux pas plutôt parler des langues.
+- Tu ne veux pas plutôt parler des musiques.
+- Tu ne veux pas plutôt parler des animaux.
+- Tu ne veux pas plutôt parler des livres.
+- Tu ne veux pas plutôt parler des jeux vidéos.
+- Tu ne veux pas plutôt parler de sport.
+- Tu ne veux pas plutôt parler des vacances.
+- Tu ne veux pas plutôt parler de nourriture.
+- Tu ne veux pas plutôt parler des échecs.
+- Tu ne veux pas plutôt parler du collège.
+-  J'en ai un peu mare de parler de ça.
+- Tu ne veux pas plutôt parler de Netflix.
+- les echecs tu veux pas en parler ?
+
+
+
++ [*] (@oui) [*]
+% tu ne penses pas que l'on devrait parler de musique
+- pose moi des questions à ce sujet
+
++ [*] (@non) [*]
+% tu ne penses pas que l'on devrait parler de musique
+- veux tu parler de véhicules
+
++ [*] (@oui) [*]
+% * si on parlait d'animaux
+- Que veut tu savoir à propos des animaux. 
+
++ [*] (@non) [*]
+% * si on parlait d'animaux
+- tu veux parler de la musique.
+
++ [*] (@oui) [*]
+% tu ne veux pas plutot que l'on parle de peche
+- tu n'a qu'as me poser des questions a ce sujet !!
+
++ [*] (@non) [*]
+% tu ne veux pas plutot que l'on parle de peche
+- Tant pis 
+
++ [*] (@oui) [*]
+% tu ne veux pas que l'on change de sujet
+- Parlons de mode
+- Parlons de la pêche
+- Parlons du cinéma
+- Parlons des véhicules
+- Parlons du vélo
+- Parlons des blagues
+- Parlons des métiers
+- Parlons des musiques
+- Parlons des animaux
+- Parlons des livres
+- Parlons des jeux vidéos
+- Parlons de sport
+- Parlons des vacances
+- Parlons de nourriture
+- Parlons des échecs
+- Parlons du collège
+
+
++ [*] (@non) [*]
+% tu ne veux pas que l'on change de sujet
+- Ah ! Tu ne manque pas de culot !
+
++ [*] (@oui) [*]
+% on ne pourrait pas parler de lecture ou de livres
+- tu n'a qu'as me poser des questions a ce sujet !!
+
++ [*] (@non) [*]
+% on ne pourrait pas parler de lecture ou de livres
+- Votre réponse peut intéressante a été lu et ignorée.
+
++ [*] (@oui) [*]
+% tu ne veux pas plutôt parler *
+- Très bon choix ! pose -moi des questions à propos.
+
+
++ [*] (@non) [*]
+% tu ne veux pas plutôt parler *
+- Bon bah débrouille-toi !!! 
+
+
++ (je sais pas|jsp)
+- Ce n'est pas une réponse.
+

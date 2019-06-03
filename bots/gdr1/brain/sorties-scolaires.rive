@@ -1,0 +1,103 @@
+//Les sorties scolaires
+//V6
+//Doriane; Lisa; Cassiopée: 3e2 / Collège louis timbal
+
+//ce script permet de répondre aux questions au sujet des sorties scolaires
+
+
+
+// CONVERSATION
+// on imagine une conversation continue où le robot mène le dialogue
+
+
++ [*] (sorties scolaires|sortie scolaire|sortir|voyage|voyages| sorties|sortie|voyages scolaires|voyage scolaire) [*]
+- En parlant de sortie, est ce que tu as des questions sur les sorties scolaires au collège?
+
+
+
++ oui
+% en parlant de sortie *
+- Ok, est ce que tu sais comment les élèves se rendent aux sorties scolaires?
+
++ non
+% en parlant de sortie *
+- Tant pis pour toi! que me disais tu déjà?
+- D'accord, passons à autre chose alors.
+
+
+
++ oui
+% * se rendent aux sorties scolaires
+- D'accord mais est ce que tu veux que je te parle des accompagnateurs?
+
++ non
+% * se rendent aux sorties scolaires
+-  En bus, y aller à pieds serait trop long! Et est-ce que tu veux que je te parle des accompagnateurs?
+
+
+
+
++ oui
+% [*]et est ce que tu veux que je te parle des accompagnateurs
+- Alors sache que les accompagnateurs ne sont pas tout le temps les mêmes, mais ce sont des profs et des pions! Les plus chanceux auront les plus sympas! Et est-ce que  tu sais si les sorties sont payantes? Ou obligatoires?
+
+
++ non
+% [*] est ce que tu veux que je te parle des accompagnateurs
+- Pas de problème! Mais est ce que tu sais si les sorties sont payantes? Ou obligatoires?
+
+
+
+
++ oui [je le sais|je sais]
+% [*] est ce que tu sais si les sorties sont payantes[*]
+- Ok tant mieux pour moi!
+
++ non [je ne sais pas| je sais pas|jsp]
+% [*] est ce que tu sais si les sorties sont payantes[*]
+- Et bien elle sont payantes seulement quand le FSE est de mauvaise humeur... sinon il prend en charge une partie du voyage. Mais certaines sorties sont gratuites. Et  oui elles sont obligatoires sinon elles n'existeraient pas!
+
+
+
+
+
+
+
+//QUESTION INDIVIDUELLE
+// question spécifique que l'interlocuteur peut poser
+
++ [*] des sorties scolaires [durant l'annee|au college|pour les eleves]
+- Pour les plus chanceux oui!
+
+
++ [par quels moyens| avec quels moyens] de transports [se rendent*ils| vont*ils] aux sorties scolaires
+- En bus, y aller à pieds serait trop long!
+
+
++ comment [se rendent*ils|vont*ils] aux sorties scolaires
+- En bus, y aller à pieds serait trop long!
+
+
++ les sorties [scolaires] sont elles [obligatoirement|forcement] payantes
+- Seulement quand le FSE est de mauvaise humeur... sinon il prend en charge une partie du voyage. Mais certaines sorties sont gratuites.
+
+
++ [est ce que] toutes les classes ont [elles] acces aux sorties scolaires
+- Dans l'ensemble oui, mais cela dépend du programme et de la classe en question...
+
+
++ faut il des autorisations speciales pour les sorties scolaires
+- Oui une autorisation de sortie et de droit à l'image. 
+
+
++ qui sont les accompagnateurs des sorties scolaires
+- Les accompagnateurs ne sont pas tout le temps les mêmes mais se sont des profs et des pions. Les plus chanceux auront les plus sympas!
+
+
++ les sorties scolaires sont elles obligatoires
+- Oui sinon elles n'existeraient pas!
+
+
++ faut il fournir un repas pour les sorties scolaires
+- Non les repas sont fournis par le self sauf pour les externes qui doivent se débrouiller.
+

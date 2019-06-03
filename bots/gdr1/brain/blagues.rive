@@ -1,0 +1,241 @@
+//Les blagues
+//V8
+//Yamaakasii: Boudet Labussiere, Jones 3ème 2 Louis Timbal
+//Le code sert à raconter des blagues 
+
++ [*] blagues [*]
+- J'adore raconter des blagues
+- J'ai beaucoup d'humour et de nombreuses blagues en stock
+
+
++ [*] drole [*]
+@ blagues
+
++ [*][raconte moi](une blague|des blagues|une autre|une deuxième|encore) [*]
+- C'est parti mon ami, que fait-on aux voleurs de salade?
+- Tu es prêt, pourquoi les phoques sont drôles?
+- Let's goooo my friend, pourquoi le foot est drôle?
+- Pourquoi poulle s'écrit avec 2 l?
+- Deux escargots arrivent sur une plage et aperçoivent une limace, que disent ils ?
+- Quel est le bar préféré des espagnols ?
+- Comment les musiciens choisissent-ils leur parquet ?
+- Que fait un jardinier quand il ment ?
+- Que fait une théière devant un ascenseur ?
+
+
++ [*] vas y [*]
+@ une blague
+ 
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * aux voleurs de salade
+- On les tue (laitue)
+
++ (je [ne] sais pas|jsp|jcp)
+% * pourquoi les phoques sont *
+- Parce que les ota rient (otaries)
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * pourquoi le foot est *
+- Parce que Thierry en rit (Henry)
+
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * poulle * avec 2 l
+- Car une poule a deux ailes 
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * arrivent sur une plage et aperçoivent une limace que disent ils ?
+- Demi tour! Nous sommes sur une plage nudiste!
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * le bar préféré des espagnols
+- Le Barcelone (Bar-celone)
+
++ (je [ne] sais pas|jsp|jcp)
+% * les musiciens choisissent-ils leur parquet 
+- Ils choisissent un parquet Fa Si La Si Ré (facile a cirer)
+
++ (je [ne] sais pas|jsp|jcp)
+% * fait un jardinier quand il ment
+- Il raconte des salades
+
+
++ (je [ne] sais pas|jsp|jcp)
+% * une théière devant un ascenseur
+- Elle veut mon thé
+
+
+
+
+
+
+
+
++ [*] (fa si la si re|facile a cirer|fasilasire) [*]
+% * les musiciens choisissent-ils leur parquet 
+- Comment tu as trouvé, c'est l'une de mes meilleurs blagues
+
+
+
++ [*] (barcelone|bar-celone) [*]
+% * le bar préféré des espagnols
+- Olé ! Bien trouvé mi amigo
+
+
++ [*] laitue [*]
+% * aux voleurs de salade
+- Tu ne mâche(s) pas tes mots
+
++ [*] otaries [*]
+% * pourquoi les phoques sont *
+- Zuuut ! Tu as noyé ma blague
+
++ [*] (thierry|henry|en rit) [*]
+%  * pourquoi le foot est *
+- Carton rouge! Tu as taclé ma blague
+
++ [*] (2 l|deux ailes|2 ailes|deux l) [*]
+% pourquoi poulle * avec 2 l
+- Bien joué Poulette !
+
+
++ [*] (demi tour|nudiste) [*]
+% *arrivent sur une plage et aperçoivent une limace que disent ils 
+- T'en a bavé pour trouver la réponse, hein !
+
+
+
+
++ [*] les tue [*]
+% * que fait t-on aux voleurs de salade
+- Tu ne mâche(s) pas tes mots
+
++ [*] ota ris [*]
+% * pourquoi les phoques sont *
+- Zuuut ! Tu as noyé ma blague
+
+
++ [*] salade [*]
+% * fait un jardinier quand il ment
+- Bravo ! tu ne t'es pas plantée
+
+
++ [*] (mon thé|monter|montée) [*]
+% * une théière devant un ascenseur
+- Thé doué !
+
+
+
+
+
+
+
+
++ [*] (mdr|trop drole|lol|marrant|pas mal|j adore) [*]
+- Merci je sais, je suis un petit comique 
+- Je devrais jouer sur une scène
+- J'ai un sens de l'humour surdéveloppé
+- L'humour est un don chez moi
+
+
+
+
+
++ [*](nul|nulle|pas drole|chier|naze|pourrie|pourries|nazes|nulles|nuls)[*]
+- Ben raconte m'en une, toi qui est si drôle
+
++ *
+% ben raconte m'en une toi qui est si *
+- Hahaha tu n'es pas marrant
+- Pffff t'es pas drôle 
+
++ oh yeah yeah
+- Oh yeah yeah yeah yeah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

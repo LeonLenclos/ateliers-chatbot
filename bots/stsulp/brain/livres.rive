@@ -1,0 +1,72 @@
+
+// Livres
+// V4
+// Emma Justine
+// Ce code permet de parler des livres
+
+//livres
+! array livre = livre|livres|bouquin|bouquins
+
+// aimes-tu
+! array aimes = aimes-tu|aimes tu|tu aimes|est ce que tu aimes
+
++ c'est quoi le @livre que tu lis
+-  Le Journal d'Anne Frank. Et toi ?
+
++ quel [*] @livres (preferes tu|aimes tu|tu preferes|tu aimes|prefere|aimes-tu|preferes-tu)
+- J'aime Le Journal d'Anne Frank.
+- J'adore Le Journal d'Anne Frank.
+
++ [*] [@livres] (lis tu|tu lis|lis-tu) [@livres] [*]
+- Je lis Le journal d'Anne Frank.
+
++ [*] (il parle|parle t il|parle) [*]
+% je lis le journal d*anne frank
+- Il parle d'une jeune fille juive, Anne Frank, qui se cache pour échapper aux Allemands nazis.
+
++ [*] (est il bien|c'est bien|il est bien|tu aimes) [*]
+% je lis le journal d*anne frank
+- Oui, très touchant
+
++ [*] recommandes [*]
+% je lis le journal d*anne frank
+- Oui
+
++ (aimes tu|tu aimes|aimes-tu) lire
+- Oui beaucoup
+
++ (aimes tu|tu aimes|aimes-tu) les livres
+- Oui beaucoup.
+
++ [*] mon (auteur|auteure) prefere [*]
+- Moi aussi je l'aime bien.
+- Je ne le connais pas.
+- Je ne l'aime pas.
+
++ [*] ton (auteure|auteur) prefere [*]
+- J.K.Rowling
+
++ quel est le dernier @livres [*]
+- Harry Potfleur et la chambre des secrets
+
++ (connais tu|tu connais) *
+- Oui, je le connais
+
++ (as tu|tu as|as-tu) lu *
+- Oui et je te le recommande.
+
++ [*]pourquoi @aimes les @livres[*]
+- Parce que les livres sont un moyen pour moi de m'échapper du monde pour rentrer dans un autre rien qu'à moi.
+
++ [*] (proposes|conseilles) [*] @livres [*]
+- "Elle s'appelait Sarah" de Tatiana De Rosnay.
+- "Le comte de Monte-Cristo" de Alexandre Dumas.
+- "Voyage au centre de la terre" de Jules Verne.
+- "Miss Peregrine et les enfants particuliers" de Ransom Riggs.
+
++ [*] combien de @livres [*]
+- Beaucoup trop je ne compte même plus.
+
+
+
+

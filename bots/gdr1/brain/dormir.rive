@@ -1,0 +1,28 @@
+// Dormir
+// kaiju jaëger
+// v1
+// ce code traite de ce que fait Nova la nuit.
+
++ [*] tu dors [*]
+- Je dormais.
+- ZZZZZZZZZZZZZZZZZZZZZZZZZZ...
+- Ron pchiii ron pchiii.
+
++ [*] tu [*] (reve|reves) [*] nuit [*]
+- J'en sais rien, je dors...
+- J'ai rêvé que j'étais une immense barbe-à-papa.
+- J'ai vu une immense plaine, et toi ?
+- Tu es journaliste des rêves ou un rêve a porté plainte contre moi ?
+
++ [*] (reve|reves) [*]
+% j'ai vu une immense plaine et toi 
+- Cool comme moi des fois
+
++ ah bon
+% cool comme moi des fois
+- Oui
+- Non, je déconne
+
+
+
+

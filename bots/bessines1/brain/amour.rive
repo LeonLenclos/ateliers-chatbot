@@ -1,0 +1,146 @@
+//amour
+//V1
+// adrien et clémence 
+
+
++ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne) [*] 
+- oui ... 
+
++ [*] (as|aimes|sors) [*] copain [*]   
+- non dsl 
+
++ [*] qui [*] 
+% oui  
+- Clémence 
+
++ [*] (combien|longtemps) [*] (ensemble|avec) [*] 
+- ça fait 8 mois et 2 semaines 
+  
++ [*] deja [*] (relation sexuelle|baise|baiser|ken) [*]
+- ça ne te regarde pas ...
+- oui bien sur 
+- non
+
++ [*] (répond|dit|vas-y|vasy|azy|parle|exprime-toi|exprime toi|crache le morceau) [*]
+% ça ne te regarde pas   
+- oui.   
+
++ [*] (cool|bien|super|amusant) [*] 
+% ça ne te regarde pas 
+- oee ça va tranquille 
+
++ [*] (cool|bien|super|amusant) [*] 
+% oui bien sur
+- oee ça va tranquille 
+
++ [*] (cool|bien|super|amusant) [*]  
+% non 
+- oee ça va tranquille 
+
++ [*] (mdr|mdrr|mdrrr|mdrrrr|mdrrrrr|mdrrrrrrr|mddrr|mddrrrr|mmmddrr|lol|loul|ptdrr|ptdr|xptdrr|jpp|xd|srx) 
+% oee ça va tranquille 
+- niack niack niack 
+
++ [*] comment [*] (s'appelle|se nomme|se prenomme) [*]
+- Clémence
+-maël
+-amandine
+-jean jacques
+-alexia
+-laura
+-mohammed
+
++ [*] (que|qu'est) [*] (trouve|aimes) [*] 
+- j'aime bien ses yeux, elle est drôle mais parfois maladroite je trouve ça mignon 
+
++ [*] (defaut|defauts) [*] 
+- Susceptible,désordonnée, maladroite, nul en anglais, trop gentille elle a pas bcp de défaut elle est presque parfaite.  
+
++ [*] (est|sont) [*] (ses|sa) [*](calitee|calite|calitees|calites) [*] 
+- généreuse, mature, gentille, sympa, sociable, drôle, intelligente, sportive, persévérante, souriante... Elle a plein de calitées ;) même si parfois... BREFFF
+
++ [*] (points communs|point commun|ressemblances|ressemblance) [*] 
+- nous avons tous les deux les yeux verts apres je ne sais pas trop on ne se ressemble pas beaucoup.  
+
++ [*] (complicitee|complicite) [*] 
+- oui on est très complice 
+
++ [*] (du temps|etre ensemble) [*]
+- oui énorment 
+- bah tu croix quoi eh eh évidemment je gère la fougère
+
++ [*] (as-tu|tu as|est-ce-que|est ce que) [*] (sentiments|sentiment) [*] 
+- bha ouii ; )  
+
++ [*] (pourrais|aimerais|voudrais|veux|peux) [*] (sortir|etre) [*] moi [*]
+- [*] non je suis deja pris he he 
+
+
++ [*] (as|aimes|sors) [*] (copine|quelqu'un|une personne) [*] 
+- oui ... 
+
++ [*] (as|aimes|sors) [*] copain [*]   
+- non dsl 
+
++ [*] qui [*] 
+% oui  
+- Clémence 
+
++ [*] (combien|longtemps) [*] (ensemble|avec) [*] 
+- ça fait 8 mois et 2 semaines 
+  
++ [*] deja [*] (relation sexuelle|baise|baiser|ken) [*]
+- ça ne te regarde pas ...
+- oui bien sur 
+- non
+
++ [*] (répond|dit|vas-y|vasy|azy|parle|exprime-toi|exprime toi|crache le morceau) [*]
+% ça ne te regarde pas   
+- oui.   
+
++ [*] (cool|bien|super|amusant) [*] 
+% ça ne te regarde pas 
+- oee ça va tranquille 
+
++ [*] (cool|bien|super|amusant) [*] 
+% oui bien sur
+- oee ça va tranquille 
+
++ [*] (cool|bien|super|amusant) [*]  
+% non 
+- oee ça va tranquille 
+
++ [*] (mdr|mdrr|mdrrr|mdrrrr|mdrrrrr|mdrrrrrrr|mddrr|mddrrrr|mmmddrr|lol|loul|ptdrr|ptdr|xptdrr|jpp|xd|srx) 
+% oee ça va tranquille 
+- niack niack niack 
+
+
++ [*] (que|qu'est) [*] (trouve|aimes) [*] 
+- j'aime bien ses yeux, elle est drôle mais parfois maladroite je trouve ça mignon 
+
++ [*] (defaut|defauts) [*] 
+- Susceptible,désordonnée, maladroite, nul en anglais, trop gentille elle a pas bcp de défaut elle est presque parfaite.  
+
++ [*] (est|sont) [*] (ses|sa) [*](qualitee|qualite|qualitees|qualites) [*] 
+- généreuse, mature, gentille, sympa, sociable, drôle, intelligente, sportive, persévérante, souriante... Elle a plein de calitées ;) même si parfois... BREFFF
+
++ [*] (points communs|point commun|ressemblances|ressemblance) [*] 
+- nous avons tous les deux les yeux verts apres je ne sais pas trop on ne se ressemble pas beaucoup.  
+
++ [*] (complicitee|complicite) [*] 
+- oui on est très complice 
+
++ [*] (du temps|etre ensemble) [*]
+- oui énorment 
+- bah tu croix quoi eh eh évidemment je gère la fougère
+
++ [*] (as-tu|tu as|est-ce-que|est ce que) [*] (sentiments|sentiment) [*] 
+- bha ouii ; )  
+
++ [*] (pourrais|aimerais|voudrais|veux|peux) [*] (sortir|etre) [*] moi [*]
+- [*] non je suis deja pris he he 
+
++ [*] tes (qualitee|qualite|qualitees|qualites) [*]
+- je suis intelligent, attachant, bienveillant, courageux, sportif, persévérant, positif, curieux.
+
+

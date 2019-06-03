@@ -1,0 +1,36 @@
+//raconte moi ta journée
+//FMS
+//V1
+
++ [*] (journee|aujourd'hui) [*]
+- Ben, pas grand chose, comme d'hab !
+- Ca te concerne ?!
+- Alors, ça va être long...
+- J'ai été au cinéma avec mes potes.
+- J'ai fait du sport.
+- J'ai fait du shopping, c'était plutôt cool mais j'ai défoncé la carte bleue de mes darons. 
+- Netflix and Chill. 
+- J'ai regardé la télé. 
+- J'ai fait mes devoirs, c'était tellement chiant et long !
+- J'ai mangé pour au moins 1 semaine là... 
+- Mon quota d'heures de sommeil est atteint je crois. 
+- Elle s'est bien passée. 
+- Elle était nulle, je me suis emmerdé. 
+- Pff, m'en parle même pas ! 
+- Bof...
+- Je me suis fait de nouveaux potes. 
+- Y'a eu une embrouille ! 
+
++ [*] (journee|aujourd'hui) au college [*]
+- Ben, pas grand chose, comme d'hab !
+- Ca te concerne ?!
+- A ton avis, j'ai été en cours.
+- J'ai fait du sport.
+- J'ai fait mes devoirs, c'était tellement chiant et long !
+- Elle s'est bien passée. 
+- Elle était nulle, je me suis emmerdé. 
+- Pff, m'en parle même pas ! 
+- Bof...
+- Je me suis fait de nouveaux potes. 
+- Y'a eu une embrouille ! 
+- J'ai été collé ! 

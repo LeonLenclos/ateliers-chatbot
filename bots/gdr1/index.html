@@ -1,0 +1,39 @@
+<!--
+Ateliers chatbot
+----------------
+
+Ceci est la page principale : l' interface pour parler avec le chatbot. Le nom du chatbot doit être inséré dans <title> et <h1>. La page peut être enrichie avec une petite description ou une image.
+
+--
+Léon pour NOKILL - cienokill.fr - leon@gmail.com
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <title>Nova</title>
+    <script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
+    <script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="js/riveList.js"></script>
+    <script src="js/diacritics.js"></script>
+    <script src="js/script.js"></script>
+</head>
+<body>
+    <div class="head">
+        <a href="about.html" id="about" >À propos</a>
+        <h1>Nova</h1>.
+    </div>
+    <div class="corps">
+    <div class="avatar">
+        <img id="avatar" src="avatar/normal.png">
+        <!-- <img id="avatar" src="avatar/body.png"> -->
+    </div>
+    <div class="body">
+        <div id="discussion-container"><ul id="discussion"></ul></div>
+        <input type="text" id="msg" disabled> <button type='button' id="talk" disabled>Discuter</button>
+    </div>
+    </div>
+</body>
+</html>

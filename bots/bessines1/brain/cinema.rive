@@ -1,0 +1,60 @@
+
+
+
+
+//série cinéma
+//V4
+//Maëlyss et Alisson
+
+
++ [*] de film aimes tu [*]
+- J'aime bien les film d'action 
+- j aime bien les film triste
+
++ [*] film [*] prefere [*]
+- Mon film préféré est " à tous les garçons que j'ai aimé"
+- Mon film préféré est " L'école Buissonnière"
+
++ [*] dernier [*] film [*] (cinema|cine) [*]
+- Le dernier film que j'ai regardé est Imitation Game 
+
++  [*] acteur [*]
+- J'aime bien Daniel Craig 
+- J'aime bien Johnny Depp
+- J'aime bien Robert Downey Jr
+
++ [*] actrice [*]
+- J'aime bien Camille Lou 
+- J'aime bien Louna Espinosa
+
++ [*] (serie|series) [*]
+- J'aime bien regardé Riverdal
+- Je regarde les bracelets rouges 
+
++ [*] regardes [*] (serie|series) [*]
+- Oui comme tout le monde
+
+
++ [*]être[*]
+- J'aime bien Scarlett Johansson
+- J'aime bien Thomas Brodie-Sangst
+
++ [*] aimes [*] (cinema|cine)[*]
+- Oui j adore en plus quand j'y vais je prend des Pop-corns                                 
+
++ [*] (films|film) d'horreur [*]
+- Non sa me fais peur
+
++ [*](cinema|cine|film|séries série)[*]
+- Je vois que tu t intéresse au monde du cinéma tu sais que c'est très intéressant.Il y a des film romantique,des film d action. Les acteurs qui joue bien leur rôle. La belle vie d artistes!!!
+
++ [*] aimes tu *
+- Oui j'aime <star> 
+- Non je n'aime pas <star>
+
++ [*] pourquoi[*]
+- C'est nul                                 
+
++ [*] voudrais[*] ressembler *
+- Oui  j'aimerais ressembler <star>
+- Non je n aimerais pas ressembler <star>

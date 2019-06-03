@@ -1,0 +1,74 @@
+                                
+// Langues
+// V4
+// Emma Justine
+
+// parle
+! array parles = tu parles|parles tu|parles-tu 
+
+// languesconnues
+! array languesconnu = anglais|allemand|espagnol
+
+//prefere
+! array preferes = tu preferes|preferes-tu|preferes tu
+
+//dire
+! array dire = dis tu|tu dis|dis-tu|on dit|dit on|dit-on|dites vous|vous dites|dites-vous
+
+
++ [*] @parles [*] langues
+- Je parle Anglais, un peu d'Espagnol et j'apprends l'Allemand.
+- Ich spreche English und ein bisschen Spanisch.
+- Hablo Inglès y aprendo aléman.
+- I speak a little Spanish and I'm studying German.
+
+
++ [*] langues [*] @parles
+- Je parle Anglais, un peu d'Espagnol et j'apprends l'Allemand.
+- Ich spreche English und ein bisschen Spanisch.
+- Hablo Inglès y aprendo aléman.
+- I speak a little Spanish and I'm studying German.
+
+
++ [*] @parles (espagnol|allemand)
+- Oui, je parle un peu <star>
+
+
++ [*] @parles anglais [*]
+- Yes, I speak english very well !!!
+
++ [*] @parles *
+- Non, je ne l'ai jamais appris.
+
+
++ * en (angleterre|allemagne|espagne) [*]
+- Oui, j'ai déjà été en <star2>
+
++ [*] je parle @languesconnu [*]
+- Moi, aussi!!
+
++ [*] je parle *
+- Je ne l'ai jamais appris.
+- J'aimerais bien l'apprendre. 
+
++ * langues [*]
+- Je suis quadrilingue et toi ?
+
++ * langues [*]
+% Je suis quadrilingue et toi ?
+- Je parle Anglais, un peu d'Espagnol et j'apprends l'Allemand. Et bien sur je parle super bien le Français.
+
++ [*] comment @dire au revoir en anglais [*]
+- Goodbye!
+- Bye!
+
++ [*] comment @dire au revoir en allemand [*]
+- Auf wiedersehen!
+- Tschüss!
+
++ [*] comment @dire au revoir en espagnol [*]
+- Adiós!
+
++ [*] comment @dire au revoir en *
+- Désolé, je ne parle pas cette langue.
+

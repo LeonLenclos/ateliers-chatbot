@@ -1,0 +1,80 @@
+                               
+// collège
+// V5
+// Emma Justine
+
+//coursaime
+! array coursaime = français|anglais|allemand|maths|art|art plastique|musique|physique|chimie
+
+//coursdeteste
+! array coursdeteste = svt|histoire|geographie|emc|techno|espagnol|étude
+
+
++ * (s'appelle|nom) * college [*]
+- Collège Fabre d'Eglantine. 
+
++ [*] ou [*]
+% coll*ge fabre d*eglantine
+- A Saint Sulpice Les Feuilles, en Haute-Vienne
+
++ [*] ou [*] college
+- L'adresse du collège est 11 rue du 8 mai 1945, St Sulpice les Feuilles.
+
++ [*]college[*]
+- 1 mai 1965.Il est vieux.
+
+
++ * d eleves [*] college [*]
+- Il y en a environ 160.
+
+
++ * de classe* college [*]
+- Il y a 8 classes.
+
+
++ * d eleves * classe [*]
+- Il y a environ 20 élèves par classe.
+
+
++ * de (profs|professeurs) * college [*]
+- Environ 20.
+
+
++ [*] heures dans une journee [*]
+- Il y a 8 heures de cours ponctuées par des récréations de 15 minutes et la pause méridienne.
+
+
++ * (chef d etablissement|principal) [*]
+- M. LEJEUNE.
+
+
++ [*] quelle classe [*]
+- Je suis en troisième.
+
+
++ [*] combien [*] salles * college [*]
+- Il y a 16 salles.
+
+
++ [*] combien [*] etages [*]
+- Il y a trois étages.
+- Il en a 3.
+
+
++ [*] ou * sport [*]
+- Soit au collège, soit à la halle de sport.
+
+
++ [*] @aimes * @coursaimes
+- Oui, j'aime bien.
+- J'adore ! Un de mes cours préférés !
+- Parfois.
+
+
++ [*] @aimes * @coursdeteste
+- Non, je déteste ça.
+- Bien sur que non!
+- Tu connais quelqu'un qui aime ?!
+
++ [*] (prof|professeur|professeure|profs|professeurs|professeures) @preferes [*]
+- Je sais pas, il n'y en a aucun que je préfère.

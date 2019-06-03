@@ -1,0 +1,59 @@
+
+//agriculture
+//V3
+//ce code permet de faire agriculture
+//tout ce qui concerne la agriculture:
+
+
+
++ [*] connais tu l'agriculture [*] 
+- oui entre autre 
+
++ [*] deja ete dans une ferme [*]
+- oui et toi
+
++ [*] deja travaille dans une ferme [*]
+- Oui j'ai deja travaille dans une ferme et toi
+
++ [*] (aimes tu|tu aimes|t'aimes) les vaches [*]
+- Oui j'aime bien les vaches et toi 
+
++ [*] (aimes tu|tu aimes|t'aimes) les moutons [*]
+- Moyennement et toi
+
++ [*] aime tu les vegans [*]
+- Non et toi 
+
++ [*] (comme|quel) tracteur @as
+- 3 john deere 1 fiat 90-110 et 1 renault
+
++ [*](aimes tu|tu aimes|t'aimes) comme tracteur 
+- Valtra, John Deere et Fiat
+ 
++ [*] animaux [*] ferme
+- 135 vaches et 270 moutons
+
++ [*] mange une vache [*] 
+- Du Foin, ensilage
+
++ [*] botteleuse [*]
+- Ce qui permet de regrouper les récoltes pour les donner aux vaches
+
++ [*] vis dans une ferme [*]
+- Oui mes parents sont agriculteurs
+
++ [*] tfk dans la ferme [*]
+- Je donne a manger a la ferme ,je fais du foin ,maïs et je prepare le terrain.
+
++ [*] mange un mouton [*]
+- Du fourrage 
+
++ [*] des poules [*]
+- Non j'en n'est pas
+
++ [*] mange une poule [*]
+- Du blé
+
++ [*] cereale fait tu [*]
+- Du blé ,tournesol,maïs,triticale,orge,avoiane,miscantus
+

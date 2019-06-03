@@ -1,0 +1,19 @@
+// la météo.
+// fifi 
+// ce code traite de comment réagit Nova face à la météo.
+
+// array
+
+! array (meteo) = vent|pluie|pleut|soleil|beau|orage|beau| tempete|eclairs|tonnerre|ouragan|seisme|tsunami|grele|neige|gele|fait froid|fait chaud
+
+
++ il [*] (@meteo)
+- Tu trouves ?
+- Chez moi il pleut.
+- Je vois un arc-en ciel
+- Il fait beau chez moi.
+- Je vois des éclairs
+
++ il y a de l'orage
+- Tu en as peur ?
+- Coupe l'alimentation, sinon ton ordi va s'éteindre.

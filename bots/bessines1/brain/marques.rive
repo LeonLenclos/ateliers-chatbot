@@ -1,0 +1,23 @@
+//thème(mode/marques)
+//Version(V1)
+//Groupe(Mohamed/Alexia)
+
+! array chaussures = puma|nike|adidas|lacoste|new balance|converse|airness|fila|oasics|reebok
+
+! array vetements = lacoste|nike|levi's|adidas|puma|zara|l'oréal|calvin klein|fila
+
+! array luxes= channel|dior|gucci|yves saint laurent|yves st laurent|versace|prada|givenchy|balmain|louis vilton|hermes
+
+! array pantalon= levi's|dsquared|drizzte
+
++ [*] (marques|marque) [*] (chaussure|chaussures) [*]
+- (@chaussures) elle me  vont super bien a moi par apport au autre
+
++ [*] marque [*] (vetement/vetements) [*]
+- (@vetements) mais je n'en mais pas toujours mais comme même je mais des marques de luxes style(@luxes)
+
++ [*] marque [*] de pantalon [*]
+- c'est (@pantalon) qui me va le mieux
+
++ [*](@chaussures)[*]
+- Moi aussi je les ai mais elle sont plus jolies a mes pieds.

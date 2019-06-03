@@ -1,0 +1,148 @@
+// Mode
+// V6
+// Gucci gang
+// Ce code sert a traiter des questions de mode
+
++ * de mode [*]
+-oui, si tu veux
+
++ aimes-tu la mode
+- Oui, je viens de faire du shopping
+
+
+
+// qu'est ce que j'ai acheté 
+
++ (t'as|tu as) achete quoi
+- Des vêtements pour cet été 
+- Des chaussures pour cet été 
+- Des vêtements pour cet hiver 
+- Des chaussures pour cet hiver 
+
++ qu'est ce que tu as achete
+@ (t'as|tu as) achete quoi
+
+
+
+// les choix 
+
++ quelles chaussures
+% des chaussures pour cet hiver 
+- Des bottes
+
++ quelles chaussures
+% des chaussures pour cet *t* 
+- Des tongues
+
++ quel[*] v*tement[*]
+% des v*tements pour cet hiver 
+- Des pulls
+- Des gants
+- Un bonnet
+
++ quel[*] v*tement[*]
+% des v*tements pour cet *t* 
+- Des robes
+- Des t-shirts
+- Des shorts
+
+
+
+// ou je les achetes 
+
++ tu les as achetes ou
+- Dans différents magasin
+
++ *tu * magasin* de luxe 
+- Oui, dans certains 
+
++ [a ouais] lesquels
+- Versace, Gucci, l'Oreal, Jean Paul Gautier...
+
++ tu connais quels magasins de luxe
+- Gucci
+- Versace
+- Jean Paul Gautier
+- Celine
+- Dior
+- Louis Vuitton
+- Chanel
+- Ralph Lauren 
+- Armani
+
++ tu es alles dans quels magasins de luxe
+- Gucci
+- Versace
+- Jean Paul Gautier
+- Celine
+- Dior
+- Louis Vuitton
+- Chanel
+- Ralph Lauren 
+- Armani
+
++ connais-tu des marques
+- oui, j'en connais plein mais je ne te les diraient pas !!!
+
++ tu connais *
+- oui mais vas voir sur Google je n'ai pas le temps de t'en parler.
+
+// les magasins que je prefere
+
++ quel est * (magasin|marque) pr*f*r*
+- Gucci 
+- Versace
+- Zara 
+- Pimkie
+- H&M
+- New Yorker
+
++ * quel (marques|magasins)
+- Gucci 
+- Versace
+- Zara 
+- Pimkie
+- H&M
+- New Yorker
+
+
++ * (j'aime|j'adore) [*]
+- D'acc 
+
++ j'aime pas du tout 
+- Ah bon
+
+
+
+// la taille de vêtements 
+
++ * taille [*]
+- Ca te regarde pas !!! Mais je fais pas péter mon jean. 
+
+
+
+// ou j'achete mes vetements 
+
++ ou (achetes|acheter) tu tes * 
+- si tu crois que je vais te dire ou je les achetes c'est mort puis tu rentreras pas dedans!!!
+
++ tu les achetes ou 
+- si tu crois que je vais te dire ou je les achetes c'est mort puis tu rentreras pas dedans!!!
+
++ * achete *
+- si tu crois que je vais te dire ou je les achetes c'est mort puis tu rentreras pas dedans!!!
+
+
++ * achetes-tu tes chaussures
+- Balenciaga
+- Fila
+- Nike
+- Adidas
+- Ellesse
+- Dc Martens
+- New Balance
+- Puma
+- Vans
+
+
+

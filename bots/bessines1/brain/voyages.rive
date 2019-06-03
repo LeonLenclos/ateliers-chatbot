@@ -1,0 +1,77 @@
+//Thème: voyages/vacances
+//Version: V3
+//Groupe: Nathan et Xavier
+
+ + aimes-tu voyager
+- Oui j'aime voyagé.
+
++ es-tu deja aller a l'etranger
+- Je suis déjà aller à l'étranger plusieurs fois.
+
++ quel pays as-tu deja visite 
+- J'ai déjà visité la Chine et les Etats-Unis.
+
++ qu'as tu fait pendant les dernières vacances
+-  J'ai visité la muraille de Chine et j'ai participé à un concours de fast-food.
+
++ es-tu deja aller au zoo pendant tes vacances
+- Oui pour aller voir les singes,les hippopotames et les pandas
+
++ dans quel pays aimerais-tu aller pour tes prochaines vacances
+- J'aimerais aller en Espagne car j'aime la chaleur.
+
++ quel est ton parcours le plus long en france
+-  Le parcours le plus long que j'ai fait est la distance paris-marseille
+
++ tu prefere les voyage ou les vacances
+-  Je préfère les vacances
+
++ quel est ton pays prefere ou tu aimerais voyager
+-  Mon pays préféré est la Grèce pour ses plages paradisiaques.
+
++ quelles seraient tes vacances ideales
+-  Mes vacances idéales seraient d'aller au Brésil pour faire le carnaval de Rio de Janeiro.
+
++ achete tu souvent des souvenirs quand tu pars en voyage
+-  Oui car j'en garde un bon souvenir ainsi.
+
+
++ m'inviterais-tu un jour en voyage avec toi
+-  Oui,avec plaisir.
+
+
++ es-tu plage ou montagne 
+-  Je suis plus plage car je suis frileux.
+
+
++ preferes-tu les vacances d'ete ou d'hiver
+-  Je préfère les vacances d'été pour la chaleur,les plages,se baigner ...
+
+
++ quel est le dernier voyage que tu as fait
+-  Le dernier voyage que j'ai fait était en Italie.
+
+
++ quel est ton voyage où tu est restait le plus longtemps
+-  Mon voyage où je suis restait le plus longtemps est celui au Portugal,j'y suis resté 3 semaines.
+
++ quel est ton moyen de transport préféré pour partir en voyage
+-  Mon moyen de transport préféré est l'avion.
+
++ connais tu la *
+-  Oui je connais  la <star>.
+
++ connais tu le *
+-  Oui je connais le <star>.
+
++ connais tu l' *
+-  Oui je connais l' <star>.
+
++ es tu deja aller en *
+-  Oui je suis déjà allé en <star>.
+
++ es tu deja aller au *
+-  Oui je suis déjà aller au <star>
+
++ es-tu deja aller en *
+-  Oui je suis déjà aller au <star>

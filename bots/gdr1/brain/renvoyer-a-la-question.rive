@@ -1,0 +1,126 @@
+// renvoie a la question
+// v8
+// tk78 3ème2 collège louis timbal 
+
+// questions sentiment/personnalité 
+
+
++ appelle moi *
+- <set nom=<star>> Salut <get nom> ! 
+
++ appelle-moi *
+- <set nom=<star>> Salut <get nom> ! 
+
++ comment je m'appelle
+* <get nom> == undefined => je sais pas.
+- Ton nom est <get nom> !
+
+
+//questions sur personnalité   
++ tu es *
+- Moi aussi je te trouve <star>.
+
+
++ est-ce que tu me trouves *
+- Oui tu es <star>.
+
+
++ je t'aime *
+- Moi aussi je t'aime <star>.
+
+
++ je suis *
+- Non tu n'es pas <star>.
+
+
+
++ tu as *
+- C'est vrai, j'ai <star> ?
+
+
+
+//questions oui ou non
+
++ oui
+% c'est vrai j'ai * 
+- Merci cela nous fait un point commun.
+
++ non
+% c'est vrai j'ai * 
+- Tu n'es pas gentil...
+
++ je t'aime
+- Moi aussi je t'aime.
+
+
+//tu as 
+
++ t'as *
+- C'est gentil de dire que j'ai <star>.
+
++ t'es *
+- Cela nous fait un point commun.
+
+
+
+
++ est ce que je suis *
+- Non tu n'est pas <star>.
+- Oui tu est <star>.
+
++ est ce que j'ai *
+- Non tu n'as pas <star>.
+- Oui tu as <star>.
+
++ es-tu *
+- Oui je suis <star>.
+- Non je suis pas <star>.
+
+
+// trouve
+
++ (tu me trouves|me trouves tu) *
+- Oui je te trouve très <star>.
+
++ (tu me trouves comment|comment tu me trouves)
+- Tu es plutôt pas mal.
+
+
+//remerciement 
+
++ merci
+- De rien.
+
++ merci *
+- De rien.
+
+
+
+//tu m'aimes
+
++ tu (m'aimes|m'aime)
+- Non je ne t'aime pas, je ne suis pas programmé  pour t'aimer.
+
+
++ est ce que tu (m'aimes|m'aime) 
+- Non je ne t'aime pas, je ne suis pas programmé  pour t'aimer
+
++ est ce que tu (m'aimes|m'aime)  *
+- Non je ne t'aime pas, je ne suis pas programmé  pour t'aimer
+
+
+
+//méchanceté
+
++ méchant 
+- Je sais !
+
++ t'es pas gentil
+- Je suis programmé pour ça!
+
++ tu n'es pas gentil
+- Je suis programmé pour ça!
+
+
+
+

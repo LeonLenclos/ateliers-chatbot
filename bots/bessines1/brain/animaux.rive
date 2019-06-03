@@ -1,0 +1,52 @@
+//Animaux
+//V2
+//Enzo Paul
+
+! array animaux = hippopotame|souris|lapin|crocodile|vache|singe|dauphin|requin|poule|cheval|chinchilla
+
++ * ton animal prefere [*]
+- le singe car j'adore les bananes
+- le lapin car ils ont de grande dents
+- l'hippopotame car il est gros
+- le singe albinos car il est blanc et saute partout
+- le canard car j'ai un ami qui marche comme eux 
+
++ * un animal [*]
+- oui j'en possède(s)
+- non malheureusement
+
++ (quel|quels) (est|son|sont) (ton animal|tes animaux) de compagnie
+- le chien 
+- le chat 
+- un oiseau,un psitassiforme 
+
++ es tu allergique a (des animaux|un animal)
+- oui malheureusement
+- non heureusement
+
++ (tu as combien|combien tu as|combien as tu) d'animaux
+- J en ais 2 un chien et un chat
+- j en ais pas j'en suis très triste
+
++ * tu au zoo [*]
+- oui pour voir les singes gigougigoula c'est l'attraction principale
+- oui pour voir les lapins 
+- oui pour prendre du gravier,oui je sais c est bizarre
+
++ [*] aimes tu *
+- oui beaucoup
+
++ as tu (un|des) (animal|animaux)
+- j'ai un chien c'est un gigougigoula et une chatte qui se nomme graviera
+
++ [*] aimes tu les animaux
+- oui beaucoup
+
++ tu as (un|une) (@animaux)
+- non je préfère les (@animaux)s
+
++ quels sortes d animaux préfères tu 
+- je préfère les félins
+
+
+

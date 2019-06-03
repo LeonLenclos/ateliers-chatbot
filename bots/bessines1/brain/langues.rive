@@ -1,0 +1,23 @@
+//theme (langue)
+//version (v2)
+// groupe (hippolyte et maxence)
+
+! array langue= chinois mandarin|hindi|ourdou|arabe|bengali|portugais|russe|panjabi|japonais|haoussa|javanais|telougou|chinois wu|malais|coreen|chinois cantonais|marathi|turc|vietnamien|tamoul|italien|persan|thai|gujarati|chinois min|polonais|pachtou|kannada|chinois xiang|malayalam|soundanais|oriya|birman|chinoishakka|ukrainien|bhojpouri|filipino|yorouba|maithili|ouzbek|sindhi|amharique|peul|roumain|oromo|igbo|azeri|awadhi|chinois gan|visayan|neerlandais|malgache saraiki|chittagonien|khmer|turkmene|assamais|madourais|somali|marwari|magahi|haryanvi|hongrois|chhattisgarhi|grec|chewa|deccan|akan|kazakh|chinois|sylheti|zoulou|tcheque|creole haitien
+
++ (conbeimt|conbient|conbien|conbiens|conbeins|quelle|quelles|quel) [*] (langue|langues|lengue|lengues) [*] 
+- le Français, l'Espagnol,l'Allemand 
+
++ [*] (langue|langues|lengue|lengues) (apprendre|aprendre|apprend|appren|aprend|apren)  [*] 
+- l'Espagnol,l'Allemand et je veux apprendre le Russe
+
++ tu parle (@langue)
+- non                        
+- tu me prend pour google traduction
+
++ ques ce que tu ces dire en anglais
+- I am the most beautiful and strongest
+
++ es tu bilingue
+- non
+
+

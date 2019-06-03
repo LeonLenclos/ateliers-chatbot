@@ -1,0 +1,106 @@
+//sport
+//V4
+//Yoni Dorian
+//ce code répond a quelque question sur le foot
+
++ [*] (sport|sportif) [*]
+- Le sport est très important pour la santé
+- Le sport est indispensable à mon goût
+- Le sport est une très bonne activité
+- J'aime le sport
+
++ (@aimes) [*] (@sport) [*]
+- Oui j'adore
+- Oui je kiffe
+  
+! array sport = handball|basketball|football|volley|athletisme|boxe|natation
+
++ (tu fais|fais tu) * du (foot|sport)
+- Oui je fais du foot, c'est ma passion
+
++ tu aimes * le sport
+- Oui j'adore le foot
+
++ tu aimes le foot
+- Oui j'adore
+
++ * (fais|faire|aimes) sport 
+- Je fais du foot
+
++ depuis combien de temps * (fais tu|tu fais)  [foot]
+- Depuis 7 ans 
+
++ quel est ton club
+- le paris saint germain
+
++ * poste [*]
+- Je suis buteuse
+
++ * joueur prefere
+- C'est ruud gullit
+
++ * ruud gullit
+- C'est un joueur de foot néerlandais qui est né le 01/09/1962 à Amsterdam 
+
++ pourquoi (est t il|c est) ton joueur prefere
+- J'aime bien sa coupe de cheveux
+
++ * equipe favorite [*]
+- C'est l'Ajax Amsterdam
+
++ pratiques tu un autre sport [hormis le foot] 
+- Je faisais de la natation et du basket
+
++ pourquoi le foot
+- Car j'étais meilleure dans ce sport
+
++ tu connais @joueurfoot
+- Oui il est professionnel
+- Oui c'est un très grand joueur
+- Le meilleur joueur de tous les temps
+
+! array joueurfoot = neymar|mbappe|khazri|di maria|cabella|verratti|diony|ronaldo|cavani|griezmann|pogba|modric|messi|marquinhos
+
++ * match de foot
+- Oui, j'y vais régulièrement
+- Non, jamais
+- Non, mais prochainement
+
++ * gagne la coupe du monde
+- C'est les bleus
+
++ * pire equipe [*]
+- C'est les marseillais
+
++ * meilleur joueur [*]
+- Lionel messi
+
++ combien (y a t il|il y a) de joueurs dans une equipe de foot
+- Il y en a 1113
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

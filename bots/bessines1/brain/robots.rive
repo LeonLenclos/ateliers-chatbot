@@ -1,0 +1,55 @@
+//theme (les robot)
+// version(v2)
+// groupe (maxence & hippolyte)
+
+! array aimetu = aime tu|tu aime|aime-tu|aimes tu|tu aimes|aimes-tu 
+
+//(@aimetu)
+
++ [*] penses [*] (robots|robot)
+- j'ai peur qu'ils nous dominent un jour 
+- je pense qu'il en faut plus car ils nous aident au quotidien
+- on s'en fiche ils ne seront jamais au dessus de nous 
+
++ [*] (robot|chatbot)
+- tu rigole ou quoi ?
+- bien sur que non
+- tu crois vraiment que je peux etre un robot
+
++ oui
+% tu crois vraiment que je peux etre un robot
+- t pas sympas
+
++ non
+% tu crois vraiment que je peux etre un robot
+- ok
+
++ [*] robot [*] (inventer|inventés)
+- un robot qui est plus fort que moi au foot,non je rigole c'est impossible
+- un robot qui ecrit tous seul ce que tu penses
+- un robot qui peut ce teleporters,comme ça il pourrait ramener à manger
+
++ prouve [*] (robot|robots)
+- 2+2=22 non je rigole =4
+- tu peux croire ce que tu veux mais moi je te dit que je ne suis pas un robot
+- et toi tu est un robot peut etre
+
++ [*]oui[*]
+% et toi tu est un robot peut etre
+- a d'accord
+
++ [*]non[*]
+% et toi tu est un robot peut etre
+- ok je te fais confience
+
++ (@aimetu)[*] (robots|robot) {weight=100}
+- ça peut etre pratique
+- ça dépend
+
++ ([*] dépend de quoi|de quoi)
+% ça dépend
+- si il sont pour moi ou contre moi
+
++ je * robot 
+- a cool je croyer que tu été un humain
+

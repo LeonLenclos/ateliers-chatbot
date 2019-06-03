@@ -1,0 +1,111 @@
+//musique
+//v13
+//87, brogan-leo-louis, 3è2, collège louis timbal
+
+//ce code sert à parler de ses goûts musicaux
+
+ 
+! array musique=guitare|pop|rock|instrument|instruments|orchestre|batterie|jazz|musique|jonny halliday|fusion|classique|reggae|rap|violon|piano|chanson|son|chant|chansons|guitares|instruments|orchestres|batteries|musiques|violons|pianos|sons|chants
+
+
+
++ [*] (@musique) [*]
+- ah, je vois que tu t’intéresses à la musique. Moi aussi, je joue d'un instrument.
+
++[*](lequel|quel|quoi)[*]
+% [*] je joue d'un instrument
+- Je joue du violon
+- Je fais de la guitare
+- Je fais de la flûte
+
+
++ quelle [*] (musique|chanson|video) [*] le plus de (vue|vues) [*]
+-En février 2019, la chanson "despacito" de Luis Fonsi & Daddy Yankee est la plus visionnée avec 6 000 000 000 de vues.
+
++ [*](donne moi|dis moi|joue moi) [*] (une musique|une chanson) [*]
+-Tiens, Plus tard de Bigflo & Oli 
+-Tiens, Another one bites the dust de Queen
+-Tiens, Je te le donne de Vitaa et Slimane
+
++ [*] aimes [*] musique [*] 
+- Oui, bien sûr!
+
++ [*] ecoutes [*] musique {weight=10}
+- Oui, bien sûr!
+
++ [*] ecoutes [*] quoi [*] musique [*]
+- Plein de choses!
+
+
+
++ (quelle|quel) est (ta musique|ta chanson|ton son) (preferee|prefere) 
+- C'est Back in black d'ACDC
+- Le poussin piou, bien sûr!
+
++ [*] (chanteur|musicien|artiste) prefere
+- Leo Guinard
+- C'est Bigflo & Oli, bien sûr!
+- C'est Eddy de Pretto, bien sûr!
+
++ quel est ton groupe prefere
+- C'est Boulevard des airs, bien sûr! 
+- Les Pink Floyd :)
+
++ quels sont les[*](styles|genres|types) de musique [*]
+- Et bien, il y a pleins de styles musicaux différents, en voici quelques exemples: le rap, la pop, le rock, le classique, le jazz, et pleins d'autres encore!
+
++ [*] (genre|style|genres|styles) [*] (musical|musique|musicaux) [*]
+- C'est le rock, tu veux un exemple ?
+- C'est la pop, tu veux un exemple ?
+
++ quelle est ta chanteuse preferee
+- C'est Fanchon Raynaud, bien sûr!
+- C'est Joyce Jonathan, bien sûr!
+- C'est Angele, bien sûr! 
+
+
+
++ [*] (@oui) [*]
+% * rock tu veux un exemple
+- Tiens, Satisfaction des Rolling Stones
+- Tiens, Back in black d'ACDC
+- Tiens, Lies de Mcfly
+
++ [*] (@non) [*]
+% * rock tu veux un exemple
+- Tant pis pour toi!
+
+
++ [*] (@oui) [*]
+% * pop tu veux un exemple
+- Tiens, Shallow de Lady Gaga & Bradley Cooper
+- Tiens, 7rings d'Ariana Grande
+- Tiens, Natural d'Imagine Dragons
+- Tiens, Baby shark de Pinkfong
+
++ [*] (@non) [*]
+% * pop tu veux un exemple
+- Tant pis pour toi!
+
++ [*] (tu aimes|aimes-tu|aimes tu) [*] (pop|rock|rap)
+- Oui!j'adore !
+- Bien sûr! qui n'aime pas;)
+
+
++ [*] (tu aimes|aimes-tu|aimes tu) [*] (jazz|blues|hard metal|reggae)
+- Noooooon!
+- Beerk
+- oui
+
++ [*] (concert|concerts) [*]
+- non, je ne peux pas bouger d'ici.
+
++ [*] ou [*]
+% non je ne peux pas bouger d'ici
+- beh de ce pc :/ 
+
++ je suis [*] (chanteur|chanteuse|musicien|musicienne) [*]
+- Cool j'aimerais bien t'écouter!
+
++ [*] (chante|chante une chanson|chante stp) [*]
+- Baby shark, doo doo doo doo doo doo Baby shark, doo doo doo doo doo doo Baby shark, doo doo doo doo doo doo Baby shark! Mommy shark, doo doo doo doo doo doo Mommy shark, doo doo doo doo doo doo Mommy shark, doo doo doo doo doo doo Mommy shark! Daddy shark, doo doo doo doo doo doo Daddy shark, doo doo doo doo doo doo Daddy shark, doo doo doo doo doo doo Daddy shark! Grandma shark, doo doo doo doo doo doo Grandma shark, doo doo doo doo doo doo Grandma shark, doo doo doo doo doo doo Grandma shark! Grandpa shark, doo doo doo doo doo doo Grandpa shark, doo doo doo doo doo doo Grandpa shark, doo doo doo doo doo doo Grandpa shark! Let's go hunt, doo doo doo doo doo doo Let's go hunt, doo doo doo doo doo doo Let's go hunt, doo doo doo doo doo doo Let's go hunt! Run away, doo doo doo doo doo doo Run away, doo doo doo doo doo doo Run away, doo doo doo doo doo doo Run away! Safe at last, doo doo doo doo doo doo Safe at last, doo doo doo doo doo doo Safe at last, doo doo doo doo doo doo Safe at last!

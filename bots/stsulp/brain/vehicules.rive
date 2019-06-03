@@ -1,0 +1,123 @@
+//Véhicules
+//v8
+// Fanchon Clément
+
++ [*] (moto|motos|voiture|voitures)
+- Oh !!! Oui, j'adore la moto !
+- C'est ma passion, j'aime beaucoup !
+- Ce thème est très intéressant !!!
+- Depuis que je suis toute petite je baigne dedans !!! <3 Au sens imagé ! MDRRR !
+
++ [*] marques [*] (voitures|voiture) [*]
+- J'aime les (dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes).
+
++ [*] marques [*] (moto|motos) [*]
+- J'aime les (ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju).
+
+! array marquemotos = ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju
+
+! array marquevoitures = nissan |dodge|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
+ 
+! array catégories = moto|motos|voiture|voitures
+                                
+! array verbesvoitures = nissan skiline gtr r34|dodge challenger|lamborghini|aston martin|bugatti|jaguar|mclaren|renault|ferrari|audi|pagani|porche|bmw|mercedes
+
+! array verbesmotos = ducati|ktm|honda|yamaha|suzuki|kawasaki|derbi|beta|rieju
+
+! array verbesgout = sportives|vintages|luxe
+
+! array voitureslesmoinscheres = Citroën C1 3 portes avec 10 450€|Ford Ka+ avec 10 150€|Dacia Lodgy avec 10 150€|Seat Mii 3 portes avec 9 895€|Fiat Panda avec 9 690€|Dacia Dokker avec 9 650€|Skoda Citigo 3 portes avec 9 500€|Suzuki Celerio avec 8 990€|Dacia Sandero avec 7 990€|Dacia Logan avec 7 790€ 
+
++ [*] aime [*] (les voitures|la voiture|les motos|la moto)
+- J'adore !! Et toi ?
+
++ oui j adore
+% j'adore et toi 
+- D'accord
+
+
++ [*] aimes [*] (les voitures|la voiture|les motos|la moto)
+- J'adore !! Et toi ?
+
++ * prefere [*](les voitures|la voiture|les motos|la moto)
+- Quelles marques ? 
+
++ la (@verbesvoitures|@verbesmotos)
+- Moi j'aime bien (@verbesvoitures)
+- Moi j'aime bien (@verbesmotos)
+
++ * beaucoup (les voitures|les motos) (sportives|vintages|luxe) et toi
++ * bien (les voitures|les motos) (sportives|vintages|luxe) et toi
+- Moi, je préfère les voitures de luxe
+- Moi, je prefere les voitures sportives
+- Moi, je prefere les voitures vintages
+- Moi, je prefere les motos luxe 
+- Moi, je prefere les motos sportives
+- Moi, je prefere les motos vintages
+
++ * voiture preferer [*] 
+- Moi c la dodge charger R/T
+
++ * voiture preferé [*] 
+- Moi c la dodge charger R/T
+
++ quelle est la voiture de tes reves  
+- (@verbesvoitures)
+
++ quelle est la moto de tes reves
+- (@verbesmotos)
+
++ [*] as * voiture 
+- Non, car j'ai 16 ans.
+
++ [*] voiture * (rapide|vite) [*]
+- La bugatti chiron 
+
++ [*] voitures * plus ch*re [*]
+- Les voitures de luxe et de sport
+
++ [*] voiture la moin ch*re [*]
+- C'est la Dacia Logan avec 7 790€
+
++ [*] voiture * ch*re [*]
+- C'est la bugatti Divo avec 5 000 000 000 d'euros
+
++ [*] (nulle|pire) moto [*]
+- C'est la Aprilia La Motó 6.5 de 1996. AHAHAHAHAH !!!!
+
++ * moto * puissante [*]
+- C'est la Y2K TURBINE SUPERBIKE de 2001 avec 320 ch. 
+
++ [*] rassemblement [*]
+- Oui, j'y vais très régulièrement!!
+
++ * t as marque de voiture preferer 
+- Ma marque de voiture préférée est (@marquevoitures)
+
++ * t as marque de voiture prefer*e
+- Ma marque de voiture préférée est (@marquevoitures)
+
++ * t as marque de moto prefer*e 
+- Ma marque de moto préférée est (@marquemotos)
+
++ * t as marque de moto preferer 
+- Ma marque de mot préférée est (@marquemotos)
+
++ * moto preferer [*] 
+- Moi c la ducati panigale v4 1299
+
++ * moto preferé [*] 
+- Moi c la ducati panigale v4 1299
+
++ as tu une marque de voiture preferer
+- Oui, c'est (@marquevoitures) 
+
++ as tu une marque de voiture prefer*e
+- Oui, c'est (@marquevoitures) 
+
++ as tu une marque de moto preferer
+- Oui, c'est (@marquemotos) 
+
++ as tu une marque de moto prefer*e
+- Oui, c'est (@marquemotos) 
+

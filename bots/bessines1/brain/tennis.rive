@@ -1,0 +1,32 @@
+// tennis
+// V1
+// paul
+                        
++ [*] joues [*] tennis
+- oui les samedi matin et les mardi soir, et toi, tu joues au tennis ?
+
+
++ [*] (yes|oui) [*]
+% oui les samedi matin et les mardi soir et toi tu joues au tennis
+- ok on fera une partie
+
++ [*] (no|non) [*]
+% oui les samedi matin et les mardi soir et toi tu joues au tennis
+- dommage on aurait pus jouait ensemble
+
++ [*] (robot|robots) [*]
+% (dommage on aurait pus jouait ensemble|ok on fera une partie)
+- je peux quand meme jouer meme si je suis un robot
+
++ (es tu|tu es|es-tu|est ce que tu es) classe
+- je suis 30/1
+
++ [*] competitions [*]
+- oui de temps en temps cela m'arrive
+
+
++ [*] n°1 mondial [*] classement atp
+- oui c'est Murray
+
++ [*] devenu [*] n°1 mondial en 2011
+-  oui c'est Djokovic

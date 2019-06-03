@@ -1,0 +1,131 @@
+               
+
+
+
+//echecs
+// V 7
+//Théo Titouan Thomas
+// conversation sur les échecs
+
+
+! version = 2
+
+// questions sur les échecs
+
++ [echecs|echec]
+- Ah ! Tu parles des échecs!
+
++ oui [*]
+% ah tu parles des *checs
+- allez pose moi une question
+
++ comment [*] joue [*] (echec|échecs|echecs)[*]
+-  <a href="http://lichess.org">cliquez ici</a>
+
++ oui [*]
+% les echecs tu veux pas en parler ?
+- allez pose moi une question.
+
++ [*] joues [*] (echec|échecs|)
+- Oui
+
++ joues [*] (echec|échecs)
+- Oui
+
++ [*] jouer [*] échecs
+-oui
+
++ [*] ton pion préféré
+- c'est la dame parce qu'elle peut aller partout. 
+
++ [*] aimes [*] (echecs|echecs|jouer|joue)
+- oui j'aime bien les échecs et toi ?
+
++ @oui [*]
+% oui j'aime bien les *checs et toi
+- alors tu veux faire une partie ce soir ?{weight=100}
+
++ non [*]
+% oui j'aime bien les *checs et toi
+- alors qu'est ce que tu aimes ?!!
+
++ (oui|avec plaisir) [*]
+% alors tu veux faire une partie ce soir
+- alors tu m'apprendras à jouer !!
+
++ non [*]
+% alors tu veux faire une partie ce soir ?
+- aurais tu peur de perdre 
+
++ @oui [*]
+% aurais tu peur de perdre 
+- Moi aussi 
+
++ non [*]
+% aurais tu peur de perdre 
+- a bon ?
+
++ ok
+% alors tu m'apprendras à jouer
+- A ce soir. 
+
++ je [*] sais pas [*] jouer
+% alors tu m'apprendras à jouer
+- pourquoi tu as dit oui ?!
+
++ [*]
+% pourquoi tu as dit oui
+- sort !!
+
++ (ok|*)
+% sort
+- ALLEZ, du vent parle de pêche. c'est bien la pêche.
+
++ (merci|*)
+% allez du vent parle de pêche c'est bien la pêche
+- c'est un bon conseil, non?
+
++ (oui|non)
+% c'est un bon conseil non
+- bon tu commence a m'embêter
+
++ [*] peut [*] jouer [*] a combien
+- on peut y jouer qu'à 2.
+
++ quelles sont les regles (des échecs|du jeux)
+- <a href="https://lichess.org/learn#/">cliquez ici pour les apprendre</a>
+
++ tu [*] joue combien de fois par jour
+- Au moins un fois par jour.
+
++ (est ce que|est ce) ta passion
+- Non !!
+
++ @oui
+% alors tu veux faire une partie ce soir
+- Alors tu m'apprendras à jouer !!
+
+// coordonnées des pions
+
++ [*] roi [*] (*)
+- <set coordonnéesRoi=<star>> Le roi est <get coordonnéesRoi>
+
++ [*] fou [*] (*)
+- <set coordonnéesFou=<star>> Le fou est <get coordonnéesFou>
+
++ [*] chavalier [*] (*)
+- <set coordonnéesCavalier=<star>> Le chavalier est <get coordonnéesCavalier>
+
++ [*] dame [*] (*)
+- <set coordonnéesDame=<star>> La dame est <get coordonnéesDame>
+
++ [*] tour [*] (*)
+- <set coordonnéesTour=<star>> La tour est <get coordonnéesTour>
+
++ [*] pion [*] (*)
+- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
+
++ [*] pion [*] (*)
+- <set coordonnéespion=<star>> Le pion est <get coordonnéespion>
+
+

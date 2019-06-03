@@ -1,0 +1,102 @@
+html, body {
+  margin:0;
+  padding: 0;
+}
+
+body{
+ background:#B7ADC0;
+  font-family: Helvetica, sans;
+    display:flex;
+  height: 90vh;
+  padding:50px;
+}
+
+.head, .body{
+  width: 50%;
+ 
+}
+input {
+  display: block;
+  width:90%;
+  margin:auto;
+}
+button {
+  margin: 50px;
+  margin-left:auto;
+  display:block;
+  border: none;
+  background: #CAC2D0;
+  border-radius: 30px;
+  height: 60px;
+  width: 120px;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #F0EEF2;
+  
+}
+
+#discussion-container{
+  max-height: 70%;
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+#discussion-container::-webkit-scrollbar { 
+  /* This is the magic bit for WebKit */
+  display: none;
+}
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+      background: white;
+  color: #5A5FB1;
+
+    display: block;
+    margin: 10px;
+    padding:20px;
+    width: 50%;
+    border-radius: 30px;
+      font-weight: bold;
+
+}
+.bot {
+    text-align: right;
+    margin-left: auto;
+      background: #5A5FB1;
+  color: white;
+
+  
+   
+}
+
+/* FORM */
+
+
+input:disabled, button:disabled {
+    background: #eee;
+    color: #aaa;
+}
+
+/* OTHER */
+
+h1 {
+    font-size : 50pt;
+    margin:auto;
+    text-align: center;
+    padding: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 6px solid black;
+    background: white;
+}

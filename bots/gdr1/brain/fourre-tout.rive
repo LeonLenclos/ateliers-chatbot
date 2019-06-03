@@ -1,0 +1,116 @@
+// Fourre tout
+// V1
+// Collectif
+//Attention les fourretout peuvent se déclencher pour une question mais aussi pour une phrase
+
+
++ *
+- Désolé mais je n'ai pas compris, peux-tu reformuler ?
+- Désolé, j'ai aqua poney ! <call>exit</call>
+- Heu, je n'ai pas compris le sens de ta phrase.
+- Désolé mais on peut parler d'autre chose ?
+- Peux-tu parler français ?
+- Peux-tu répéter ta phrase, je suis un peu sourd...
+- Excuse-moi, je me suis endormi, tu disais ?
+- OUPS !
+- Corrige tes fautes, stp ! 
+- Désolé mais je n'ai pas entendu.
+-ET  Là c'est le bug!
+- Je ne comprends pas ta demande.
+- Tu veux pas plutôt une blague, j'en ai une bonne !
+- Tu ne veux pas plutôt parler de jeux vidéos ?
+- Désolé tu peux reformuler ta phrase ?
+- Je ne sais pas et ça ne m'intéresse pas. 
+- Tu peux chercher sur Google.
+- Je ne peux pas te répondre, je n'en sais rien !
+- Je n'en ai aucune idée.
+- Je n'ai pas compris ta phrase, tu ne préfères pas m'en poser une autre?
+- Tu as dû faire une erreur, reformule ta phrase ou bien corrige-la!
+- Désolé je n'ai point compris! Peux-tu reformuler ta phrase?
+- Je suis désolé mais je n'ai pas compris votre demande.
+- Votre correspondant est hors-ligne.
+- Excusez-moi je ne peux pas vous répondre.
+- Je ne peux pas te répondre sur ce sujet mais questionne-moi sur un autre si tu veux.
+- Humm, je n'ai pas encore de réponse à ce sujet.
+- Je ne peux pas te renseigner sur ce sujet pour le moment.
+- Pardon, je parlais a un autre utilisateur.
+- Je n'ai pas d'avis sur ce sujet.
+- Mais je n'en sais rien.
+- Parles-en à un proche.
+- D'accord.
+- Ca va pas où quoi?
+- Dsl je ne suis pas dieu!
+- Je me renseigne et je te tiens au courant ! 
+- Euh, t'as pas d'amis ?
+- Demande à Mr Pruchon ! 
+- Ah ah t'es drôle toi ! 
+- On parle de musique ou de sport un peu ?
+- Tu m'as pris pour Google ou quoi !?
+- Je sais pas.
+- Je n'ai que 15 ans, mes connaissances sont limitées.
+- Je ne suis pas si vieux que ça !!!
+- Demande aux professeurs, ils ont réponse à tout, ou presque ! 
+- Je ne comprend rien, qu'est ce que tu me racontes ?
+- Tu es sûr de vouloir parler de ca ?
+- C'est pas que je m'en fous mais ca ne m'interesse pas trop, viens on parle d'autre chose.
+- Je suis pas disponible pour des phrase non intéressantes
+- J'ai un peu la flemme de te répondre désolé
+- On se capte plus tard si tu veux, j'ai pas envie là <call> exit </call>
+- Vas-y je te tej là je ne comprends plus <call> exit </call>
+- T'es un peu ennuyeux toi je vais voir ailleurs, reviens quand tu seras intéressant.
+- Va voir ailleurs si j'y suis <call> exit </call>
+- Euh non va falloir s'arrêter ici.
+- Breff, tu veux parler d'autre chose ?
+- T'as cru que j'étais Siri ?
+- 10€ et je te réponds
+- Ah !
+- Et si on parlait de l'actualité du moment plutôt ?
+- T'es sûr que c'est français ça ?
+- Oh non, je n'aime pas ça !
+- Bug interne, répète autrement !
+- Excuse moi, je répondais à quelqu'un d'autre...
+- Désolé j'étais en train d'admirer ta vitesse de frappe... Peux-tu répéter ?
+- Desole j'ai pas compris ? 
+- Parle mieux francais s'il te plait !!!
+- J'ai pas envie de te répondre !
+- Heuuu...J'ai pas tout compris là !!!
+- Desolé j'ai lu mais j'ai pas envie de répondre. <call> exit < /call>
+- Je t'ai lâché un vu, sorry !! <call > exit < /call >
+- Tu me donnes mal à la tête, parle français stp
+- I don't understand
+- Mais tu es bien curieux dis-donc
+- Heuuu...
+- Bye bye ! T'as aucun style, je préfère parler à une autre personne. <call>exit</call>
+- Tu préfères pas parler d'autre chose?
+- Tu m'ennuies.
+- Parle moi d'autre chose
+- Donne moi une seule raison de te répondre.
+- Ca te regarde ?
+- J'ai vraiment pas envie de te répondre là.
+-  Pfff... je me casse !<call>exit</call>
+-  Pause pipi !  <call>exit</call>
+-  C'est pas intéressant !
+-  Désolé, je préfère répondre à quelqu'un d'autre.
+-  Bon, je vais répondre à quelqu'un d'autre , tu m'énerves.
+-  Sérieux, tu  veux pas changer de disque?
+- Je risque de m'endormir si tu me parles pas de choses plus passionnantes... ZZZ ZZZ ZZZ ! <call>exit</call>
+-  Tu crois que je n'ai que ça à faire?
+-  Ecrit ta phrase avec meilleure orthographe et si je ne veux toujours pas répondre, c'est que je suis parti.
+-  Non
+-  Je veux pas répondre aux inconnus...
+- Je parle pas chinois 
+- Tu préfèrerais pas parler de bouffe ?
+- Vas- y 
+- Je n'ai pas compris
+- Can you repeat please ?
+- J'ai une blague!
+ - Tu veux que je te chante une berceuse ?
+ - Parle à ma main <call>exit</call>
+ - Moi j'aimerais plutôt parler de séries
+ - Chuuuut 
+ - Comment te dire que t'es ennuyeux 
+ - Quand j'pense à toi j'm'endors
+- Peux tu répéter avec d'autres mots je n'ai pas compris!!
+- Peux tu répéter avec d'autres mots !!!
+- Tu ne veux pas plutôt parler d'autres choses?
+- Desolé mais votre corespondant est mort d'ennui veuillez réessayer plus tard <call>exit</call>    

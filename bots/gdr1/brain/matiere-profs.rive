@@ -1,0 +1,124 @@
+
+
+//les matières+les profs.
+//v2
+//Kaiju Jaëger
+//ce code sert à parler des relations de Nova avec ses profs et des matières qu'il apprend.
+ 
+ 
+// arrays
+ 
+ 
+! array professeurs =(gamaury|meler|coupez|aupetit|ardaillon|charbonnel|ciekosz-boudy|dardilhac|josnière|labbat|laguionnie|mazeau|mestraud|lathiere|pascolo|boidevesy|Farre|Pruchon)
+ 
+! array matieres =(le français|l'anglais|l'espagnol|le latin|l'allemand|les maths|les svt|la techno| la physique|l' art plastique|la musique|l'histoire-géo|l'EPS )
+ 
+ + tu connais (mr|mme|monsieur) (@professeurs)
+ - oui cest un prof
+ 
+//questions sur les profs.
+ 
+ 
++ qui est mr gamaury 
+- Le Prof d'EPS
+- C'est le prof d'EPS
+ 
++ qui est mr meler
+- Le Prof de physique
+- C'est le prof de physique chimie
+ 
++ qui est mr coupez
+- Le prof de maths.
+- C'est le prof de maths.
+ 
++ qui est mr aupetit
+- Le prof de musique
+- C'est le prof de musique
+ 
++ qui est mme ardaillon
+- La prof de SVT
+- C'est la prof de SVT
+ 
++ qui est mme charbonnel
+- La prof d'anglais
+- C'est la prof d'anglais.
+ 
++ qui est mme ciekosz-boudy
+- La prof de français
+- C'est la prof de français
+ 
++ qui est mme dardilhac
+- La prof d'espagnol
+- C'est la prof d'espagnol
+ 
++ qui est mme josnière
+- La prof d'art plastique
+- C'est la prof d'art plastique
+ 
++ qui est mme labbat
+- C'est la prof d'EPS 
+- La prof d'EPS
+ 
++ qui est mme laguionnie
+- La prof d'histoire-géo
+- C'est la prof d'histoire-géo
+ 
++ qui est mme mazeau
+- La prof de techno
+- C'est la prof de techno
+ 
++ qui est mme mestraud
+- La prof de maths
+- C'est la prof de maths
+ 
++ quel [*] professeur [*]
+- j'aime bien (@professeurs)
+- je préfère (@professeurs)
+- qu'est-ce que ça peut te faire?
+ 
+// les questions sur les matières.
+ 
++ qui enseigne le français
+- Mme Ciekosz-Boudy et Mme Pascolo
+ 
++ qui enseigne les maths?
+- Mme Mestraud et Mr Coupez
+ 
++ qui enseigne l'histoire-géo
+- Mme Laguionnie et Mr Pruchon
+ 
++ qui enseigne l'eps
+- Mme Labbat et Mr Gamauri 
+ 
++ qui enseigne l'anglais
+- Mme Charbonnel et Mr Boidevesy
+ 
++ qui enseigne l'espagnol
+- C'est Mme Dardilhac
+ 
++ qui enseigne le latin
+- C'est Mme Pascolo
+ 
++ qui enseigne l'allemand
+- C'est Mme Farre
+ 
++ qui enseigne la svt
+- C'est Mme Ardaillon
+ 
++ qui enseigne la techno 
+- C'est Mme Mazeau
+ 
++ qui enseigne la physique
+- C'est Mr Meler
+ 
++ qui enseigne l'art plastique
+- C'est Mme Josnière
+ 
++ qui enseigne la musique
+- C'est Mr Aupetit
+ 
+ 
++ quelle [*] matiere [*]
+- J'aime bien (@matieres)
+- J'aime bien (@matieres) mais je préfère le grec.
+- Pourquoi? T'es de la police? 

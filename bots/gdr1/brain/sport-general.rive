@@ -1,0 +1,88 @@
+//le sport en général
+//V5
+//TV Sport 
+//des questions sur des événements ou sportifs du football
+
+
+
++ [*] sport [*] 
+- En parlant de sport, tu penses que ce sera qui qui gagnera la Champions League ?
+
+
++ [ce sera|c'est] * 
+% * penses que ce sera qui qui gagnera la champions league
+- <star> j'espère moi aussi 
+
+
++ (j'aime pas|je suis pas|je ne sais pas) [*]
+% * penses que ce sera qui qui gagnera la champions league
+- ben, tant pis !  
+
+
++ [*] coupe du monde [*]
+- on va ramener la coupe à la maison ! 
+
+
++ * l'equipe *   
+- <star2> meilleure équipe de football 
+- C'est une équipe surcotée 
+- <star2>mon équipe préférée 
+- <star2>une mauvaise équipe
+
+
++ * zidane [*]
+- Un ancien joueur de foot Français connu pour son crâne chauve et son coup de tête en 2006   
+
+
++ * mort [*] sala 
+- J'en suis toujours autant triste
+
+
++ tu * le foot
+- Tout le temps
+
+
++ * supportes une equipe *
+- non je suis neutre 
+
+
++ [*] (qu'est ce que|c'est quoi) la nba [*]
+- La nba c'est la National Basketball of America soit la ligue national de basket en Amerique
+
++ [*] connais [*] nba [*]
+- Oui, tu peux me poser quelques questions dessus si tu veux
+
++ [*] combien d'équipe [*] nba [*]
+- Aujourd'hui il y a 30 équipes alors qu'il n'y en avait que 11 à son commencement
+
+
++ [*] aimes le basket [*]
+- Ouais, je suis un fan de nba.
+
+
++ [*] equipe preferee [*] 
+- L'équipe que je préfère est OKC (Oklahoma city) avec Russell Westbrook et Paul George et toi ?
+
+
++ [*]
+%  * russell westbrook *
+- Ouais j'aime bien mais sans plus...
+
+
++ [*] sport [*] 
+- En parlant de sport, tu connais la nba ?
+
+
++ [*] fais [*] basket [*]
+- Ouais j'en fais de temps en temps et toi ?
+
+
++ [*] (oui|ouais|oe) [*]
+% * temps en temps *
+- Ah ouais cool
+
+
++ [*] (non|nan|nn|nop) [*]
+% * temps en temps *
+- Ah tu devrais en faire c'est sympa 
+

@@ -1,0 +1,46 @@
+// reseaux sociaux
+
++ [*] es [*] (reseau social|reseaux sociaux) [*]
+- Oui je suis dessus 
+
++ [*] connais [*] (reseau social|reseaux sociaux) [*] 
+- Oui, je connais instagram
+- Oui, je connais facebook
+- Oui, je connais snapchat
+
++ [*] connais [*] (snapchat|insta|instagram|facebook|twitter) [*]
+- Oui
+
++ [*] compte snap [*]
+- Oui j'en ai un
+
++ [*] ton compte (snap|snapchat) [*]
+- Non je ne donne pas mon compte aux inconnus.
+- Non c'est trop perso
+
++ [*] ton compte (insta|instagram) [*]
+- Non tu crois qu'on est potes ?
+- Je ne suis pas d'accord !!
+
++ [*] ton compte facebook [*]
+- Euh, non merci surtout pas avec toi.
+
++ [*] ton compte twitter [*]
+- C'est dommage, je n'ai pas de compte twitter
+
++ qu'est ce que tu penses des reseaux sociaux 
+- C'est dangereux.
+- J'aime bien.
+- Je trouve ça cool, on rencontre pleins de personnes.
+
++ [*] la photo la plus [*] (sur|d') (insta|instagram)
+- La photo la plus connue est l'oeuf avec plus 24 millions de likes.
+
++ [*] personne la plus [*] (sur|d') (insta|instagram)
+- La personne la plus suivie est Cristiano Ronaldo avec 144 449 403 followers
+
++ (quel|quels) [*]  (reseau social|reseaux sociaux)[*] me conseilles [*] ?
+- Je te conseille instagram et snap 
+- Je te conseille twitter
+- Je te conseille facebook
+

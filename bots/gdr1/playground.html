@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rivescript Playground by Nokill</title>
+	<link rel="stylesheet" type="text/css" href="css/playground.css">
+</head>
+<body>
+
+
+
+<form id="playground-form">
+<div id="container">
+
+	<header>
+		<span>Rivescript Playground by Nokill</span>
+
+		<nav>
+			<ul>
+				<li><button type="button" id="run">Run</button></li>
+				<li><button type="button" id="share">Share (ne marche pas ici)</button></li>
+				<li id="sharing">
+					Your share link has been created:
+					<input type="text" size="40" id="share-url" value="" readonly>
+				</li>
+			</ul>
+		</nav>
+	</header>
+
+	<div class="editor">
+		<div class="code">
+			<textarea id="code">! version = 2.0
+
++ coucou robot
+- Je ne suis pas un robot !!
+
+</textarea>
+		</div>
+		<div class="result">
+			<div id="dialogue">
+				<div class="history-pane">
+					<ul id="history">
+					</ul>
+				</div>
+			</div>
+			<div class="controls">
+				<input type="text" size="40" id="message" placeholder="Send a message to the bot" disabled="disabled" autocomplete="off">
+				<button type="submit">Send</button>
+			</div>
+			<div id="debug-pane">
+				<ul id="debug">
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="pull-right">
+			RiveScript.js v<span id="rs-version">?.?.?</span> &mdash;
+			Copyright &copy; 2016 <a href="https://www.rivescript.com/">RiveScript.com</a>
+			This page is a hack of the <a href="https://www.play.rivescript.com/">RiveScript Playground</a>
+		</div>
+
+		<strong>Options:</strong>
+		<label>
+			<input type="checkbox" id="opt-debug" value="true"> Debug Mode
+			<input type="checkbox" id="opt-justme" value="true"> Mon code seulement !
+		</label>
+	</footer>
+
+</div>
+</form>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"
+	integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+	crossorigin="anonymous"></script>
+<script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/rivescript-contrib-coffeescript@latest/dist/rivescript-contrib-coffeescript.min.js"></script>
+<script src="js/playground.js"></script>
+<script src="js/riveList.js"></script>
+<script src="js/diacritics.js"></script>
+
+
+
+
+
+</body>
+</html>

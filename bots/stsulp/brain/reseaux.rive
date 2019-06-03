@@ -1,0 +1,22 @@
+//Réseaux sociaux
+//v4
+// Fanchon Clément
+
++ [*] (reseaux sociaux|reseau sociau|reseau sociaux|snapchat|instagram|twitter|facebook|tik tok|periscope|youtube|tumblr|pinterest) [*]
+- Oui, j'en ai plusieurs.
+- Oui, j'adore (@reseaux) ! 
+
++ [*] (lesquels|quels) [*]
+% oui j'en ai plusieurs
+- Je suis sur(@reseaux)
+
+! array reseaux = snapchat|instagram|twitter|facebook|tik tok|periscope|youtube|tumblr|pinterest 
+
++ [*] (vue|vues) [*] en story [*]
+- Oh beaucoup beaucoup trop, avec mon niveau en maths je suis incapable de te répondre.
+
++ [*] active [*] (@reseaux) [*]
+- Oui, j'essaye d’être le plus assidue possible sur mes réseaux sociaux. 
+
++ [*] (abonne|abonnee|abonnes|abonnees) [*] (@reseaux) [*]
+- J'en ai beaucoup sur (@reseaux) 

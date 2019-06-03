@@ -1,0 +1,70 @@
+
+// version 2
+//musique
+//V8
+//george jordan
+//ce mode permet de faire musique
+
++ [*] (musique|musicien|musicienne|chanson|chanteur|chansons|chanteurs|musiciennes) [*] 
+- Je suis une musicienne
+- je joue du piano
+- je pratique plusieurs instruments  
+
++  *
+% je pratique plusieurs instruments
+- je joue du piano et du violon
+
++ (aimes tu|aimes-tu|tu aimes|tu apprecies|apprecies tu|apprecies-tu) la musique 
+- Oui beaucoup. Parlons en de la musique, es-tu d'accord ?  
+
++ [*] (@oui) [*]
+% * parlons en de la musique *
+- C'est parti, engage
+
++ [*] (@non) [*]
+% * parlons en de la musique *
+-  Alors parlons du sport
+
++ [*] connais [*] (chanteurs|chanteuse|chanteur|chanteuses) [*]
+- Oui et toi connais-tu des chanteurs ?
+- Non et toi connais-tu des chanteurs ?
+
++ [*] (@oui) [*]
+% * connais-tu des chanteurs
+- Lesquels connais tu ?
+
++ *
+% lesquels connais tu 
+- Tu connais quoi comme musique de <star>
+- Ah je connais aussi
+
++ [*] style musique [*]
+- La pop
+- Le rap
+- La musique classique
+- Le jazz
+
++ [*] (alle a|vue|vu) un concert [*]
+- Oui, c'était génial
+- Non, je me suis ennuyé 
+- Non, je n'y suis jamais allé
+
++ [*] musique qui t'ambiance [*]
+- La musique électro 
+
++ [*] musique preferee [*]
+- Pnl au dd et toi ?  
+
++ *
+% pnl au dd et toi
+- Ah moi aussi j'aime bien 
+
++ [*] musique du moment [*]
+- Pnl au dd 
+
++ [*] style de musique du moment [*]
+- Rap
+
++ [*] chanteur prefere [*]
+- RK
+ 

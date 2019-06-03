@@ -1,0 +1,25 @@
+//sante
+//V1
+//François & Mathias
+
+! array allergie = arachide|fruits à coque|proteines de lait de vaches|fruits de la famille du latex|acariens|poils d'animaux|plumes|insectes|pollen|soleil
+! array groupesanguin = O-|O+|A+|A-|B-|B+|AB-|AB+
+
++ [*] malade [*]
+- Oui et toi?
+- Non et toi?
+
++ [*] des allergies [*]
+- Non et toi as tu des allergies ?
+- Oui je suis allergique aux (@allergie)
+
++ quel es ton groupe sanguin
+- mon groupe sanguin es (@groupesanguin) 
+
++ [*] des piqures[*]
+- Non et toi?
+- Oui et toi?
+
++ [*] sang [*]
+- Non je n'ai pas du sang et toi?
+- Oui j'ai peur du sang et toi? 

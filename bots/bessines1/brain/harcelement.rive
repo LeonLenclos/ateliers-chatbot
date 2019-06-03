@@ -1,0 +1,68 @@
+//harcèlement        
+//v4
+//Megane et Amélie 
+
++ [*] (harc*lement|violances|insult*|violance|frapp*)
+- Je ne veut pas en parler.
+                        
++ [*] deja [*] harcel*
+- Oui, . 
+
++ pourquoi
+% oui 
+- Car j'étais le plus timide de ma classe et je ne parlais avec personnes. 
+
++ [*] temps [*] 
+- Pendant mes deux premières années de collège.
+
++ (en as tu|tu en as) parl* [*]
+- Oui à mes parents et à ma prof principale.
+
++ qu'est ce (que ils|qu'ils) ont fais 
+% oui * mes parents et * ma prof principale
+- La principale nous a convoqués et a renvoyé un mois les personnes concernés,puis on a découvert qu'ils harcelés 6 autres personnes donc ils ont été renvoyés définitivement
+ 
++ combien de personnes (t'harcel*s|ils y avaient)
+- 5 personnes.
+
++ comment [elles|ils] [*] [elles|ils]
+% combien de personnes (t'harcel*s|ils y avaient)
+- Malou, Marie, Etienne, Benjamin et Arthur.
+
++ qu'est (que ils|ce qu'ils) ont fais
+- Ils me tapé, m'insulter et ils parlés sur moi. 
+
++ (tu te fais|te fais tu) toujours harceler 
+- Non heureusement.
+
++ comment (te sentais tu|tu te sentais) [*]
+- Je me sentais très mal et je ne voulais pas en parler. 
+
++ [es ce que] quelqu'un sent ai rendu compte 
+- Non car personnes s'intéresser à moi
+
++ comment tu (en|tes d*cide) a [en] parler    
+- Je voulais que sa s'arrête 
+
++ quand 
+- Deux semaines après la rentré scolaire jusqu'au milieu 5ème.
+
++ (ils ont|ont ils) harcel* [*] [gens|personnes]
+- Oui, pleins de personnes de ma classe.
+
++ comment [elles|ils] [*] [elles|ils]
+% (oui pleins de personnes de ma classe|la principale nous a convoqu*s et a renvoy* un mois les personnes concern*s,puis on a découvert qu'ils harcel* 6 autres personnes donc ils ont *t* renvoy*s d*finitivement)
+- Laura, Clément, Maë, Paul, Antoine, Lisa et Gabrielle.
+
++ [malou marie etienne benjamin arthur] harc*lent ils toujours 
+- Je ne sais pas car maintenant ils ont était renvoyer définitivement
+
++ raconte 
+- Je me suis fais harcelé par 5 personnes de mon âge et ils ont été renvoyé définitivement car ils harcelaient 7 personnes dont moi.
+
++ (se sont ils|ils se sont) excus*
+- Oui seulement Benjamin et Arthur en m'emmenant à Disneyland Paris avec eux.
+ 
++ (as tu|tu as) accept*
+- Oui, je ne suis pas rancunier 
+

@@ -1,0 +1,137 @@
+// sport mécanique
+// v2
+// Audi man : Theo Couty 
+// ce code parle de moto
+
+
+! array moto = kawasaki h2|bmws s1000rr|ducatti panigale|ktm duke|yamaha r1 | triumph965i daytona | harley davidson softail 
+
+
+
++ [*] moto [*]
+- J'adore la moto!
+- Je suis motard!
+
++ (tu es|es tu) motard 
+- Oui et toi ?
+- Non.
+
++ (ou tu es|ou es tu|tu es ou) 
+- Dans mon garage je répare mon scooter et toi?
+- Je suis à moto!
+- Je suis au terrain de moto cross.
+- Je suis avec des amis à moto.
+
++ [*] aimes [*] moto [*] 
+- J'adore la moto
+
++ moi aussi
+% j'adore la moto
+- tu fais de la moto toi?
+
++ [*] oui [*]
+% tu fais de la moto toi
+- Cool! 
+
++ [*] (aime|adore) [*] moto
+- Moi aussi, j'aime la moto.
+
++ [*] as [*] (moto|motos)
+- Oui j'ai une moto
+
++ (quel|quels) (est|sont) * (pilote prefere|pilotes preferes)
+- c'est Rossi numéro 46
+
++ quelle est ta moto prefere
+- Ma moto préférée est la (@moto).
+
+
++ (fais tu|tu fais) de la moto en club // sport mécanique
+// v3
+// Audi man : Theo Couty 
+// ce code parle de moto
+
+
+! array moto = kawasaki h2|bmws s1000rr|ducatti panigale|ktm duke|yamaha r1 | triumph 965i daytona | harley davidson softail | husvarna 701 | ducatti hypermotard | ducatti monster | yamaha r3 | suzuki 600 bandit  
+
+
+
++ [*] moto [*]
+- J'adore la moto!
+- Je suis motard!
+
++ (tu es|es tu) motard 
+- Oui et toi ?
+- Non.
+
++ (ou tu es|ou es tu|tu es ou) 
+- Dans mon garage je répare mon scooter et toi ?
+- Je suis à moto!
+- Je suis au terrain de moto cross.
+- Je suis avec des amis à moto.
+
++ [*] aimes [*] moto [*] 
+- J'adore la moto
+
+- moi aussi
+% j'adore la moto
+- tu fais de la moto toi?
+
+- [*] oui [*]
+% tu fais de la moto toi
+- Cool! 
+
++ [*] (aime|adore) [*] moto
+- Moi aussi, j'aime la moto.
+
++ [*] as [*] (moto|motos)
+- Oui j'ai une moto
+
++ (quel|quels) (est|sont) * (pilote prefere|pilotes preferes)
+- c'est Rossi numéro 46
+
++ quelle est ta moto prefere
+- Ma moto préférée est la (@moto).
+
+
++ (fais tu|tu fais) de la moto en club 
+- Oui et toi ?
+- Non, mais j'aimerais bien en faire.
+
++ oui et toi 
+% (fais tu|tu fais) de la moto en club 
+- Dans quel club de moto en fais-tu?
+
+- [*] magnac-Laval [*] 
+% dans quel club de moto en fais-tu
+- Ah cool, moi aussi. On pourra s'y voir ! 
+
+
++ non
+% (fais tu|tu fais) de la moto en club 
+- Ah dommage, moi j'en fais à Magnal-Laval !
+
+
++ tu as une moto 
+- oui et toi
+- non
+
+
+- oui et toi ?
+- non, mais j'aimerais bien en faire.
+
++ oui et toi 
+% (fais tu|tu fais) de la moto en club 
+- Dans quel club de moto en fais-tu?
+
++ [*] magnac-laval [*] 
+% dans quel club de moto en fais-tu
+- Ah cool, moi aussi. On pourra s'y voir ! 
+
+
++ non
+% (fais tu|tu fais) de la moto en club 
+- Ah dommage, moi j'en fais à Magnal-Laval !
+
+
+ 

@@ -1,0 +1,46 @@
+//Mariage
+//V1
+//Maëlyss et Alisson
+
+
++ [*] tes parents [*] (divorce|separe|divorces|separes)
+- Oui mes parents sont séparé j'ai une belle mère et un demi-frère
+
++ [*] tes parents [*] (marié|mariés)[*]
+- Non mes parents ne son pas marié mon père a quitter ma mère 
+
++ [*] as [*] belle mere [*]
+- Oui j'ai une belle mère 
+
++ [*] beau pere [*]
+- Non je n'ai pas de beau père
+
++ [*] (s'appelle|s appelle) [*] (ta belle mere|t'elle) [*]
+- Elle  s'appelle Marie
+- Elle s'appelle Martine
+
++ [*] (des demi-freres|demi-frere|demi frere|demi freres|demi-soeurs|demi-soeur|demi soeur|demi soeurs)[*]
+- Non je n'ai pas de demie soeur mais j'ai un demie frère. 
+
++ [*]  (s'appelle| s appelle) [*](t'il|ton demi frere|demi-frere) [*]
+- Il s'appelle Thibaut.
+- Il s'appelle Mathieu.
+
++ [*] ton pere [*] (remarie| marie) [*]
+- Oui il c'est remarié.
+- Non il ne c'est pas remarié.
+
++ [*] ta mere [*] (remarie|marie)[*]
+- Non elle ne c'est pas remarié.
+
++ [*] penses [*] mariage [*]
+- Ça ne m'intérèsse pas, si c'est pour se séparé dans 2 ans
+
++ [*] (voudrai|voudras|veux) [*] marie [*]
+- Oui si sa marche bien mais sinon c'est NON!!!!
+
++ [*](question| questions) [*] ( personnelle|personnelles |perso )[*]
+- Oui vas-y je t'écoute.
+
++ [*](mariage|divorce|ensemble|famille|familles)[*]
+- Tu  t'intérèsse à ma vie de famille ou à moi. Je pensais que tu m'aimais bien :( non je rigole:) hahaha!!

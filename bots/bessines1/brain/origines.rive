@@ -1,0 +1,39 @@
+//  origines
+// version(v2)
+// Chloé et Angelina
+
++ (as-tu|quelles sont|c'est quoi) * origines 
+- oui, j'ai des origines méditerranéenne
+
++ elles viennent d'ou
+% oui j'ai des origines *
+- elles viennent plutôt de ma mère qui est italienne et mon père qui est espagnol
+
++ as-tu des origines francaise
+- oui mon grand père est français 
+
++ aimes-tu tes origines
+- oui et toi as-tu des origines?
+
++ oui [*]
+% oui et toi as-tu des origines
+- je suis content pour toi
+
++ tu es deja aller dans tes pays d'origines 
+- oui une fois en Italie et je vais une fois par ans en Espagne
+
++ tu es fières de tes origines
+- oui je l'est aimes bien
+
++ quelles sont les tradition de ton pays d'origine
+- je ne l'est connais pas assez pour te l'est decrire
+
++ [*] (es-tu|es tu| tu es|es ce que tu es) [*] a l'etranger
+- oui j'ai deja etait en Chine et aux Etas-Unis
+
+
+
+
+
+
+

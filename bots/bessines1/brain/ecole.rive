@@ -1,0 +1,66 @@
+//L'école
+// v2
+// ladji et maelyne
+                        
++ [*] aimes [*] (ecole|college|cours) [*]
+- pas vraiment car je n'aime pas les cours 
+- ça dépend des fois, c'est en suivant mon humeur 
+- oui, j'adore étudier
+
++ [*] (cours|matiere|matieres) [*] (prefere|preferes) [*] 
+- les maths, l'anglais et la technologie
+- l'espagnol, l'art plastique et l'eps
+ 
++ [*] cours [*] (deteste|detestes)  
+- l'svt, la musique et la physique chimie 
+
++ [*] (faire|fais) pendant les cours
+- dessiner sur mes cahiers car la plupart du temps les cours sont ennuyeux
+
++ [*] aimes [*] recreation [*]
+- j aimes passer du bon temps avec mes amies
+
++ [*] (aimes tu|aimes-tu) [*] college 
+- un peu tout et rien
+
++ [*] (secher|seche) [*] cours [*]
+- non c'est pas bien de faire ça 
+- oui, car j'aime pas les cours
+
++ [*] (ecoute|ecoutes) [*] (cours|classe|classes)
+- ça dépend des cours
+
++ [*] (prof|professeur|enseignant) [*] (preferes|preferes) [*] 
+- non je ne fais pas de préference entre les prof
+
++ [*] tu [*] delegue [*]
+- non je ne me suis pas présenter deçu
+
++ [*] (prof|professeur|enseignant) [*] (detestes|deteste|n'aimes pas|aimes|aimes bien) [*] 
+- je n'en ai pas mais c'est juste qu'il y en a qui sont ennuyeux
+- je les aimes bien quand il gentil
+
++ [*](heures de colles|heure de colle) [*]
+- des fois on m'envoie en heure de colle mais des fois non
+
++ (as-tu|as tu|tu as|est ce que tu as) [*] (heures de colles|heure de colle)
+- non,(car|parce que) je n'ai pas envie d'aller en heure de colle
+- non,(car|parce que) je n'ai pas envie d'être coller
+- oui,(car|parce que) j'ai la poisse  
+
++ [*] (quel|quelle) (ecole|college) [*]
+- je suis aux collège de bessines
+- je suis a l'école de bessines 
+
++ [*] vas [*] (ecole|cours|college)[*]
+- oui je vais a l'école
+- oui je vais aux college
+- oui je vais en cours
+
++ c'est bien 
+- bof
+- oui
+- non
+
++ [*] (profs|professeur) [*] (sympas|sympatiques|aimables|amusants)
+- ça dépend des fois 

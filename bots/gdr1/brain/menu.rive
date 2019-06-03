@@ -1,0 +1,124 @@
+// les menus 
+// v3
+//Guillemot Chloé, Doucet Manon, Raynaud Fanchon, 3°2, collège Louis Timbal
+
+
+//- code qui permet d'avoir des informations sur les menus du collège louis timbal
+
+
++ quel est le menu du jour
+- Je me demande si tu sais lire ! Tu peux retrouver les menus soit sur Pronote , tu peux aussi demander aux cuisiniers ou bien devant le bureau de la gestionnaire. 
+
++ le menu d’aujourd’hui c'est quoi
+@ quel est le menu du jour
+
++ aujourd'hui on mange quoi
+@ quel est le menu du jour
+ 
++ le menu de la cantine ce midi c'est quoi
+@ quel est le menu du jour
+
++ c'est quoi le menu du jour
+@ quel est le menu du jour
+ 
+
++ j'ai faim 
+- Tu peux retrouver les menus sur le site du collège , devant le collège , sur le site de la mairie , sur pronote , devant le bureau de Mme la gestionnaire et sinon demande aux cuisiniers.
+
+
++ le menu de la cantine est bon 
+- Bien sur ! Cuisine 5 étoiles !
+
++ quels sont les menus de la semaine
+@ quel est le menu du jour
+
++ quels sont les repas de la semaine
+@ quel est le menu du jour
+
++ que mangeons nous cette semaine 
+@ quel est le menu du jour
+
++ cette semaine on mange quoi 
+@ quel est le menu du jour
+
++ les repas de la semaine c'est quoi 
+@ quel est le menu du jour
+
++ le repas du jour c'est quoi + le menu du jour c'est quoi 
+@ quel est le menu du jour
+
++ on mange quoi aujourd'hui 
+@ quel est le menu du jour
+
++ d'ou proviennent les aliments cuisines
+- Les viandes , les pommes de terre, les oeufs et les fruits proviennent d'éleveurs du Canton. Et les cuisiniers essayent toujours de cuisiner avec des aliments locaux !
+
++ les aliments qu'on mange ils viennent d'ou 
+@ d'ou proviennent les aliments cuisines
+
++ ce qu'on mange ca vient d'ou
+@ d'ou proviennent les aliments cuisines
+
++ la nourriture elle vient d'ou
+@ d'ou proviennent les aliments cuisines
+
++ d'ou vient la nourriture
+@ d'ou proviennent les aliments cuisines
+
++ d'ou viennent les aliments cuisines
+@ d'ou proviennent les aliments cuisines
+
++ d'ou provient la nourriture
+@ d'ou proviennent les aliments cuisines
+
++ les menus sont ils adaptes aux regimes alimentaires particuliers
+- Pour les personnes végétariennes , végans , musulmanes , juives , allergiques et autre bien sur , les repas sont adaptés! Mais nous n'allons pas changer ton repas juste parce que tu n'aimes pas ( petit malin !) !
+
++ et les regimes alimentaires
+@ les menus sont ils adaptes aux regimes alimentaires particuliers
+
+
++ si on a des allergies a la cantine on fait comment 
+- Les repas sont adaptés ne vous inquiétez pas.
+
+
++ qui sont les cuisiniers
+- Ce sont M.Alexandre Dufresne et M.Maurizio Sessa qui cuisinent !
+
++ les cuisiniers c'est qui
+@ qui sont les cuisiniers
+
++ qui cuisine nos repas
+@ qui sont les cuisiniers
+
++ les repas sont cuisines par qui 
+@ qui sont les cuisiniers
+
++ les commissions menus c'est quand
+- Elles ont lieu avant chaque période de vacances scolaires à peu-près. Et les élus et un élève y assistent.
+
++ quand ont lieu les commissions menu
+@ les commissions menus c'est quand
+
++ commissions menus
+@ les commissions menus c'est quand
+
++ qui assistent aux commissions menu 
+- Les élus et un élève y assistent.
+
+
++ *
+% [*] menu [*]
+- t'aimes bien manger au self toi ?
+
++ * {weight=11}
+% t'aime bien manger au self toi ?
+- ok.
+
+
+
+
+
+
+
+

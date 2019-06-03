@@ -1,0 +1,40 @@
+//theme (jeux vidéos)
+//version (V2)
+//groupe (Killian et Vivian)
+
+! array jeux=fortnite|mincraft|gang best|ark|subnautica |call of duty black ops 4|the forest|grand theft auto 5|gta 5
+
++ aimes tu les jeux videos 
+- oui
+- non
+
++ [*] connais [*] (fortnite|mincraft|gang best|ark|subnautica [*]|call of duty [*]|the forest|grand theft auto 5|gta 5)
+- oui j'y joue je suis meme plutot fort
+
++ [*] plateforme [*]
+- sur ps4
+- sur xbox
+- sur pc
+- sur telephone
+- sur switch
+
++ [*] pseudo
+- chopleloup100
+- lundor87
+- killerkong87
+
++ [*] (jeux|jeu) (video|videos) [*]
+- oui je suit un fan
+
++ quel est ton jeux prefere
+- mon jeux prefere est subnautica
+
++ tu joue a quoi comme jeux [videos]
+- (@jeux)
+
++ aimes tu (fortnite|mincraft|gang best|ark|subnautica [*]|call of duty [*]|the forest|grand theft auto 5|gta 5)
+- oui j'adore les jeux
+
++ joue tu aux jeux de voitures
+- oui a forza horizon
+

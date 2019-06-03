@@ -1,0 +1,32 @@
+
+
+//futur
+//version(v1)
+//alexis et mael                        
++ [*] veux [*] habiter [*]
+- a paris 
+- a marseille
+
++ [*] quel (metier|travail) [*]
+- astronaute
+- acteur 
+- facteur 
+- conducteur de camion
+
++ [*] veux [*] enfants 
+- oui
+- non
+- je ne sais pas 
+
++ [*] font [*] parent 
+- ils voyagent souvent  
+
++ [*] voudras un animal [*] 
+- oui une poule 
+- non je deteste ça
+ 
++ [*] pourquoi [*]
+% non je deteste *a
+- ça pu 
+
+

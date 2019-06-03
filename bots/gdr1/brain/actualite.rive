@@ -1,0 +1,199 @@
+// Actualités
+// V6
+// FMS (Flavy Méghane Sarah)
+// Toute les questions sur l'actualité
+
+! array politique = macron|sarkozy|hollande
+! array animauxpolaires = les ours blancs|les phoques|les pingouin|les manchots|les otaries|les rennes|les caribous|les loups blancs|les morses
+
++ [*](@politique)[*]
+- Je sais qui c'est, c'était un homme politique.
+
++ [*] (@animauxpolaires) [*] 
+- Trop dommage qu'ils meurent à cause du réchauffement climatique.
+
++ [*] actualite [*]
+- De quel sujet veux-tu parler : politique, technologie, attentats, réchauffement climatique, transport, art ou people ?
+
+
+// Politique
+
++ [*] politique [*]
+- Que veux tu savoir à propos de la politique ?
+
++ [*] president [*] (france|francais) [actuel*] [*]
+- Ben c'est Emmanuel Macron, il a été élu en 2017 avec 66.1 % des voix.
+
++ [*] et avant [*]
+% ben c'est emmanuel macron *
+- Hollande ou Sarkozy ?
+
++ [*] hollande [*]
+% hollande ou sarkozy 
+- C'était de 2012 à 2017, il a été élu avec 51.64 % des voix.
+
++ [*] sarkozy [*]
+% hollande ou sarkozy 
+- C'était de 2007 à 2012, avec 53.06 % des voix.
+
+ 
+
+// Technologie
+
++ [*] (technologie|techno) [*]
+- A propos de technologie j'ai 2 sujets à te proposer : Apple VS Samsung ou la carte bancaire sans contact
+
++ [*] (apple vs samsung|apple|samsung) [*]
+- En gros, dès que l'une des boîtes sort  un new téléphone l'autre le fait aussi.
+
++ [*] (carte bancaire|carte|carte bleue) [sans contact] [*]
+- J'ai une carte bancaire et d'ailleurs j'ai le sans contact. Y'a des avantages comme payer sans se servir de son code et aller plus vite, y'a aussi des inconvénients, logique, imagines tu te fais voler ta carte, t'es dans la merde frère.
+
+
+
+// Attentats
+
++ [*] (attentats|terrorisme|tueries|attentat|tuerie) [*]
+- Je peux te renseigner sur les attentats qui ont eu lieu depuis 2004. Quelle année t'intéresse ?
+
++ [*] 2004 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Madrid
+
++ [*] 2005 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Londres
+
++ [*] 2006 [*]
+% je peux te renseigner sur les attentats * 
+- Y'en a eu un à Bombay
+
++ [*] 2007 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Alger
+
++ [*] 2008 [*]
+% je peux te renseigner sur les attentats * 
+- Y'en a eu un à Bombay
+
++ [*] 2009 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a aps
+ 
++ [*] 2010 [*]
+% je peux te renseigner sur les attentats * 
+- Y'en a eu un à Moscou
+
++ [*] 2011 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Oslo
+
++ [*] 2012 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Toulouse
+
++ [*] 2013 [*]
+% je peux te renseigner sur les attentats * 
+- Y'en a eu un à La Défense
+
++ [*] 2014 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a aps
+
++ [*] 2015 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un le 13 novembre
+
++ [*] 2016 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a aps
+
++ [*] 2017 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un aux Champs Elysées
+
++ [*] 2018 [*]
+% je peux te renseigner sur les attentats *
+- Y'en a eu un à Strasbourg
+
++ [*] 2019 [*]
+% je peux te renseigner sur les attentats * 
+- Y'en a eu un à Bogota 
+
++ [*] (2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019) [*]
+% y'en a *
+- C'est relou tout ces morts !!!
+
+
+
+
+
+
+// Rechauffements climatique
+
++ [*] (rechauffement climatique|rechauffement|climat) [*]
+- Choisis ton thème entre la fonte des glaces, la disparition des animaux ou la pollution.
+
++ [*] (fonte des glaces|glaces|glace|fonte|fontes) [*]
+% choisis ton theme entre*
+- Comme la glace fond y'a plus d'eau donc y'a les niveaux de l'eau qui augmentent et des iceberg se forment.
+
++ [*] (disparition des animaux|animaux|disparitions|animal|disparition)
+% choisis ton theme entre*
+- (@animauxpolaires) peuvent disparaître
+
++ [*] (pollution|pollutions) [*]
+% choisis ton theme entre*
+- A cause de toi en partie ! 
+
++ (mais encore|et alors|et|ca te fait quoi|donc)
+% a cause de toi en partie 
+-  Ca créer des maladies GRAVES genre des CANCERS ou des AVC. Ca craint non ? 
+
+
+
+// Transports
+
++ [*] (transport|transports) [*]
+- On parle de quoi : la SNCF ou les 80Km.h
+
++ [*] sncf [*]
+% on parle de quoi : la sncf ou les 80km*h
+- On en parle de la SNCF et de leur retards au moins 1H00 de retards pour chaque train, et en plus même pas dédommagés.
+
++ [*] (80kmh|80|80km)
+- C'est depuis le 1 juillet 2018, mais beaucoup d'automobilistes trouvent que c'est TROP lent.
+
+
+
+// Arts 
+
++ [*] (arts|art) [*]
+- On parle de quoi alors, les livres ou les films
+
++ [*] (livres|livre) [*]
+% on parle de quoi alors les livres ou les films
+- C'est pour les plus cultivés mais sinon je peux te dire qu'il y a un festival de la BD tous les ans à Angoulême. Et au fait c'était les 60 ans de Tintin et de Astérix cette année.
+
++ [*] (films|film) [*]
+% on parle de quoi alors les livres ou les films
+- Des suites de grandes sagas sont sorties l'année dernière genre Taxi 5, Fast and Furious 8 et Mission Impossible 6.
+
+
+
+//People
+
++ [*] (people|celebrites|icones) [*]
+- Tu veux parler de quoi frère ? Je peux te trouver la mort de Johnny Hallyday, le mariage de Meghan Markle et du prince Harry ou de l'Oscar de Lady Gaga.
+
++ [*] mort [*] (johnny)[*]
+% tu veux parler de quoi fr*re*
+- Il est dead le 5 décembre 2017 dans son sommeil.
+
++ [*] (mariage|meghan|harry) [*]
+% tu veux parler de quoi fr*re*
+- Ils se sont mariés le 19 mai 2018.
+
++ [*] (lady gaga|lady|oscar) [*]
+% tu veux parler de quoi fr*re*
+- Lady Gaga a eu un oscar pour son film.

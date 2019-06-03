@@ -1,0 +1,120 @@
+body {
+    background: url('../bg.png');
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 100%;
+  font-family: mono;
+}
+h1 {
+  color: #2a5bb7;
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+.head{
+  position: absolute;
+  top: 10px;
+  
+  width: 500px;
+  padding: 0;
+  color: white;
+}
+
+
+.corps{
+  position: relative;
+  width: 500px;
+  top: 55vh;
+  height: 45vh;
+  margin: auto;
+
+    display: flex;
+  flex-direction: column;
+}
+
+#discussion-container {
+    height: 35vh;
+  margin: 5px;
+
+  
+      border-top: 3px solid  #3869c3;
+
+  
+  padding: 0;
+  
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+#discussion-container::-webkit-scrollbar { 
+  /* This is the magic bit for WebKit */
+  display: none;
+}
+
+
+
+
+
+#form{
+      height: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  
+}
+
+
+
+#about {
+  width: 90px;
+}
+
+
+#msg, #talk, #about, p {
+  padding: 10px;
+  margin:3px;
+
+  display: block;
+  border: 0;
+  border-radius : 15px;
+  background: #2a5bb7;
+  color: white;
+
+}
+p {
+  margin:0, auto;
+  padding: 30px;
+  
+}
+
+#msg:hover, #talk:hover, #about:hover{
+    background: #3869c3;
+
+}
+#msg {
+
+  width:70%;
+}
+#talk {
+  width:20%;
+}
+ul {
+  list-style: none;
+margin:20px;;
+  padding: 0;
+}
+li{
+  display: block;
+margin:0;
+  padding: 10px;;
+      border: 0px;
+  border-radius : 10px;
+  background: #e7efff;
+ margin : 10px;
+  min-height: 20px;
+}

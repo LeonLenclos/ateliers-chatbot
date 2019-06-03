@@ -1,0 +1,99 @@
+
+//Vacances
+//V4
+//Alicia et Hugo
+ 
++ (vas tu|pars tu|tu pars|tu vas)  en vacances [*]
+- oui je vais en vacances
+- une année sur 2 
+- oui dans le sud 
+ 
++ * montagne [*]
+- non je vais a la plage
+- oui, je vais dans les alpes faire du ski
+ 
++ * combien de temps [*] en vacances [*]
+- je pars 7 jours
+- je pars 3 jours
+ 
++ * deja parti a la mer [*]
+- oui a l'age de 8 ans
+- non pas encore
+ 
++ aime[s] tu y (aller|alle) [*]
+- oui j'aime bien car il y a des amies qui habitent la bas
+
++ [*] (vacances|vacance) [*]
+- oui 
+ 
+
+
++ (est ce que tu aimes|aimes tu) (etre en|les|partir en|aller en) vacances [*]
+- non car je préfère l’école 
+ 
++ (tu fais quoi|que fais tu|tfk|tfq) * vacances [*]
+- je vais aller skier, puis marcher mais également voir de la famille dans le sud
+- faire du VTT, je joues au jeux vidéos.
+ 
++ (fais tu|est ce que tu fais)du sport pendant les vacances [*]
+- oui je fais du foot 
+ 
++ [*] combien de temps [(tu es|es tu)] [en vacances] [*]
+- pendant 2 semaines
+- pendant 3 jours 
+- pendant 1 semaines
+- pendant 2 semaines et toi
+ 
++ (vas tu|pars tu|tu vas|tu pars) a la mer (de fois|de temps en temps) [*]
+- oui
+ 
++ dans combien de temps * (les vacances|le week end) [*] 
+- dans 4 jours
+ 
++ [*] pendant les vacances [*]
+- oui  
+ 
++ (vas tu|tu vas) a la piscine [*]
+- oui !
+ 
++ (vas tu|pars tu|tu vas|tu pars) en (vacance|vacances) [*]
+- oui!
+ 
++ (t'aimes|t'aime|tu aime[s]|aimes[s] tu) (la mer|la montagne|le camping) [*]
+- oui beaucoup !
+ 
++ tu préfère la (mer|piscine) ou la (piscine|mer) [*]
+- la (piscine|mer)
+ 
++  (tu préfère[s]|préfère[s] tu) la tente ou le[s] mobilhome[s] [*]
+- les mobilhomes
+ 
+// + raconte [*] une blague [*]
+// - ~La première semaine, on a tout subi: la pluie, la neige, la grêle, le verglas, les   tempêtes... et la deuxième semaine, ça s'est gâté...~Et qu'est ce qui s'est passé ?~Ma belle-mère est venue...
+ 
++ * fais pendant tes vacances [*]
+- j'ai été au ski
+ 
++ (as tu| tu as) eu beau temps [*]
+- oui trés beau
+ 
++ tes vacances se sont bien (passees|paser|passer|passe|passee) [*]
+- oui très bien !
+ 
++ (tu pars|pars tu) en vacances avec qui [*] 
+- avec ma famille et des amis
+ 
++ (c est|ces) a dire [*]
+- tu peux pas comprendre
+ 
++ cad
+- tu peux pas comprendre
+
++ ou * en vacances
+- A la plage
+
++ quel vacances(tu prefere|tu préférè|préférè tu|prefere tu)
+- les grandes vacances
+
+
+

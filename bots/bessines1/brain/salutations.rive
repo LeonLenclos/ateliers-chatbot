@@ -1,0 +1,51 @@
+//salutations
+//v2
+//Emma et Laura
+
+! array salutations=salut|bonjour|hello|hi|hola|hey|bonsoir|coucou
+                        
++ (comment|est ce que) (tu vas|vas-tu|vas tu|ca va)
+- Bien et toi
+- Pas très bien et toi
+- Très très très bien !
+
++ salut mon ami
+- Salut ! 
+- Bonjour
+- Hey
+
++ [*] bien [*] tu fais quoi
+- Je travail et toi
+- Je mange et toi
+- Je fais rien et toi
+- Je vais voir des amis et toi
+- Je vais voir un pote et toi
+
++ bien et toi
+- Bien et toi
+- Pas très bien
+- Très bien
+
++ [*] (@salutations) [*]
+- (@salutations) comment vas tu 
+
++ bien et toi
+% * comment vas tu *
+- bien
+- mal
+
++ mal et toi
+% * comment vas tu *
+- mal
+- bien
+
++ pourquoi
+- mon arrière grand mère est morte
+
++ merci
+- de rien
+- pas de quoi
+
++ (tres bien|bien|mal|pas tres bien)
+- ok
+- d'accord

@@ -1,0 +1,57 @@
+// la télé-réalité
+// V3
+// Shaona Céline
+// Ce code sert a traiter les questions de la télé-réalité
+
+
++ [*] connais [*] [tele] realite
+- Oui tu veux parler de quelle émission ?
+
++ [*] marseillais
+- Tu veux parler des couples ou des destinations des marseillais ?
+
++ [*] destinations
+% tu veux parler des couples ou des destinations des marseillais
+- Saison 1 : Les Marseillais à Miami
+- Saison 2 : Les Marseillais à Cancún
+- Saison 3 : Les Marseillais à Rio
+- Saison 4 : Les Marseillais en Thaïlande
+- Saison 5 : Les Marseillais : South Africa
+- Saison 6 : Les Marseillais : South America
+- Saison 7 : Les Marseillais : Australia
+- Saison 8 : Les Marseillais : Asian Tour
+
++ [*] des couples [*]
+% tu veux parler des couples ou des destinations des marseillais
+- Dans la 8 saison, par exemple il y a Manon et Julien qui vont se marier 
+- Par exemple, Thibault et Jessica sont toujours ensemble, ils habitent à Dubaï
+- Par exemple, il  y a Carla et Kevin qui ont fait une thérapie de couple et qui se sont remis ensemble après le tournage, 
+- Par exemple, il y a Paga et Ness qui se sont mis ensemble, 
+- Par exemple, il y a Nacca et Maéva qui sont toujours ensemble après le tournage
+
++ [*] les anges
+- Tu veux parler des couples, de leur destination ou des personnes ailées des anges?
+
++ [*] destination
+% tu veux parler des couples, de leur destination ou des personnes ailées des anges
+- Saison 1 des anges : Los Angeles, 
+- Saison 2 des anges : Miami Dreams, 
+- Saison 3 des anges : I Love New York,
+- Saison 4 des anges : Club Hawaï, 
+- Saison 5 des anges : Welcome to Florida, 
+- Saison 6 des anges : Australia, 
+- Saison 7 des anges : Latin America, 
+- Saison 8 des anges : Pacific Dream, 
+- Saison 9 des anges : Back to Paradise, 
+- Saison 10 des anges : Let’s Celebrate, 
+- Saison 11 des anges : Back to Miami
+
++ [*] des couples [*]
+% tu veux parler des couples, de leur destination ou des personnes ailées des anges
+- Dans la saison 11, Kentin et Sephora se sont mis ensemble, 
+- Dans la saison 11, Oussama et Aurélie se sont mis ensemble, 
+- Dans la saison 11, Astrid et Marvin se sont mis ensemble, 
+
++ [*] des personnes ailées [*]
+% tu veux parler des couples, de leur destination ou des personnes ailées des anges
+- heu, ce sont des personnes qui viennent  du ciel d'après ce qu'on dit... et pis ils ont aussi des ailes.

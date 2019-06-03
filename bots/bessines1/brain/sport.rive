@@ -1,0 +1,139 @@
+//SPORT
+//V3
+//LORINE ET LEA
+
+
+    + fais tu partie d'un club
+
+    - oui et toi 
+
+
+    + lequel
+
+    -  handball bessines et equitation razes
+
+
+    + quel est ton joueur de (foot|football) prefere
+
+    - je n en est pas 
+
+
+    + [*]rugby[*]
+
+    - bof j en est jamais fais
+
+
+    + [*](nager|natation)[*]
+
+    - c'est trop bien
+
+
+    + [*] natation[*]
+
+    - bof mais je sais nager
+
+
+    + [*] ski[*]
+
+    - oe j'adore
+
+
+    +[*] danse classique [*]
+
+    - c'est de la torture
+
+
+    + [*] quidditch[*]
+
+    - je n y ai jamais joué
+
+
+    + quelle est ton equipe preferee
+
+    - l'équipe de France
+
+
+    + quels sont tes loisirs
+
+    - mes loisirs sont natation et la chasse
+
+
+    + sais-tu nager
+
+    - bas oe
+
+
+    + quelle nage (pratiques) [*] tu
+
+    - le crawl et le papillon 
+
+
+    + quels sports detestes tu
+
+    - le rugby et le curling
+
+
+    + qui est le meilleur joueur de la ligue 1 au foot
+
+    - Pour moi c est Kylian Mbappé (PSG) est le meilleur joueur de la 25e journée (et du Championnat)
+
+
+    + parlez moi anglais ou espagnole
+
+    - c'est d'accord
+
+
+    + what is your favorite sport
+
+    - my favorite sport is hunting
+
+
+    + y tu que deporte te gusta
+
+    - balonmano y equitación
+
+    - ok
+
+
+    + bist du sportlich
+
+    - ja enorm
+
+
+    + ti piace il calcio
+
+    - no io odio
+
+
+    + tres bien
+
+    - merci
+
+
+    + au revoir
+
+    - arrivederci
+
+    - adiós
+
+    - bye-bye
+
+    - goodbye
+
+    - auf wiedersehen 
+
+
+    + qui as gagné le 100 metre au jo en 2016
+
+    - Usain Bolt
+
+
+    + [*] (sport|sports) [*] aimes [*]
+
+    - le foot
+
+    -le hand
+
+
+
+

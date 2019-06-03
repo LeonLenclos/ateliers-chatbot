@@ -1,0 +1,56 @@
+! version = 2.0
+
+// Ce fichier rive s'occupe des commandes spéciales.
+
+// Les trois commandes spéciales définies ici sont 'test', 'aide' et 'sources'.
+// test -> permet de voir rapidement si le bot est allumé.
+// aide -> affiche une liste de liens utiles.
+// sources -> affiche la liste de tous les fichiers rivescript chargés dans le bot.
+// exit -> quitte le chatbot.
+
+
++ test
+- <em>[OK]</em>
+
+
+
++ aide
+- liens utiles :
+^ <ul>
+^ <li><a href="https://play.rivescript.com/">play.rivescript.com</a></li>
+^ <li><a href="https://leonlenclos.github.io/ateliers-chatbot/">Documentation</a></li>
+^ <li><a href="https://etherpad.wikimedia.org/p/ateliers-chatbot-gdr1">Pad</a></li>
+^ </ul>
+
+
+> object listSources javascript
+// Return the riveList array in a html list.
+var html = 'sources chargées : <ul>';
+for(var i=0; i < riveList.length; i++){
+    var fi = riveList[i];
+    html = html + '<li><a href="' + fi + '">' + fi + '</a></li>';
+}
+return html+'</ul>';
+< object
+
++ sources
+- <call>listSources</call>
+
+> object exit javascript
+// quit the conversation.
+    quit();
+    return ""
+< object
+
+
++ test exit
+- Ciao ! <call>exit</call>
+
+> object avatar javascript
+    var id = args.join("");
+    avatarId = id;
+    return "";
+< object
+
++ avatar _
+- Voilà ! <call>avatar <star></call>

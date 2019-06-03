@@ -1,0 +1,132 @@
+// CVC
+// v5 fusionné 
+//Guillemot Chloé, Doucet Manon, Raynaud Fanchon, 3°2, collège Louis Timbal fusionné avec : 
+// baby shark salomé taren chloé 3°2 Louis timbal
+// questions sur cvc
+
+
+//- code qui permet d'avoir des informations sur le cvc 
+
+! array truc = cvc|élection|actions|cpe|trillon|chalopin|organisation|noel|olympiades|carnaval|porte-ouvertes
+
+
+// c'est quoi 
+
++ [*] cvc
+- CVC : Conseil de la Vie Collégienne 
+
++ le cvc c'est quoi
+@ [*] cvc
+
++ qu'est ce que le cvc
+@ [*] cvc
+
++ le cvc qu'est ce que c'est
+@ [*] cvc
+
+
+
+// a quoi ca sert 
+
+
++ a quoi sert le cvc
+- On organise des journées comme le carnaval ou la boom.
+- On essaie d’améliorer la vie des collégiens.
+- On mène des projets comme le Noël chic,le bal de fin d'année, le carnaval, la boum de Noël, les portes ouvertes et les olympiades 
+
++ c'est quoi
+% [*] cvc [*]
+@ a quoi sert le cvc
+
+
++ le cvc sert a quoi
+@ a quoi sert le cvc
+
++ le cvc ca sert a quoi 
+@ a quoi sert le cvc
+
++ au cvc qu'est ce que l'on y fait
+@ a quoi sert le cvc
+
++ a quoi ca sert le cvc
+@ a quoi sert le cvc 
+
++ en quoi ça consiste [*] cvc 
+@ a quoi sert le cvc 
+
++ quelles sont les actions menees par le cvc 
+@ a quoi sert le cvc 
+
+
++ qu'est ce que le cvc fait
+@ a quoi sert le cvc 
+
++ le cvc mene quelles actions
+@ a quoi sert le cvc 
+
++ le cvc il fait quoi
+@ a quoi sert le cvc 
+
++ ca fait quoi un cvc
+@ a quoi sert le cvc 
+
++ qu'est ce qu'on fait au cvc
+@ a quoi sert le cvc 
+
+
+
+// elections CVC
+
++ comment on est elu au cvc
+- On se présente avec une liste de 12 personnes qui représentent tous les niveaux du collège (6ème, 5ème, 4ème et 3ème) et on fait sa campagne afin d'être élu par l'ensemble du collège. 
+
++ comment fait on partie du cvc 
+@ comment on est elu au cvc 
+
++ comment on entre au cvc
+@ comment on est elu au cvc 
+
++ comment on va au cvc 
+@ comment fait on parti du cvc 
+
++ le cvc comment en fait on partie
+@ comment fait on partie du cvc
+
++ le cvc comment on entre
+@ comment on est elu au cvc
+
++ le cvc comment on y va 
+@ comment on est elu au cvc
+
++ [*] qui (membre|elu|participant) cvc
+@ comment on est elu au cvc
+
+
+
+
++ combien de temps on est (elu|membre) (au|du) cvc 
+- On est élu pour toute l'année scolaire, avec la possibilité de te représenter l'année suivante
+
++ combien de temps on reste au cvc 
+@ combien de temps on est (elu|membre) (au|du) cvc
+
++ le cvc combien de temps y reste t on 
+@ combien de temps on est (elu|membre) (au|du) cvc
+
++ combien de temps reste t on au cvc
+@ combien de temps on est (elu|membre) (au|du) cvc
+
+
+
+
++ qui [*] responsable[s] du cvc 
+- Les responsables du CVC sont Mr Trillon et Mme Chalopin 
+
++ qui dirige le cvc 
+@  qui [*] responsable[s] du cvc 
+
+
++ pourquoi [*] (membre|partie) cvc
+- Pour que tu puisses prendre confiance en toi , que tu sois à l'aise pour parler en public , construire ton esprit critique et participer activement à la vie du collège. 
+
+

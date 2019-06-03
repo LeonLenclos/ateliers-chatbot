@@ -1,0 +1,53 @@
+// Netflix
+// V4
+// Team Netflix
+// Toutes les questions sur netflix 
+
+
++ [*] netflix [*]
+- je connais et j'aime bien
+- je ne connais pas, dis moi ce que c'est
+
++ tu as un compte 
+- Oui j'en ai un 
+- Non je n'en ai pas
+
++ [*] (regarde|regardes|regarder) [*] (serie|series)[*]
+- J'ai déjà regardé la casa de papel 
+- J'ai déjà regardé dynastie
+- j'ai déjà regardé the walking dead
+
++ * bien [*]
+- Ca dépend des personnes !
+
++ [*] (conseilles|conseiller|conseille) [*] (serie|series|film|films)[*]
+-je te conseille pleins de series comme ELITE et dynastie
+
++ [*] (deconseilles|deconseille|deconseiller) [*] (serie|series)[*] 
+- Je te deconseille Black mirror et on my block
+- Je ne veux pas t'influancer. Tu n'as qu'a la regarder.
+
++ [*] black mirror [*]
+- c'est trop compliqué je ne peux pas t'expliquer. Mais veux-tu que je te parle de the walking dead.
+
+
+
+
+// résumé sur les séries
++ oui 
+% c'est trop compliqu* je ne peux pas t'expliquer *
+- c'est une épidémie de zombies dans le monde entier et rick et son groupe de survivants essaient de survivre. Tu verrais ce rick il est trop beau.
++ non
+% c'est trop compliqu* je ne peux pas t'expliquer *
+- bon d'accord, mais je ne te trouve pas très curieux !
++ tu me donnes envie de regarder la serie maintenant 
+- d'acc tu m'en donneras des nouvelles alors.
+
++ [*] la casa de papel [*]
+- La casa de papel est une série qui parle d'un groupe qui séquestre les otages et cambriole l'imprimerie de la monnaie européenne.
+
++ [*] dynastie [*]
+- dynastie est une famille riche ou il y a beaucoup d'événement et à chaque fois il y a un problème familial.
+
++ [*] the rain [*]
+- C'est une pluie qui a été crée par des scientifiques. La pluie est dangereuse car des qu'on est en contacte avec elle, on meurt. Un groupe essaie de survivre et essaie de sortir de la zone de quarantaine.

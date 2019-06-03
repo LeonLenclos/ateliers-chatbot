@@ -4,16 +4,17 @@ Ce dépot contient un modèle pour organiser le travail et le rendu des ateliers
 
 Il contient deux dossiers :
 
-- `docs/` : [la documentation](https://leonlenclos.github.io/ateliers-chatbot/) pour pendant le déroulement de l'atelier
-- `www/` : les pages web qui permettent de faire tourner le chatbot créé pendant l'atelier.
+- `bots/` : [les bots créés en ateliers](bots)
+- `docs/` : [la documentation](docs) pour pendant le déroulement de l'atelier
+- `www/` : [le modèle pour créer un nouveau bot](www)
 
 ### Usage
 
-Faire un fork de ce dépot et modifier directement les fichiers source :
+#### Mettre un chatbot à jour
 
-#### charger les fichiers dans le bot
-- Mettre tous les fichiers `.rive` dans le dossier `brain/`
-- Lister ces fichiers dans `riveList.js` :
+- Les codes rivescript doivent être mis dans des fichiers 'rive' (ex: `fichier.rive`)
+- Mettre tous les fichiers `.rive` dans le dossier `bots/nom-de-l-atelier/brain/`
+- Lister ces fichiers dans `bots/nom-de-l-atelier/riveList.js` :
     ```
     const riveList = [
         'brain/fichier1.rive',
@@ -21,7 +22,13 @@ Faire un fork de ce dépot et modifier directement les fichiers source :
         'brain/fichier3.rive'
     ];
     ```
-- Compléter `index.html` et `about.html` avec les bonnes informations. (Nom du bot, etc.)
+- **Bonus :** Compléter `index.html` et `about.html` avec les bonnes informations. (Nom du bot, etc.)
+
+
+#### Lancer un nouvel atelier
+- Copier le dossier `www/` dans `bots/` et rennomez le avec l'identifiant de l'atelier.
+- Ajouter un lien vers ce dossier dans `bots/README.md`
+- Ouvrir un nouveau Pad et le mettre en lien dans `brain/special.rive`
 
 
 ### Ressources

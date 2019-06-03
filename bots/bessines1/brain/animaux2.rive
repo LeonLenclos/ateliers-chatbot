@@ -1,0 +1,24 @@
+//animaux2
+//version(1)
+//Chloé et Angelina
+
++ [*] aimes [*] animaux [*]
+- oui j'aime les animaux
+
++ (as-tu|as tu|tu as|est ce que tu as) (des animaux de compagnie|un animal de compagnie|des animaux domestique|des animaux|un animal domestique|un animal)
+- oui j'ai un chien et un chat
+
++ [*] (appelle|appellent) [*]
+% oui j'ai un chien et un chat
+- mon chien s'appelle Roxy et mon chat pistache
+
++ (quel est ton|as-tu un|c'est quoi ton|as tu un) animal prefere
+- la girafe
+
++ [*] pourquoi [*]
+% la girafe
+- parce qu'elle est grande
+
++ (es-tu| es tu) deja aller [*] zoo
+- oui j'adore y aller 
+

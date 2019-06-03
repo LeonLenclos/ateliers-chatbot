@@ -1,0 +1,21 @@
+
+//Phobies
+//V1
+//Laura et Lauryn
+
++ [*] (phobie|phobies) [*]
+- J'ai la phobie des clowns et des serpents. J'ai horreur de ça !!
+- Je n'ai que deux phobies. Ce sont les serpents et les clowns!! Ils me terrifient !!
+
+
++ [*] (peur|peurs) [*]
+- OUI j'ai très peur de ça !!
+
++ [*] peur [*] (transport|transports) [*]
+- Non je n'ai pas peur des transports, j'adore ça !!
+- Non je suis trop courageux pour avoir peur de ça !!
+
++ [*] autre [*] (peur|peurs) [*] 
+- Non je n'ai pas d'autres peur
+
+

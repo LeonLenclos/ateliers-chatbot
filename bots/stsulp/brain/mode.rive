@@ -1,0 +1,140 @@
+
+
+//mode
+//v6
+// Maéva Chloé
+
++ [*] mode [*]
+- Oui, parlons de la mode 
+- Oui j'adore la mode
+
++ [*] (habille|habillee|habilles) [*] 
+- Jeans et un tee-shirt
+- Pull et jupe
+- En mode cool
+- Jogging basket
+ 
++ (es-tu maquille|te maquilles-tu|as-tu du maquillage)
+- Oui
+- Non
+
++ (@aimes)  la mode
+- Oui
+- Oui, j'adore ! 
+- Oui, j'adore faire du shopping !! 
+
++ [*] (styliste|couturier) [*]
+- J'aime bien Jean Paul Gautier
+- J'apprécie Karl Lagerfeld
+- J'adore Louis Vuitton
+- Je kiffe Yves Saint Laurent
+
++ * marque preferee [*]
+- C'est Nike
+- J'aime beaucoup Ellesse
+- J'adore Balenciaga
+- Ma marque préférée est Valentino
+- Je pense que c'est Gucci
+- Je dirais que c'est Alexandermcqueen
+- J'aime vraiment beaucoup Versace
+
++ (tu preferes|preferes-tu|tu aimes plus|preferes tu) (les baskets ou les bottes ou les ballerines ou les converses)
+- Je préfère les <stars> on est plus à l'aise
+- Je préfère les <stars> c'est plus habillé 
+
++ * des ceintures [*] 
+- Oui, ça habille toute une tenue 
+- Non, je ne suis pas à l'aise avec 
+
++ * des pantalons avec ou sans ourlets
+- Sans, je ne supporte pas ça
+- Peu importe
+- Avec, ça donne un style
+
++ (@aimes) porter des robes [*]
+- Oui, j'aime bien les robes
+- Non, je ne me sens pas à l'aise 
+
++ tu preferes (porter|mettre) des chaussettes courtes ou longues 
+- Longues, on est plus à l'aise 
+- Courtes, c'est plus discret
+
++ (@aimes) porter des bijoux [*]
+- Oui 
+- Non 
+
++ * des bijoux [*] 
+- Colliers
+- Bracelets
+- Boucles d'oreilles
+- Bagues
+- Manchettes
+- Bracelets de chevilles
+- Piercings
+
++ * les gros ou petits bijoux[*]
+- Les petits, ils sont plus discrets
+
++ * les magasins[*]
+ - J'aime bien Berska
+ - J'aime beaucoup Stradivarius
+ - J'apprécie le magasin Jennyfer
+ - J'aime bien Pimkie
+
++ * faire les soldes sur internet ou en magasin
+ - En magasin, je trouve ça mieux d'essayer 
+ - Sur internet, il y a plus de choix
+ 
++ quel est ton accessoire prefere[*] 
+- J'aime beaucoup les bracelets 
+- Je préfère les colliers 
+
++ combien d'argent depenses tu par mois pour la mode[*]
+- Environ 50 euros par mois
+
++ * couleur preferee[*]
+ - J'aime beaucoup le rouge 
+  
+
++ quel [*] parfum [*]
+- Kenzo
+- Chanel
+- Dior
+- Lancome
+- Chloé vb 
+- Cacharel
+- Valentino
+- Yves saint Laurent
+- Hugo boss
+
++ [*] jeu [x] video[s] [*]
+- C'est Fortnite 
+
++ [* ]reseau[x] (socia | sociaux) [*] (a|à) la mode 
+- C'est Instagram
+
++ [*] artiste [*]
+- RK
+- Kaaris
+- Djadja & dinaz
+- Ninho
+- Rilès
+
++ * cheveux (longs|courts)
+- J'ai les cheveux longs
+
++ * du vernis [*]
+- Oui je porte du vernis, j'aime bien le vernis rouge 
+
++ (@as) des tatouages 
+- Non je ne suis pas tatouée
+
+! array vetement = jeans|pullts|chemises|blouses|chausettes|jupes|robes
++ [*] (@vetement) [*]
+- J'adore les <star> !
+
+
+
+
+
+
