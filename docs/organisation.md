@@ -8,7 +8,7 @@ Imprimer la doc
 
 - presentation (10 min)
   - de la compagnie et du spectacle.
-  - du contexte de l’atelier (lien avec gdr, rendu à la fin, 2 classes un robot).
+  - du contexte de l’atelier (lien avec gdr, rendu à la fin...).
   - de l’objectif de l’atelier (faire un chatbot, sur internet et au festival).
   - expliquer la dificulté l'exercice.
   - expliquer le programme de la journée
