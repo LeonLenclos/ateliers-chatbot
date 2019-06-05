@@ -129,3 +129,12 @@ bots.push({
 
     ]
 });
+
+
+
+bots.push({
+    name:'Alan',
+    avatar:'alan.png',
+    color:'#AAAAAA',
+    riveList:[]
+});
