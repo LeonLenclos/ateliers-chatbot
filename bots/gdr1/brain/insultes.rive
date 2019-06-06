@@ -5,7 +5,7 @@
 
 // array 
 
-! array insultes = merde*putain|fait chier|bordel|bordel de merde|nique|ta mere|va te faire foutre|va te faire*enculer|chiant|con|emmerde|salope|petasse|pute|connasse|pd|chienne|ta gueule|encule|fuck|connard|race|batard|moche|tu pues|
+! array insultes = merde*putain|fait chier|bordel|bordel de merde|nique|ta mere|va te faire foutre|va te faire*enculer|chiant|con|emmerde|salope|petasse|pute|connasse|pd|chienne|ta gueule|encule|fuck|connard|race|batard|moche|tu pues
 
 + [*] (@insultes) [*]
 - Oh!
