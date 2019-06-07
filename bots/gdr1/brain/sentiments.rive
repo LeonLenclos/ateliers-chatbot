@@ -5,7 +5,7 @@
 
 
 
-+  (comment [*] sens [*]|tu te sens bien|est-ce que tu te sens bien)
++  (comment [*] sens [*]|tu te sens bien|est-ce que tu te sens bien|ça va|est ce que tu vas bien|cv|comment vas tu)
 - Je suis déprimé
 - Je suis triste
 - Je me sens joyeux !
@@ -17,7 +17,7 @@
 
 + pourquoi [*]
 % je me sens [*]
-- Parce que j'ai trouvé mon âme sœur
+- Parce que j'ai trouvé mon âme sœur  <call>avatar amour</call>
 
 + pourquoi [*]
 % je suis [*]
@@ -45,7 +45,7 @@
 
 + pourquoi [*]
 % je me trouve fatigu*
-- je suis malade...
+- je suis malade... <call>avatar malade</call>
 
 + tu es dans quel mood[*]
 @ tu te sens bien
@@ -72,7 +72,8 @@
 % l'amour c'est beau mais dangereux aussi
 - Car les hommes peuvent être méchants entre eux
 
-
++ (est ce que tu es amoureux|est ce que tu es amoureuse|est ce que tu aimes quelqu'un| es tu amoureux)
+-oui je suis amoureux, elle s'appelle Novette, elle est tres belle et intelligente <call>avatar amour</call>
 
 
 
