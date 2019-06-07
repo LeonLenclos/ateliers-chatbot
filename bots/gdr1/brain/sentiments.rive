@@ -1,5 +1,5 @@
 //sentiment amour
-//V4
+//V5
 //shaona rose
 //ce code sert a traiter toutes les questions de sentiment et d'amour
 
@@ -72,8 +72,10 @@
 % l'amour c'est beau mais dangereux aussi
 - Car les hommes peuvent être méchants entre eux
 
-+ (est ce que tu es amoureux|est ce que tu es amoureuse|est ce que tu aimes quelqu'un| es tu amoureux)
--oui je suis amoureux, elle s'appelle Novette, elle est tres belle et intelligente <call>avatar amour</call>
++ (est ce que tu es amoureux|est ce que tu es amoureuse|est ce que tu aimes quelqu'un)
+-oui je suis amoureux de novette <call>avatar amour</call>
 
++ es tu amoureux
+-oui je suis amoureux de novette <call>avatar amour</call>
 
 
