@@ -11,7 +11,7 @@
 
 ! array cava = ca va|cv|comment vas-tu|tu vas bien|comment tu vas|comment allez vous|c v
 
-! array aurevoir = a bientot|a plus|au revoir|bye bye|a+|bye
+! array aurevoir = a bientot|a plus|au revoir|bye bye|bye|a+
 
 ! array aurevoirbot = a+|a bientot|a plus|au revoir|bye bye|bye|salut|a la prochaine
 
@@ -31,8 +31,6 @@
 - Yo
 - Wesh
 - Hey
-
-
 
 
 
