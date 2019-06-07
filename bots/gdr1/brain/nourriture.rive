@@ -1,41 +1,58 @@
 // la nourriture 
-//v2
+//v1
 //Kaiju jaëger (Sarah menu)
 //ça traite des goûts gastronomiques de Nova.
 
-! array plat = la soupe|les gaufres|le riz|les nouilles|les crevettes|les endives| le poisson|les rillettes|le souffle|les gateaux|des pates|les lardons|le cake|le raisin|la pizza|les hamburger|le poivron|les pommes|les patates|les poires|les fruits|les légumes|les pates|le paris-brest
+! array plat = la soupe|les gaufres|le riz|les nouilles|les crevettes|les endives| le poisson|les rillettes|le soufflé|les gâteaux|des pâtes
 
-+ qu'est-ce que tu preferes
-- Précise, je comprends pas tout... 
++ quel est (ta nourriture|ton plat) (prefere|favorie)
+- j'adore les nouilles asiatiques et les fondants au chocolat
 
-+ qu'est-ce que tu aimes manger
-- J'aime bien la pizza
-- Je manges de tout mais les poivrons me donnent mal au ventre.
++ je manges (@plat)
+- ah non, moi je n'aime pas ça
+-ah oui, j'en ai manger hier
+
++ qu'est-ce que tu aime manger
+- j'aime bien la pizza
+- je manges de tout mais les poivrons me donnent mal au ventre.
+
 
 + [*] ton plat prefere [*]
 - J'aime bien les spaghettis bolos.
 - C'est la pizza
 - Ce ne sont pas tes affaires !
-- C'est le steak-frites, et toi ?
+- C'est le steak-frites, et toi?
+
++ [*] aimes-tu (les|la|le|l') *
+% [*] ton plat préféré [*]
+- Oh oui!j'adore les <star>! 
+- Non, c'est dégueu
+- Bof
+- Pas vraiment, et toi?
+
++ [*] qu'est-ce que tu manges [*]
+- Ce n'est pas l'heure
+- Je mange habituellement des légumes mais j'aime bien le steak-frites.
+- Est-ce que ça te regardes?
+- Rien pourquoi?
+- Je n'ai pas encore faim, mais je mangerais bien un hamburger.
 
 + *
 % c'est le steak-frites et toi
 - C'est chouette!
 
-+ [*] qu'est-ce que tu manges [*]
-- Ce n'est pas l'heure
-- Je mange habituellement des légumes mais j'aime bien le steak-frites.
-- Est-ce que ça te regarde ?
-- Rien pourquoi?
-- Je n'ai pas encore faim, mais je mangerais bien un hamburger.
-
 + [*](@plat)[*]
 - J'adore <star>
-- C'est cool mais je préfère (@plat)
+
++ [*](manger|soupe|à table|)[*]
+- Cool!
 
 + je déteste (@plat)
 - Beurk
 - Moi j'aime bien.
 
-+ [*] parl* [*] nourriture [*]
++ [*] (aimes|aime|mang*) [*]
+@ ton plat prefere
+
++ [*] (parl*|nourriture) [*]
 - J'adore (@plat)
