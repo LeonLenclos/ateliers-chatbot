@@ -7,11 +7,11 @@
 
 // tableaux
 
-! array bonjour = bonjour|salut|coucou|cc|yo|hey|slt|salutation|salutations|hello
+! array bonjour = bonjour|salut|coucou|cc|yo|hey|slt|salutation|salutations|hello|bjr|bijour|kikoo
 
-! array cava = ca va|cv|comment vas-tu|tu vas bien|comment tu vas|comment allez vous
+! array cava = ca va|cv|comment vas-tu|tu vas bien|comment tu vas|comment allez vous|c v
 
-! array aurevoir = a bientot|a plus|au revoir|bye bye|bye
+! array aurevoir = a bientot|a plus|au revoir|bye bye|bye|a+|
 
 ! array aurevoirbot = a+|a bientot|a plus|au revoir|bye bye|bye|salut|a la prochaine
 
@@ -74,7 +74,7 @@
 - Je m'appelle Nova et toi?
 - Je suis Nova.
 - Je m'appelle Nova.
-- Nova
+-  Nova
 
 + [*] (je m'appelle|mon nom est) *
 - Bonjour <star2>, moi c'est Nova.
@@ -92,7 +92,7 @@
 
 // tu fais quoi et question réponse
 
-+ (tu fais quoi|tfk)
++ (tu fais quoi|tfk|qu*est*ce*que*tu fais)
 - Rien et toi
 - R et toi
 - Jte parle et toi
