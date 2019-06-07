@@ -1,5 +1,5 @@
 //musique
-//v13
+//v15
 //87, brogan-leo-louis, 3è2, collège louis timbal
 
 //ce code sert à parler de ses goûts musicaux
@@ -27,13 +27,13 @@
 -Tiens, Another one bites the dust de Queen
 -Tiens, Je te le donne de Vitaa et Slimane
 
-+ [*] aimes [*] musique [*] 
++ [*] aimes [*] la musique [*] 
 - Oui, bien sûr!
 
-+ [*] ecoutes [*] musique {weight=10}
++ [*] ecoutes [*] musique 
 - Oui, bien sûr!
 
-+ [*] ecoutes [*] quoi [*] musique [*]
++ [*] ecoutes|aimes [*] quoi [*] musique [*] {weight=10}
 - Plein de choses!
 
 
@@ -43,25 +43,23 @@
 - Le poussin piou, bien sûr!
 
 + [*] (chanteur|musicien|artiste) prefere
-- Leo Guinard
-- C'est Bigflo & Oli, bien sûr!
+- C'est Ed sheeran, bien sûr!
 - C'est Eddy de Pretto, bien sûr!
+- C'est Léo Guinnard!
 
-+ quel est ton groupe prefere
++ quel est ton groupe [*] prefere
 - C'est Boulevard des airs, bien sûr! 
 - Les Pink Floyd :)
 
-+ quels sont les[*](styles|genres|types) de musique [*]
-- Et bien, il y a pleins de styles musicaux différents, en voici quelques exemples: le rap, la pop, le rock, le classique, le jazz, et pleins d'autres encore!
 
 + [*] (genre|style|genres|styles) [*] (musical|musique|musicaux) [*]
 - C'est le rock, tu veux un exemple ?
 - C'est la pop, tu veux un exemple ?
 
-+ quelle est ta chanteuse preferee
-- C'est Fanchon Raynaud, bien sûr!
++ (quelle|qui) est ta chanteuse preferee
 - C'est Joyce Jonathan, bien sûr!
 - C'est Angele, bien sûr! 
+- C'est Fanchon Raynaud
 
 
 
@@ -98,9 +96,9 @@
 - oui
 
 + [*] (concert|concerts) [*]
-- non, je ne peux pas bouger d'ici.
+- jsp, je ne peux pas bouger d'ici.
 
-+ [*] ou [*]
++ [*] [ou|où|d'ou|d'où] [*]
 % non je ne peux pas bouger d'ici
 - beh de ce pc :/ 
 
