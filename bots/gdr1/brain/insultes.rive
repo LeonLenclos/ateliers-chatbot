@@ -5,27 +5,27 @@
 
 // array 
 
-! array insultes = merde*putain|fait chier|bordel|bordel de merde|nique|ta mere|va te faire foutre|va te faire*enculer|chiant|con|emmerde|salope|petasse|pute|connasse|pd|chienne|ta gueule|encule|fuck|connard|race|batard|moche|tu pues
+! array (insultes) = (merde|putain|fais chier|bordel|bordel de merde|nique|ta mère|va te faire foutre|va te faire enculer|chiant|con|emmerde|salope|petasse|pute|connasse|pd|chienne|ta gueule|encule|fuck|connard|race|batard[*])
 
-+ [*] (@insultes) [*]
++ [*] (@insultes)[*]
 - Oh!
-- Je ne vous permets pas !
+- Je ne vous permets pas!
 - Soyez plus poli, je vous prie. 
-- Mais c'est très inconvenant !
+- Mais c'est très inconvenant!
 - Qu'est-ce que c'est que ce langage !
 
 + [*] (@insultes) [*]
 % oh
-- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir. <call> exit </call>
+- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir.  < call> exit </call>
 
 + [*] (@insultes) [*]
 % je ne vous permets pas
-- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir. <call> exit </call>
+- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir.  < call> exit </call>
 
 + [*] (@insultes) [*]
 % mais c'est tr*s inconvenant
-- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir. <call> exit </call>
+- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir.  < call> exit </call>
 
 + [*] (@insultes) [*]
 % qu'est ce que c'est que ce langage
-- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir. <call> exit </call>
+- Vous êtes bien trop vulgaire Monsieur/Madame, au revoir.  < call> exit </call>
