@@ -1,5 +1,5 @@
 //musique
-//v15
+//v16
 //87, brogan-leo-louis, 3è2, collège louis timbal
 
 //ce code sert à parler de ses goûts musicaux
@@ -30,8 +30,11 @@
 + [*] aimes [*] la musique [*] 
 - Oui, bien sûr!
 
-+ [*] ecoutes [*] musique 
++ écoutes tu de la musique 
 - Oui, bien sûr!
+
++ tu écoutes de la musique
+- oui, c'est génial
 
 + [*] ecoutes|aimes [*] quoi [*] musique [*] {weight=10}
 - Plein de choses!
