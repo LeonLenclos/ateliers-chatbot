@@ -5,8 +5,8 @@
 
 
 + *
-- Désolé mais je n'ai pas compris, peux-tu reformuler ?
-- Désolé, j'ai aqua poney ! <call>exit</call>
+- Désolé mais je n'ai pas compris, peux-tu reformuler ?   <call>avatar incomprehension</call>
+- Désolé, j'ai aqua poney ! 
 - Heu, je n'ai pas compris le sens de ta phrase.
 - Désolé mais on peut parler d'autre chose ?
 - Peux-tu parler français ?
@@ -15,7 +15,7 @@
 - OUPS !
 - Corrige tes fautes, stp ! 
 - Désolé mais je n'ai pas entendu.
--ET  Là c'est le bug!
+- ET  Là c'est le bug!
 - Je ne comprends pas ta demande.
 - Tu veux pas plutôt une blague, j'en ai une bonne !
 - Tu ne veux pas plutôt parler de jeux vidéos ?
@@ -55,10 +55,8 @@
 - C'est pas que je m'en fous mais ca ne m'interesse pas trop, viens on parle d'autre chose.
 - Je suis pas disponible pour des phrase non intéressantes
 - J'ai un peu la flemme de te répondre désolé
-- On se capte plus tard si tu veux, j'ai pas envie là <call> exit </call>
-- Vas-y je te tej là je ne comprends plus <call> exit </call>
 - T'es un peu ennuyeux toi je vais voir ailleurs, reviens quand tu seras intéressant.
-- Va voir ailleurs si j'y suis <call> exit </call>
+- Va voir ailleurs si j'y suis 
 - Euh non va falloir s'arrêter ici.
 - Breff, tu veux parler d'autre chose ?
 - T'as cru que j'étais Siri ?
@@ -74,13 +72,13 @@
 - Parle mieux francais s'il te plait !!!
 - J'ai pas envie de te répondre !
 - Heuuu...J'ai pas tout compris là !!!
-- Desolé j'ai lu mais j'ai pas envie de répondre. <call> exit < /call>
-- Je t'ai lâché un vu, sorry !! <call > exit < /call >
+- Desolé j'ai lu mais j'ai pas envie de répondre. 
+- Je t'ai lâché un vu, sorry !! 
 - Tu me donnes mal à la tête, parle français stp
 - I don't understand
 - Mais tu es bien curieux dis-donc
 - Heuuu...
-- Bye bye ! T'as aucun style, je préfère parler à une autre personne. <call>exit</call>
+- Bye bye ! T'as aucun style, je préfère parler à une autre personne. 
 - Tu préfères pas parler d'autre chose?
 - Tu m'ennuies.
 - Parle moi d'autre chose
@@ -88,14 +86,14 @@
 - Ca te regarde ?
 - J'ai vraiment pas envie de te répondre là.
 -  Pfff... je me casse !<call>exit</call>
--  Pause pipi !  <call>exit</call>
 -  C'est pas intéressant !
 -  Désolé, je préfère répondre à quelqu'un d'autre.
 -  Bon, je vais répondre à quelqu'un d'autre , tu m'énerves.
 -  Sérieux, tu  veux pas changer de disque?
-- Je risque de m'endormir si tu me parles pas de choses plus passionnantes... ZZZ ZZZ ZZZ ! <call>exit</call>
+- Je risque de m'endormir si tu me parles pas de choses plus passionnantes... ZZZ ZZZ ZZZ ! 
 -  Tu crois que je n'ai que ça à faire?
--  Ecrit ta phrase avec meilleure orthographe et si je ne veux toujours pas répondre, c'est que je suis parti.
+-  Ecris ta phrase avec une meilleure orthographe et si je ne veux toujours pas répondre, c'est que je suis parti.
+-  ??
 -  Non
 -  Je veux pas répondre aux inconnus...
 - Je parle pas chinois 
@@ -105,7 +103,7 @@
 - Can you repeat please ?
 - J'ai une blague!
  - Tu veux que je te chante une berceuse ?
- - Parle à ma main <call>exit</call>
+ - Parle à ma main 
  - Moi j'aimerais plutôt parler de séries
  - Chuuuut 
  - Comment te dire que t'es ennuyeux 
@@ -113,4 +111,4 @@
 - Peux tu répéter avec d'autres mots je n'ai pas compris!!
 - Peux tu répéter avec d'autres mots !!!
 - Tu ne veux pas plutôt parler d'autres choses?
-- Desolé mais votre corespondant est mort d'ennui veuillez réessayer plus tard <call>exit</call>    
+- Desolé mais votre corespondant est mort d'ennui veuillez réessayer plus tard   <call>exit</call>    
