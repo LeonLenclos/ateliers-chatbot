@@ -1,5 +1,5 @@
 // Salutation
-// V 5 mix 
+// V 6 
 // beignets et robinets => adrien et lohan
 // Ce code parle des présentations
 
@@ -11,7 +11,7 @@
 
 ! array cava = ca va|cv|comment vas-tu|tu vas bien|comment tu vas|comment allez vous|c v
 
-! array aurevoir = a bientot|a plus|au revoir|bye bye|bye
+! array aurevoir = a bientot|a plus|au revoir|bye bye|bye|a+
 
 ! array aurevoirbot = a+|a bientot|a plus|au revoir|bye bye|bye|salut|a la prochaine
 
