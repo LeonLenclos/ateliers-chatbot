@@ -1,11 +1,10 @@
-
 // Fourre tout
 // V1
 // Collectif
 //Attention les fourretout peuvent se déclencher pour une question mais aussi pour une phrase
 
 
-+ *
++  [*]
 - Désolé mais je n'ai pas compris, peux-tu reformuler ?   <call>avatar incomprehension</call>
 - Désolé, j'ai aqua poney ! 
 - Heu, je n'ai pas compris le sens de ta phrase.
