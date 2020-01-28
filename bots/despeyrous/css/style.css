@@ -1,0 +1,108 @@
+body {
+  font-family: monospace, mono;
+  background: black;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.head{
+    width: 500px;
+}
+
+
+.corps{
+  width: 800px;
+  margin: auto;
+
+    display: flex;
+  flex-direction: column;
+}
+
+#discussion-container {
+  font-size: 20pt;
+  margin: 5px;
+  border-top: 1px solid white;
+  padding: 0;
+  
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+#discussion-container::-webkit-scrollbar { 
+  /* This is the magic bit for WebKit */
+  display: none;
+}
+
+
+
+
+
+#form{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  
+}
+
+
+
+#about {
+  width: 90px;
+}
+
+
+#msg, #talk, #about, p {
+  padding: 10px;
+  margin:3px;
+
+  display: block;
+  border: 0;
+  border-radius : 15px;
+  background: white;
+  color: black;
+
+}
+p {
+  margin:0, auto;
+  padding: 30px;
+  
+}
+
+#msg:hover, #talk:hover, #about:hover{
+    background: #ccc;
+
+}
+#msg {
+
+  width:70%;
+}
+#talk {
+  width:20%;
+}
+ul {
+  list-style: none;
+margin:20px;
+  padding: 0;
+}
+li{
+  display: block;
+margin:0;
+  padding: 10px;
+ margin : 10px;
+  min-height: 20px;
+} 
+
+li.bot {
+  font-weight: bold;
+}
+li::before{
+  content:'> ';
+} 
