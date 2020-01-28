@@ -1,6 +1,6 @@
 # Chatbots créés en atelier
 
-- [Nova : Le chatbot de Despeyrous](despeyrous)
+- [Le chatbot de Despeyrous](despeyrous)
 - [Nova : Le chatbot de Chateauponsac](gdr1)
 - [Natacha : Le chatbot de St-Sulpice Les Feuilles](stsulp)
 - [Lucas : Le chatbot de Bessines](bessines1)
