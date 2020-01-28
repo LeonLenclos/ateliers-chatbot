@@ -33,7 +33,7 @@ Il contient deux dossiers :
 
 ### Ressources
 
-- Aire de jeu : https://play.rivescript.com/
-- Doc officielle : https://www.rivescript.com/
-- Pad : https://etherpad.wikimedia.org/
-- Doc Nokill : https://github.com/LeonLenclos/ateliers-chatbot
+- Aire de jeu : [https://play.rivescript.com/](https://play.rivescript.com/)
+- Doc officielle : [https://www.rivescript.com/](https://www.rivescript.com/)
+- Pad : [https://etherpad.wikimedia.org/](https://etherpad.wikimedia.org/)
+- Doc Nokill : [https://github.com/LeonLenclos/ateliers-chatbot](https://github.com/LeonLenclos/ateliers-chatbot)
