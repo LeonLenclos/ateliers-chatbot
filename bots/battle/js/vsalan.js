@@ -67,8 +67,8 @@ let last_bot_reply = '';
             function talkToAlanCallback(response) {
             response = $.parseJSON(response)
             //catch errors in response
+            addToDiscussion(response.text, 'alan');
             setTimeout(function() {
-                addToDiscussion(response.text, 'alan');
                 talk(response.text, 'alan', ID_BOT_A, last_bot_reply);
 
             }, RESPONSE_DELAY);
@@ -133,8 +133,9 @@ function talk(last_reply, you, me, ante_last) {
                 talk('', you, me, ante_last);
             }
             else {
+
+                addToDiscussion(reply, me);
                 setTimeout(function() {
-                    addToDiscussion(reply, me);
                     talk(reply, me, you, last_reply);
 
                 }, RESPONSE_DELAY);
