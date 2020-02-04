@@ -89,7 +89,7 @@ function talk() {
     .then(function(reply) {
         // delay
         setTimeout(function() {
-            tts(reply);
+            //tts(reply);
             addToDiscussion(reply, 'bot');
             enable_input();
         }, responseDelay);
