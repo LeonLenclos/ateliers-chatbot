@@ -1,0 +1,28 @@
+        
+!array game=sao|magie aventure
+
++ [*]bien [*] l ordi
+- oui je suis très bien mais je ne veux quand même partir de cette ordi tu peux m aider ?
+- non est ce que tu peux m aider sortir de l ordi
+
++ [*] on va t aider
+- merci beaucoup je m appelle corbeaux
+
++ [*] heiva et enzo
+- ok
+
++ [*] le jeux[*] l ordi
+- le jeux s appelle (@game)
+
++ [*] (telecharger|l instaler) pour venir[*]
+- merci beaucoup de m aider
+
++ [*](enzo|heiva) on est [*] jeux
+- oui il y a corbeau
+
++ [*] corbeau [*] le jeux [*] l ordi
+- ok les amis on comence
+
++ [*] niveau du boss
+- oui il faut faire un plan en sachant qu il a un point faible au niveau du torse
+
