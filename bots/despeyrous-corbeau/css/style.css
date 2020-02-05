@@ -1,0 +1,151 @@
+body {
+  font-family: monospace, mono;
+  background: #222;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height:100vh;
+  
+}
+.head{
+    width: 500px;
+}
+
+
+.corps{
+  width: 800px;
+  margin: auto;
+
+    display: flex;
+  flex-direction: column;
+  background: #333;
+  height:90%;
+
+}
+
+#discussion-container {
+  font-size: 20pt;
+  margin: 5px;
+  padding: 0;
+  
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  scrollbar-width: none;
+
+}
+
+#discussion-container::-webkit-scrollbar { 
+  /* This is the magic bit for WebKit */
+  display: none;
+}
+
+
+
+
+
+#form{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin-top: auto;
+  border: 2px solid #999;
+  padding: 0;
+  
+}
+
+
+
+#about {
+  width: 90px;
+}
+
+
+#msg, #talk, #about, p {
+  padding: 10px;
+  margin:0;
+
+  display: block;
+  border: 0;
+  background: #fff0;
+  color: #999;
+
+}
+p {
+  margin:0, auto;
+  padding: 30px;
+  
+}
+
+#msg:hover, #talk:hover, #about:hover{
+    color: #fff;
+
+}
+#msg {
+
+  width:90%;
+}
+#msg {
+  border-right: 2px solid #999;
+}
+  
+#talk {
+  width:10%;
+}
+ul {
+  list-style: none;
+margin:20px;
+  padding: 0;
+}
+li{
+  display: block;
+margin:0;
+  padding: 10px;
+ margin : 10px;
+  min-height: 20px;
+    border-bottom: 1px solid #999;
+
+} 
+
+li.bot {
+}
+
+
+
+
+li::before{
+    font-weight: bold;
+  display: block;
+  font-size: 15pt;
+
+}
+
+li.bot::before{
+    color:#f66;
+
+  content: 'corbeau:';
+
+}
+
+
+li.human::before{
+    color:#7bf;
+
+  content: 'despeyrous:';
+
+}
+/*
+li::before{
+  content: 'pseudo';
+  display: block;
+  width:60px;
+  height:60px;
+  border-radius: 30px;
+  background:white;
+} */
