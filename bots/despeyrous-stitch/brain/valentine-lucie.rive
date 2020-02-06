@@ -1,29 +1,19 @@
 
-+ coucou sa va  
-- oui je viens de faire une superbe decouverte 
-- non je viens d'apprendre une mauvaise nouvelle.
++ coucou ca va  
+- Oui je viens de faire une superbe découverte. 
+- Non je viens d'apprendre une mauvaise nouvelle.
 
-+ que ce passe t il
-% oui *
-- * decouvrir un nouveau systeme solaire
++ que se passe  t il
+% oui*
+- Je viens de découvrir un nouveau système solaire.
 
-+ que ce passe t il
-% non *
-- *planete * terre * annimaux etranges 
++ que se passe t il
+% non*
+- Il y a une planète qui ressemble drôlement à la terre et il y a des animaux étranges. 
 
-+ vas tu explorer *
-- non car * .mais j'y retouneré bientot
-+ coucou sa va  
-- oui je viens de faire une superbe decouverte 
-- non je viens d'apprendre une mauvaise nouvelle.
++ [*]vas tu [*]
+- Non car ma mission est terminée. Mais j'y retournerai bientôt.
 
-+ que ce passe t il
-% oui *
-- * decouvrir un nouveau systeme solaire
++ [*] appel [*]
 
-+ que ce passe t il
-% non *
-- *planete * terre * annimaux etranges 
-
-+ vas tu explorer *
-- non car * .mais j'y retouneré bientot
+- Ok. A plus!

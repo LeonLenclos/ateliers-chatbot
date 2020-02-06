@@ -1,28 +1,34 @@
         
 !array game=sao|magie aventure
 
-+ [*]bien [*] l ordi
-- oui je suis très bien mais je ne veux quand même partir de cette ordi tu peux m aider ?
-- non est ce que tu peux m aider sortir de l ordi
++ [*]bien[*]ordi
+- Oui je suis très bien mais je ne veux quand même partir de cet ordi, tu peux m'aider ?
+- Non est ce que tu peux m 'aider à sortir de l ordi?
 
 + [*] on va t aider
-- merci beaucoup je m appelle corbeaux
+- Merci beaucoup je m'appelle corbeau.
+- Merci, mon nom est corbeau.
 
-+ [*] heiva et enzo
-- ok
++ [*] heiva enzo et flavio
+- Ok!
+- D'accord!
 
-+ [*] le jeux[*] l ordi
-- le jeux s appelle (@game)
++ [*] jeu[*] 
+- Le jeu s' appelle sao.
+- Le nom du jeu est magie aventure.
 
 + [*] (telecharger|l instaler) pour venir[*]
-- merci beaucoup de m aider
+- Merci beaucoup de m 'aider.
+- Merci les amis.
 
-+ [*](enzo|heiva) on est [*] jeux
-- oui il y a corbeau
++ [*](enzo|heiva|flavio) on est [*] jeu
+- Bonjour les amis.
+- Salut les amis.
 
-+ [*] corbeau [*] le jeux [*] l ordi
-- ok les amis on comence
++ [*] corbeau [*] le jeu pour partir
+- Ok les amis on commence.
+- Merci les amis on commence.
 
 + [*] niveau du boss
-- oui il faut faire un plan en sachant qu il a un point faible au niveau du torse
-
+- Oui il faut faire un plan en sachant qu'il a un point faible au niveau du torse.
+- Oui les amis mais je suis content car il a un point faible au niveau du torse.
