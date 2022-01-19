@@ -2,7 +2,7 @@
 
 Ce dépot contient un modèle pour organiser le travail et le rendu des ateliers chatbots.
 
-Il contient deux dossiers :
+Il contient trois dossiers :
 
 - `bots/` : [les bots créés en ateliers](bots)
 - `docs/` : [la documentation](docs) pour pendant le déroulement de l'atelier
