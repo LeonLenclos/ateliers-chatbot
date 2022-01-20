@@ -1,0 +1,76 @@
+body{
+    font-family: monospace;
+    text-align: center;
+    
+    background: #fff;
+    font-size: 14pt;
+}
+/* SHARED */
+
+input, button, #discussion-container{
+    color : #000;
+    background: #fdd;
+    border:  1px #000;
+    font-size: 14pt;
+}
+
+
+/* DISCUSSION BLOCK */
+
+#discussion-container {
+    height: 300px;
+    width : 500px;
+    overflow-y: scroll;
+    margin: 10px auto;
+}
+
+#discussion {
+    margin: 10px;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+}
+
+
+#discussion > li:before {
+    content: "- ";
+}
+
+.bot {
+    font-weight: bold;
+}
+
+/* FORM */
+
+input {
+    width: 400px;
+}
+
+button {
+    width: 90px;
+    margin: 5px;
+}
+
+button:hover {
+    font-weight: bold;
+}
+
+input:disabled, button:disabled {
+    background: #eee;
+    color: #aaa;
+    font-weight: normal;
+}
+
+/* OTHER */
+
+h1 {
+    color: #fdd;
+}
+
+a, a:visited{
+    color: #000;
+}
+
+a:hover {
+    color: #aaa;
+}
