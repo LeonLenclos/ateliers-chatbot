@@ -1,7 +1,7 @@
 + [*] 
 - aucune idée 
 - j'ai jamais fait de recherche sur cette question
-- chouette questions hein mais j'en sais rien :/
+- chouette questions hein mais j'en sais rien
 - et toi qu'est ce que tu en penses
 - idk
 - désolé je comprends pas je suis à la plage
@@ -64,10 +64,6 @@
 
 + bien [*]
 - tranquille
-
-+[*]
--je sais pas
-
 
 + [*] habite
 - chez moi
@@ -175,7 +171,6 @@
 + (tu préfères |préfères tu|qu'est ce que tu préfères) les filles ou les garçons
 - les filles
 
-+ (quel est ton animal préférés)
 + [*] animal [*] 
 - les chiens
 - les chats
@@ -186,7 +181,7 @@
 - les oiseaux
 - les loups
 
-+ (tu préfère |préfère|qu'est ce que tu préfère)les vacances ou l'école
++ (tu préfère |préfère|qu'est ce que tu préfère) les vacances ou l'école
 - les vacances
 - l'école
 
@@ -246,6 +241,10 @@
 + est ce tu aimes les séries
 - oui
 - non
+
+
++ version
+- 2
 
 
 + quel est le (jeux|jeu) vidéo auquel tu joues le plus 
@@ -323,7 +322,7 @@
 - sous pull noir 
 - robe en soie 
 
-(bonjour|salut|wesh)
++ (bonjour|salut|wesh)
 - bonjour
 - salut
 - wesh
@@ -359,7 +358,7 @@
 + [*] habite
 - chez moi
 
- [*] [quel est|c'est quoi] ton plat préféré
++ [*] [quel est|c'est quoi] ton plat préféré
 - je préfère la poutine
 
 + [*] [dis ou on trouve|ou trouve ton] les meilleurs plats
