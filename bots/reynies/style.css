@@ -9,8 +9,8 @@ body{
 
 input, button, #discussion-container{
     color : #000;
-    background: #fdd;
-    border:  1px #000;
+    background: #fee;
+    border:  1px solid #000;
     font-size: 14pt;
 }
 

@@ -1,5 +1,6 @@
 # Chatbots créés en atelier
 
+- [Un chatbot de Labastide st Pierre](labastide)
 - [Un chatbot de Reynies](reynies)
 - [Corbeau : Un chatbot de Despeyrous](despeyrous-corbeau)
 - [Stitch : Un chatbot de Despeyrous](despeyrous-stitch)
