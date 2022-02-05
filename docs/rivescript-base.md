@@ -8,7 +8,7 @@ RiveScript est un **langage de programmation** qui sert à programmer des **chat
 
 ## Le RiveScript Playground
 
-Pour commencer à utiliser RiveScript, une bonne solution est d'aller sur l'*aire de jeu RiveScript* (*RiveScript Playground*) : le lien est sur le pad.
+Pour commencer à utiliser RiveScript, une bonne solution est d'aller sur l'*aire de jeu RiveScript* (*RiveScript Playground*) : le lien est [ici](https://play.rivescript.com/).
 
 Une fois sur cette page, supprimez tout le contenu de la zone jaune.
 
